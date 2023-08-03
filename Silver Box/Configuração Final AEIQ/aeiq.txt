@@ -1,0 +1,2683 @@
+Exp: 1 - 	 Ger: 1 - 	 Best:    0.25564 - 	 Mean: 3080981.80787 - 	 AQreal:   50.78165  	 
+Exp: 1 - 	 Ger: 2 - 	 Best:    0.24137 - 	 Mean:    1.23684 - 	 AQreal:   50.78165  	 
+Exp: 1 - 	 Ger: 3 - 	 Best:    0.24137 - 	 Mean:    0.40600 - 	 AQreal:   50.78165  	 
+Exp: 1 - 	 Ger: 4 - 	 Best:    0.24137 - 	 Mean:    0.32023 - 	 AQreal:   50.78165  	 
+Exp: 1 - 	 Ger: 5 - 	 Best:    0.24137 - 	 Mean:    0.29652 - 	 AQreal:   36.65809  	 
+Exp: 1 - 	 Ger: 6 - 	 Best:    0.24067 - 	 Mean:    0.27492 - 	 AQreal:   36.65809  	 
+Exp: 1 - 	 Ger: 7 - 	 Best:    0.23833 - 	 Mean:    0.26354 - 	 AQreal:   36.65809  	 
+Exp: 1 - 	 Ger: 8 - 	 Best:    0.23714 - 	 Mean:    0.25715 - 	 AQreal:   36.65809  	 
+Exp: 1 - 	 Ger: 9 - 	 Best:    0.23714 - 	 Mean:    0.25394 - 	 AQreal:   36.65809  	 
+Exp: 1 - 	 Ger: 10 - 	 Best:    0.23623 - 	 Mean:    0.25095 - 	 AQreal:   25.38470  	 
+Exp: 1 - 	 Ger: 11 - 	 Best:    0.23623 - 	 Mean:    0.24790 - 	 AQreal:   25.38470  	 
+Exp: 1 - 	 Ger: 12 - 	 Best:    0.23623 - 	 Mean:    0.24545 - 	 AQreal:   25.38470  	 
+Exp: 1 - 	 Ger: 13 - 	 Best:    0.23411 - 	 Mean:    0.24276 - 	 AQreal:   25.38470  	 
+Exp: 1 - 	 Ger: 14 - 	 Best:    0.23411 - 	 Mean:    0.24127 - 	 AQreal:   25.38470  	 
+Exp: 1 - 	 Ger: 15 - 	 Best:    0.23274 - 	 Mean:    0.23976 - 	 AQreal:   32.92849  	 
+Exp: 1 - 	 Ger: 16 - 	 Best:    0.23274 - 	 Mean:    0.23921 - 	 AQreal:   32.92849  	 
+Exp: 1 - 	 Ger: 17 - 	 Best:    0.22972 - 	 Mean:    0.23815 - 	 AQreal:   32.92849  	 
+Exp: 1 - 	 Ger: 18 - 	 Best:    0.22972 - 	 Mean:    0.23738 - 	 AQreal:   32.92849  	 
+Exp: 1 - 	 Ger: 19 - 	 Best:    0.22972 - 	 Mean:    0.23682 - 	 AQreal:   32.92849  	 
+Exp: 1 - 	 Ger: 20 - 	 Best:    0.22972 - 	 Mean:    0.23598 - 	 AQreal:   27.06279  	 
+Exp: 1 - 	 Ger: 21 - 	 Best:    0.22972 - 	 Mean:    0.23537 - 	 AQreal:   27.06279  	 
+Exp: 1 - 	 Ger: 22 - 	 Best:    0.22893 - 	 Mean:    0.23474 - 	 AQreal:   27.06279  	 
+Exp: 1 - 	 Ger: 23 - 	 Best:    0.22893 - 	 Mean:    0.23445 - 	 AQreal:   27.06279  	 
+Exp: 1 - 	 Ger: 24 - 	 Best:    0.22893 - 	 Mean:    0.23399 - 	 AQreal:   27.06279  	 
+Exp: 1 - 	 Ger: 25 - 	 Best:    0.22893 - 	 Mean:    0.23347 - 	 AQreal:   24.06387  	 
+Exp: 1 - 	 Ger: 26 - 	 Best:    0.22893 - 	 Mean:    0.23257 - 	 AQreal:   24.06387  	 
+Exp: 1 - 	 Ger: 27 - 	 Best:    0.22893 - 	 Mean:    0.23222 - 	 AQreal:   24.06387  	 
+Exp: 1 - 	 Ger: 28 - 	 Best:    0.22847 - 	 Mean:    0.23181 - 	 AQreal:   24.06387  	 
+Exp: 1 - 	 Ger: 29 - 	 Best:    0.22847 - 	 Mean:    0.23154 - 	 AQreal:   24.06387  	 
+Exp: 1 - 	 Ger: 30 - 	 Best:    0.22847 - 	 Mean:    0.23149 - 	 AQreal:   26.94999  	 
+Exp: 1 - 	 Ger: 31 - 	 Best:    0.22847 - 	 Mean:    0.23133 - 	 AQreal:   26.94999  	 
+Exp: 1 - 	 Ger: 32 - 	 Best:    0.22847 - 	 Mean:    0.23099 - 	 AQreal:   26.94999  	 
+Exp: 1 - 	 Ger: 33 - 	 Best:    0.22760 - 	 Mean:    0.23087 - 	 AQreal:   26.94999  	 
+Exp: 1 - 	 Ger: 34 - 	 Best:    0.22760 - 	 Mean:    0.23067 - 	 AQreal:   26.94999  	 
+Exp: 1 - 	 Ger: 35 - 	 Best:    0.22760 - 	 Mean:    0.23063 - 	 AQreal:   30.82505  	 
+Exp: 1 - 	 Ger: 36 - 	 Best:    0.22760 - 	 Mean:    0.23048 - 	 AQreal:   30.82505  	 
+Exp: 1 - 	 Ger: 37 - 	 Best:    0.22760 - 	 Mean:    0.23037 - 	 AQreal:   30.82505  	 
+Exp: 1 - 	 Ger: 38 - 	 Best:    0.22760 - 	 Mean:    0.23027 - 	 AQreal:   30.82505  	 
+Exp: 1 - 	 Ger: 39 - 	 Best:    0.22665 - 	 Mean:    0.23004 - 	 AQreal:   30.82505  	 
+Exp: 1 - 	 Ger: 40 - 	 Best:    0.22665 - 	 Mean:    0.22983 - 	 AQreal:   27.74490  	 
+Exp: 1 - 	 Ger: 41 - 	 Best:    0.22665 - 	 Mean:    0.22965 - 	 AQreal:   27.74490  	 
+Exp: 1 - 	 Ger: 42 - 	 Best:    0.22665 - 	 Mean:    0.22955 - 	 AQreal:   27.74490  	 
+Exp: 1 - 	 Ger: 43 - 	 Best:    0.22665 - 	 Mean:    0.22946 - 	 AQreal:   27.74490  	 
+Exp: 1 - 	 Ger: 44 - 	 Best:    0.22665 - 	 Mean:    0.22944 - 	 AQreal:   27.74490  	 
+Exp: 1 - 	 Ger: 45 - 	 Best:    0.22665 - 	 Mean:    0.22932 - 	 AQreal:   41.61619  	 
+Exp: 1 - 	 Ger: 46 - 	 Best:    0.22665 - 	 Mean:    0.22917 - 	 AQreal:   41.61619  	 
+Exp: 1 - 	 Ger: 47 - 	 Best:    0.22665 - 	 Mean:    0.22908 - 	 AQreal:   41.61619  	 
+Exp: 1 - 	 Ger: 48 - 	 Best:    0.22665 - 	 Mean:    0.22897 - 	 AQreal:   41.61619  	 
+Exp: 1 - 	 Ger: 49 - 	 Best:    0.22593 - 	 Mean:    0.22883 - 	 AQreal:   41.61619  	 
+Exp: 1 - 	 Ger: 50 - 	 Best:    0.22593 - 	 Mean:    0.22874 - 	 AQreal:   41.08603  	 
+Exp: 2 - 	 Ger: 1 - 	 Best:    0.25311 - 	 Mean: 297046141.82349 - 	 AQreal:   50.78165  	 
+Exp: 2 - 	 Ger: 2 - 	 Best:    0.24944 - 	 Mean:    9.48343 - 	 AQreal:   50.78165  	 
+Exp: 2 - 	 Ger: 3 - 	 Best:    0.24944 - 	 Mean:    0.51412 - 	 AQreal:   50.78165  	 
+Exp: 2 - 	 Ger: 4 - 	 Best:    0.24416 - 	 Mean:    0.36400 - 	 AQreal:   50.78165  	 
+Exp: 2 - 	 Ger: 5 - 	 Best:    0.23948 - 	 Mean:    0.31168 - 	 AQreal:   45.45639  	 
+Exp: 2 - 	 Ger: 6 - 	 Best:    0.23948 - 	 Mean:    0.27219 - 	 AQreal:   45.45639  	 
+Exp: 2 - 	 Ger: 7 - 	 Best:    0.23531 - 	 Mean:    0.25416 - 	 AQreal:   45.45639  	 
+Exp: 2 - 	 Ger: 8 - 	 Best:    0.23531 - 	 Mean:    0.24952 - 	 AQreal:   45.45639  	 
+Exp: 2 - 	 Ger: 9 - 	 Best:    0.23531 - 	 Mean:    0.24645 - 	 AQreal:   45.45639  	 
+Exp: 2 - 	 Ger: 10 - 	 Best:    0.23265 - 	 Mean:    0.24424 - 	 AQreal:   35.84734  	 
+Exp: 2 - 	 Ger: 11 - 	 Best:    0.23265 - 	 Mean:    0.24232 - 	 AQreal:   35.84734  	 
+Exp: 2 - 	 Ger: 12 - 	 Best:    0.23265 - 	 Mean:    0.24078 - 	 AQreal:   35.84734  	 
+Exp: 2 - 	 Ger: 13 - 	 Best:    0.23265 - 	 Mean:    0.23950 - 	 AQreal:   35.84734  	 
+Exp: 2 - 	 Ger: 14 - 	 Best:    0.23037 - 	 Mean:    0.23850 - 	 AQreal:   35.84734  	 
+Exp: 2 - 	 Ger: 15 - 	 Best:    0.23037 - 	 Mean:    0.23712 - 	 AQreal:   26.03458  	 
+Exp: 2 - 	 Ger: 16 - 	 Best:    0.23037 - 	 Mean:    0.23663 - 	 AQreal:   26.03458  	 
+Exp: 2 - 	 Ger: 17 - 	 Best:    0.22846 - 	 Mean:    0.23573 - 	 AQreal:   26.03458  	 
+Exp: 2 - 	 Ger: 18 - 	 Best:    0.22846 - 	 Mean:    0.23509 - 	 AQreal:   26.03458  	 
+Exp: 2 - 	 Ger: 19 - 	 Best:    0.22846 - 	 Mean:    0.23456 - 	 AQreal:   26.03458  	 
+Exp: 2 - 	 Ger: 20 - 	 Best:    0.22846 - 	 Mean:    0.23424 - 	 AQreal:   26.44770  	 
+Exp: 2 - 	 Ger: 21 - 	 Best:    0.22846 - 	 Mean:    0.23366 - 	 AQreal:   26.44770  	 
+Exp: 2 - 	 Ger: 22 - 	 Best:    0.22846 - 	 Mean:    0.23337 - 	 AQreal:   26.44770  	 
+Exp: 2 - 	 Ger: 23 - 	 Best:    0.22846 - 	 Mean:    0.23316 - 	 AQreal:   26.44770  	 
+Exp: 2 - 	 Ger: 24 - 	 Best:    0.22846 - 	 Mean:    0.23279 - 	 AQreal:   26.44770  	 
+Exp: 2 - 	 Ger: 25 - 	 Best:    0.22846 - 	 Mean:    0.23264 - 	 AQreal:   23.81542  	 
+Exp: 2 - 	 Ger: 26 - 	 Best:    0.22846 - 	 Mean:    0.23235 - 	 AQreal:   23.81542  	 
+Exp: 2 - 	 Ger: 27 - 	 Best:    0.22812 - 	 Mean:    0.23191 - 	 AQreal:   23.81542  	 
+Exp: 2 - 	 Ger: 28 - 	 Best:    0.22812 - 	 Mean:    0.23167 - 	 AQreal:   23.81542  	 
+Exp: 2 - 	 Ger: 29 - 	 Best:    0.22812 - 	 Mean:    0.23159 - 	 AQreal:   23.81542  	 
+Exp: 2 - 	 Ger: 30 - 	 Best:    0.22776 - 	 Mean:    0.23132 - 	 AQreal:   30.47284  	 
+Exp: 2 - 	 Ger: 31 - 	 Best:    0.22776 - 	 Mean:    0.23121 - 	 AQreal:   30.47284  	 
+Exp: 2 - 	 Ger: 32 - 	 Best:    0.22776 - 	 Mean:    0.23117 - 	 AQreal:   30.47284  	 
+Exp: 2 - 	 Ger: 33 - 	 Best:    0.22756 - 	 Mean:    0.23100 - 	 AQreal:   30.47284  	 
+Exp: 2 - 	 Ger: 34 - 	 Best:    0.22756 - 	 Mean:    0.23077 - 	 AQreal:   30.47284  	 
+Exp: 2 - 	 Ger: 35 - 	 Best:    0.22756 - 	 Mean:    0.23070 - 	 AQreal:   17.66581  	 
+Exp: 2 - 	 Ger: 36 - 	 Best:    0.22756 - 	 Mean:    0.23056 - 	 AQreal:   17.66581  	 
+Exp: 2 - 	 Ger: 37 - 	 Best:    0.22756 - 	 Mean:    0.23041 - 	 AQreal:   17.66581  	 
+Exp: 2 - 	 Ger: 38 - 	 Best:    0.22756 - 	 Mean:    0.23032 - 	 AQreal:   17.66581  	 
+Exp: 2 - 	 Ger: 39 - 	 Best:    0.22756 - 	 Mean:    0.23021 - 	 AQreal:   17.66581  	 
+Exp: 2 - 	 Ger: 40 - 	 Best:    0.22642 - 	 Mean:    0.22988 - 	 AQreal:   17.68890  	 
+Exp: 2 - 	 Ger: 41 - 	 Best:    0.22642 - 	 Mean:    0.22976 - 	 AQreal:   17.68890  	 
+Exp: 2 - 	 Ger: 42 - 	 Best:    0.22642 - 	 Mean:    0.22972 - 	 AQreal:   17.68890  	 
+Exp: 2 - 	 Ger: 43 - 	 Best:    0.22642 - 	 Mean:    0.22955 - 	 AQreal:   17.68890  	 
+Exp: 2 - 	 Ger: 44 - 	 Best:    0.22642 - 	 Mean:    0.22952 - 	 AQreal:   17.68890  	 
+Exp: 2 - 	 Ger: 45 - 	 Best:    0.22642 - 	 Mean:    0.22944 - 	 AQreal:   17.34925  	 
+Exp: 2 - 	 Ger: 46 - 	 Best:    0.22642 - 	 Mean:    0.22936 - 	 AQreal:   17.34925  	 
+Exp: 2 - 	 Ger: 47 - 	 Best:    0.22642 - 	 Mean:    0.22925 - 	 AQreal:   17.34925  	 
+Exp: 2 - 	 Ger: 48 - 	 Best:    0.22642 - 	 Mean:    0.22918 - 	 AQreal:   17.34925  	 
+Exp: 2 - 	 Ger: 49 - 	 Best:    0.22642 - 	 Mean:    0.22913 - 	 AQreal:   17.34925  	 
+Exp: 2 - 	 Ger: 50 - 	 Best:    0.22642 - 	 Mean:    0.22902 - 	 AQreal:   11.02811  	 
+Exp: 3 - 	 Ger: 1 - 	 Best:    0.25220 - 	 Mean: 1308490.59891 - 	 AQreal:   50.78165  	 
+Exp: 3 - 	 Ger: 2 - 	 Best:    0.25220 - 	 Mean:   30.46241 - 	 AQreal:   50.78165  	 
+Exp: 3 - 	 Ger: 3 - 	 Best:    0.25220 - 	 Mean:    0.70741 - 	 AQreal:   50.78165  	 
+Exp: 3 - 	 Ger: 4 - 	 Best:    0.24680 - 	 Mean:    0.34122 - 	 AQreal:   50.78165  	 
+Exp: 3 - 	 Ger: 5 - 	 Best:    0.24680 - 	 Mean:    0.28552 - 	 AQreal:   44.79299  	 
+Exp: 3 - 	 Ger: 6 - 	 Best:    0.24680 - 	 Mean:    0.27178 - 	 AQreal:   44.79299  	 
+Exp: 3 - 	 Ger: 7 - 	 Best:    0.24177 - 	 Mean:    0.26535 - 	 AQreal:   44.79299  	 
+Exp: 3 - 	 Ger: 8 - 	 Best:    0.24177 - 	 Mean:    0.26055 - 	 AQreal:   44.79299  	 
+Exp: 3 - 	 Ger: 9 - 	 Best:    0.24177 - 	 Mean:    0.25778 - 	 AQreal:   44.79299  	 
+Exp: 3 - 	 Ger: 10 - 	 Best:    0.24136 - 	 Mean:    0.25393 - 	 AQreal:   42.83129  	 
+Exp: 3 - 	 Ger: 11 - 	 Best:    0.24136 - 	 Mean:    0.25201 - 	 AQreal:   42.83129  	 
+Exp: 3 - 	 Ger: 12 - 	 Best:    0.23925 - 	 Mean:    0.24985 - 	 AQreal:   42.83129  	 
+Exp: 3 - 	 Ger: 13 - 	 Best:    0.23072 - 	 Mean:    0.24767 - 	 AQreal:   42.83129  	 
+Exp: 3 - 	 Ger: 14 - 	 Best:    0.23072 - 	 Mean:    0.24654 - 	 AQreal:   42.83129  	 
+Exp: 3 - 	 Ger: 15 - 	 Best:    0.23072 - 	 Mean:    0.24539 - 	 AQreal:   22.15156  	 
+Exp: 3 - 	 Ger: 16 - 	 Best:    0.23072 - 	 Mean:    0.24405 - 	 AQreal:   22.15156  	 
+Exp: 3 - 	 Ger: 17 - 	 Best:    0.23072 - 	 Mean:    0.24168 - 	 AQreal:   22.15156  	 
+Exp: 3 - 	 Ger: 18 - 	 Best:    0.23072 - 	 Mean:    0.24008 - 	 AQreal:   22.15156  	 
+Exp: 3 - 	 Ger: 19 - 	 Best:    0.23072 - 	 Mean:    0.23874 - 	 AQreal:   22.15156  	 
+Exp: 3 - 	 Ger: 20 - 	 Best:    0.23072 - 	 Mean:    0.23811 - 	 AQreal:   25.21769  	 
+Exp: 3 - 	 Ger: 21 - 	 Best:    0.22972 - 	 Mean:    0.23692 - 	 AQreal:   25.21769  	 
+Exp: 3 - 	 Ger: 22 - 	 Best:    0.22972 - 	 Mean:    0.23640 - 	 AQreal:   25.21769  	 
+Exp: 3 - 	 Ger: 23 - 	 Best:    0.22972 - 	 Mean:    0.23596 - 	 AQreal:   25.21769  	 
+Exp: 3 - 	 Ger: 24 - 	 Best:    0.22972 - 	 Mean:    0.23540 - 	 AQreal:   25.21769  	 
+Exp: 3 - 	 Ger: 25 - 	 Best:    0.22926 - 	 Mean:    0.23494 - 	 AQreal:   24.01046  	 
+Exp: 3 - 	 Ger: 26 - 	 Best:    0.22926 - 	 Mean:    0.23454 - 	 AQreal:   24.01046  	 
+Exp: 3 - 	 Ger: 27 - 	 Best:    0.22926 - 	 Mean:    0.23416 - 	 AQreal:   24.01046  	 
+Exp: 3 - 	 Ger: 28 - 	 Best:    0.22926 - 	 Mean:    0.23370 - 	 AQreal:   24.01046  	 
+Exp: 3 - 	 Ger: 29 - 	 Best:    0.22736 - 	 Mean:    0.23325 - 	 AQreal:   24.01046  	 
+Exp: 3 - 	 Ger: 30 - 	 Best:    0.22736 - 	 Mean:    0.23292 - 	 AQreal:   21.66761  	 
+Exp: 3 - 	 Ger: 31 - 	 Best:    0.22736 - 	 Mean:    0.23273 - 	 AQreal:   21.66761  	 
+Exp: 3 - 	 Ger: 32 - 	 Best:    0.22736 - 	 Mean:    0.23247 - 	 AQreal:   21.66761  	 
+Exp: 3 - 	 Ger: 33 - 	 Best:    0.22736 - 	 Mean:    0.23200 - 	 AQreal:   21.66761  	 
+Exp: 3 - 	 Ger: 34 - 	 Best:    0.22736 - 	 Mean:    0.23164 - 	 AQreal:   21.66761  	 
+Exp: 3 - 	 Ger: 35 - 	 Best:    0.22736 - 	 Mean:    0.23150 - 	 AQreal:   25.30534  	 
+Exp: 3 - 	 Ger: 36 - 	 Best:    0.22719 - 	 Mean:    0.23121 - 	 AQreal:   25.30534  	 
+Exp: 3 - 	 Ger: 37 - 	 Best:    0.22719 - 	 Mean:    0.23091 - 	 AQreal:   25.30534  	 
+Exp: 3 - 	 Ger: 38 - 	 Best:    0.22719 - 	 Mean:    0.23071 - 	 AQreal:   25.30534  	 
+Exp: 3 - 	 Ger: 39 - 	 Best:    0.22719 - 	 Mean:    0.23047 - 	 AQreal:   25.30534  	 
+Exp: 3 - 	 Ger: 40 - 	 Best:    0.22719 - 	 Mean:    0.23042 - 	 AQreal:   36.60170  	 
+Exp: 3 - 	 Ger: 41 - 	 Best:    0.22719 - 	 Mean:    0.23035 - 	 AQreal:   36.60170  	 
+Exp: 3 - 	 Ger: 42 - 	 Best:    0.22719 - 	 Mean:    0.23023 - 	 AQreal:   36.60170  	 
+Exp: 3 - 	 Ger: 43 - 	 Best:    0.22719 - 	 Mean:    0.23015 - 	 AQreal:   36.60170  	 
+Exp: 3 - 	 Ger: 44 - 	 Best:    0.22719 - 	 Mean:    0.23000 - 	 AQreal:   36.60170  	 
+Exp: 3 - 	 Ger: 45 - 	 Best:    0.22719 - 	 Mean:    0.22982 - 	 AQreal:   27.55251  	 
+Exp: 3 - 	 Ger: 46 - 	 Best:    0.22719 - 	 Mean:    0.22969 - 	 AQreal:   27.55251  	 
+Exp: 3 - 	 Ger: 47 - 	 Best:    0.22719 - 	 Mean:    0.22969 - 	 AQreal:   27.55251  	 
+Exp: 3 - 	 Ger: 48 - 	 Best:    0.22719 - 	 Mean:    0.22965 - 	 AQreal:   27.55251  	 
+Exp: 3 - 	 Ger: 49 - 	 Best:    0.22719 - 	 Mean:    0.22956 - 	 AQreal:   27.55251  	 
+Exp: 3 - 	 Ger: 50 - 	 Best:    0.22719 - 	 Mean:    0.22948 - 	 AQreal:   30.21735  	 
+Exp: 4 - 	 Ger: 1 - 	 Best:    0.25228 - 	 Mean: 32749261.97308 - 	 AQreal:   50.78165  	 
+Exp: 4 - 	 Ger: 2 - 	 Best:    0.25228 - 	 Mean:    0.74639 - 	 AQreal:   50.78165  	 
+Exp: 4 - 	 Ger: 3 - 	 Best:    0.25228 - 	 Mean:    0.41341 - 	 AQreal:   50.78165  	 
+Exp: 4 - 	 Ger: 4 - 	 Best:    0.25228 - 	 Mean:    0.33669 - 	 AQreal:   50.78165  	 
+Exp: 4 - 	 Ger: 5 - 	 Best:    0.24917 - 	 Mean:    0.29647 - 	 AQreal:   42.99196  	 
+Exp: 4 - 	 Ger: 6 - 	 Best:    0.24917 - 	 Mean:    0.27322 - 	 AQreal:   42.99196  	 
+Exp: 4 - 	 Ger: 7 - 	 Best:    0.24917 - 	 Mean:    0.26514 - 	 AQreal:   42.99196  	 
+Exp: 4 - 	 Ger: 8 - 	 Best:    0.23859 - 	 Mean:    0.25930 - 	 AQreal:   42.99196  	 
+Exp: 4 - 	 Ger: 9 - 	 Best:    0.23859 - 	 Mean:    0.25628 - 	 AQreal:   42.99196  	 
+Exp: 4 - 	 Ger: 10 - 	 Best:    0.23859 - 	 Mean:    0.25386 - 	 AQreal:   31.11075  	 
+Exp: 4 - 	 Ger: 11 - 	 Best:    0.23733 - 	 Mean:    0.25144 - 	 AQreal:   31.11075  	 
+Exp: 4 - 	 Ger: 12 - 	 Best:    0.23445 - 	 Mean:    0.24777 - 	 AQreal:   31.11075  	 
+Exp: 4 - 	 Ger: 13 - 	 Best:    0.23445 - 	 Mean:    0.24367 - 	 AQreal:   31.11075  	 
+Exp: 4 - 	 Ger: 14 - 	 Best:    0.23202 - 	 Mean:    0.24100 - 	 AQreal:   31.11075  	 
+Exp: 4 - 	 Ger: 15 - 	 Best:    0.23202 - 	 Mean:    0.23913 - 	 AQreal:   21.73839  	 
+Exp: 4 - 	 Ger: 16 - 	 Best:    0.23090 - 	 Mean:    0.23781 - 	 AQreal:   21.73839  	 
+Exp: 4 - 	 Ger: 17 - 	 Best:    0.23090 - 	 Mean:    0.23649 - 	 AQreal:   21.73839  	 
+Exp: 4 - 	 Ger: 18 - 	 Best:    0.23090 - 	 Mean:    0.23526 - 	 AQreal:   21.73839  	 
+Exp: 4 - 	 Ger: 19 - 	 Best:    0.22942 - 	 Mean:    0.23464 - 	 AQreal:   21.73839  	 
+Exp: 4 - 	 Ger: 20 - 	 Best:    0.22942 - 	 Mean:    0.23394 - 	 AQreal:   17.64596  	 
+Exp: 4 - 	 Ger: 21 - 	 Best:    0.22731 - 	 Mean:    0.23314 - 	 AQreal:   17.64596  	 
+Exp: 4 - 	 Ger: 22 - 	 Best:    0.22731 - 	 Mean:    0.23250 - 	 AQreal:   17.64596  	 
+Exp: 4 - 	 Ger: 23 - 	 Best:    0.22731 - 	 Mean:    0.23210 - 	 AQreal:   17.64596  	 
+Exp: 4 - 	 Ger: 24 - 	 Best:    0.22731 - 	 Mean:    0.23146 - 	 AQreal:   17.64596  	 
+Exp: 4 - 	 Ger: 25 - 	 Best:    0.22709 - 	 Mean:    0.23064 - 	 AQreal:   27.83012  	 
+Exp: 4 - 	 Ger: 26 - 	 Best:    0.22574 - 	 Mean:    0.23032 - 	 AQreal:   27.83012  	 
+Exp: 4 - 	 Ger: 27 - 	 Best:    0.22574 - 	 Mean:    0.22992 - 	 AQreal:   27.83012  	 
+Exp: 4 - 	 Ger: 28 - 	 Best:    0.22574 - 	 Mean:    0.22951 - 	 AQreal:   27.83012  	 
+Exp: 4 - 	 Ger: 29 - 	 Best:    0.22574 - 	 Mean:    0.22923 - 	 AQreal:   27.83012  	 
+Exp: 4 - 	 Ger: 30 - 	 Best:    0.22574 - 	 Mean:    0.22909 - 	 AQreal:   22.54514  	 
+Exp: 4 - 	 Ger: 31 - 	 Best:    0.22574 - 	 Mean:    0.22894 - 	 AQreal:   22.54514  	 
+Exp: 4 - 	 Ger: 32 - 	 Best:    0.22574 - 	 Mean:    0.22876 - 	 AQreal:   22.54514  	 
+Exp: 4 - 	 Ger: 33 - 	 Best:    0.22574 - 	 Mean:    0.22867 - 	 AQreal:   22.54514  	 
+Exp: 4 - 	 Ger: 34 - 	 Best:    0.22574 - 	 Mean:    0.22859 - 	 AQreal:   22.54514  	 
+Exp: 4 - 	 Ger: 35 - 	 Best:    0.22574 - 	 Mean:    0.22848 - 	 AQreal:   16.93737  	 
+Exp: 4 - 	 Ger: 36 - 	 Best:    0.22574 - 	 Mean:    0.22833 - 	 AQreal:   16.93737  	 
+Exp: 4 - 	 Ger: 37 - 	 Best:    0.22574 - 	 Mean:    0.22826 - 	 AQreal:   16.93737  	 
+Exp: 4 - 	 Ger: 38 - 	 Best:    0.22574 - 	 Mean:    0.22819 - 	 AQreal:   16.93737  	 
+Exp: 4 - 	 Ger: 39 - 	 Best:    0.22574 - 	 Mean:    0.22814 - 	 AQreal:   16.93737  	 
+Exp: 4 - 	 Ger: 40 - 	 Best:    0.22546 - 	 Mean:    0.22807 - 	 AQreal:   14.03838  	 
+Exp: 4 - 	 Ger: 41 - 	 Best:    0.22546 - 	 Mean:    0.22802 - 	 AQreal:   14.03838  	 
+Exp: 4 - 	 Ger: 42 - 	 Best:    0.22546 - 	 Mean:    0.22794 - 	 AQreal:   14.03838  	 
+Exp: 4 - 	 Ger: 43 - 	 Best:    0.22546 - 	 Mean:    0.22793 - 	 AQreal:   14.03838  	 
+Exp: 4 - 	 Ger: 44 - 	 Best:    0.22546 - 	 Mean:    0.22788 - 	 AQreal:   14.03838  	 
+Exp: 4 - 	 Ger: 45 - 	 Best:    0.22546 - 	 Mean:    0.22783 - 	 AQreal:   11.62850  	 
+Exp: 4 - 	 Ger: 46 - 	 Best:    0.22546 - 	 Mean:    0.22779 - 	 AQreal:   11.62850  	 
+Exp: 4 - 	 Ger: 47 - 	 Best:    0.22546 - 	 Mean:    0.22770 - 	 AQreal:   11.62850  	 
+Exp: 4 - 	 Ger: 48 - 	 Best:    0.22546 - 	 Mean:    0.22766 - 	 AQreal:   11.62850  	 
+Exp: 4 - 	 Ger: 49 - 	 Best:    0.22472 - 	 Mean:    0.22753 - 	 AQreal:   11.62850  	 
+Exp: 4 - 	 Ger: 50 - 	 Best:    0.22472 - 	 Mean:    0.22744 - 	 AQreal:   10.79403  	 
+Exp: 5 - 	 Ger: 1 - 	 Best:    0.24375 - 	 Mean: 665753.67913 - 	 AQreal:   50.78165  	 
+Exp: 5 - 	 Ger: 2 - 	 Best:    0.24326 - 	 Mean:    5.14214 - 	 AQreal:   50.78165  	 
+Exp: 5 - 	 Ger: 3 - 	 Best:    0.24326 - 	 Mean:    0.37275 - 	 AQreal:   50.78165  	 
+Exp: 5 - 	 Ger: 4 - 	 Best:    0.24326 - 	 Mean:    0.30418 - 	 AQreal:   50.78165  	 
+Exp: 5 - 	 Ger: 5 - 	 Best:    0.24326 - 	 Mean:    0.28267 - 	 AQreal:   48.13399  	 
+Exp: 5 - 	 Ger: 6 - 	 Best:    0.23781 - 	 Mean:    0.26835 - 	 AQreal:   48.13399  	 
+Exp: 5 - 	 Ger: 7 - 	 Best:    0.23744 - 	 Mean:    0.25837 - 	 AQreal:   48.13399  	 
+Exp: 5 - 	 Ger: 8 - 	 Best:    0.23744 - 	 Mean:    0.25288 - 	 AQreal:   48.13399  	 
+Exp: 5 - 	 Ger: 9 - 	 Best:    0.23209 - 	 Mean:    0.24812 - 	 AQreal:   48.13399  	 
+Exp: 5 - 	 Ger: 10 - 	 Best:    0.23209 - 	 Mean:    0.24496 - 	 AQreal:   46.30883  	 
+Exp: 5 - 	 Ger: 11 - 	 Best:    0.22992 - 	 Mean:    0.24184 - 	 AQreal:   46.30883  	 
+Exp: 5 - 	 Ger: 12 - 	 Best:    0.22992 - 	 Mean:    0.23914 - 	 AQreal:   46.30883  	 
+Exp: 5 - 	 Ger: 13 - 	 Best:    0.22992 - 	 Mean:    0.23744 - 	 AQreal:   46.30883  	 
+Exp: 5 - 	 Ger: 14 - 	 Best:    0.22992 - 	 Mean:    0.23599 - 	 AQreal:   46.30883  	 
+Exp: 5 - 	 Ger: 15 - 	 Best:    0.22992 - 	 Mean:    0.23459 - 	 AQreal:   46.07332  	 
+Exp: 5 - 	 Ger: 16 - 	 Best:    0.22725 - 	 Mean:    0.23341 - 	 AQreal:   46.07332  	 
+Exp: 5 - 	 Ger: 17 - 	 Best:    0.22725 - 	 Mean:    0.23285 - 	 AQreal:   46.07332  	 
+Exp: 5 - 	 Ger: 18 - 	 Best:    0.22725 - 	 Mean:    0.23211 - 	 AQreal:   46.07332  	 
+Exp: 5 - 	 Ger: 19 - 	 Best:    0.22725 - 	 Mean:    0.23180 - 	 AQreal:   46.07332  	 
+Exp: 5 - 	 Ger: 20 - 	 Best:    0.22649 - 	 Mean:    0.23131 - 	 AQreal:   46.29026  	 
+Exp: 5 - 	 Ger: 21 - 	 Best:    0.22649 - 	 Mean:    0.23112 - 	 AQreal:   46.29026  	 
+Exp: 5 - 	 Ger: 22 - 	 Best:    0.22649 - 	 Mean:    0.23090 - 	 AQreal:   46.29026  	 
+Exp: 5 - 	 Ger: 23 - 	 Best:    0.22649 - 	 Mean:    0.23083 - 	 AQreal:   46.29026  	 
+Exp: 5 - 	 Ger: 24 - 	 Best:    0.22649 - 	 Mean:    0.23062 - 	 AQreal:   46.29026  	 
+Exp: 5 - 	 Ger: 25 - 	 Best:    0.22649 - 	 Mean:    0.23049 - 	 AQreal:   46.23235  	 
+Exp: 5 - 	 Ger: 26 - 	 Best:    0.22649 - 	 Mean:    0.23033 - 	 AQreal:   46.23235  	 
+Exp: 5 - 	 Ger: 27 - 	 Best:    0.22649 - 	 Mean:    0.23016 - 	 AQreal:   46.23235  	 
+Exp: 5 - 	 Ger: 28 - 	 Best:    0.22649 - 	 Mean:    0.23010 - 	 AQreal:   46.23235  	 
+Exp: 5 - 	 Ger: 29 - 	 Best:    0.22649 - 	 Mean:    0.22991 - 	 AQreal:   46.23235  	 
+Exp: 5 - 	 Ger: 30 - 	 Best:    0.22649 - 	 Mean:    0.22986 - 	 AQreal:   19.29723  	 
+Exp: 5 - 	 Ger: 31 - 	 Best:    0.22649 - 	 Mean:    0.22974 - 	 AQreal:   19.29723  	 
+Exp: 5 - 	 Ger: 32 - 	 Best:    0.22649 - 	 Mean:    0.22964 - 	 AQreal:   19.29723  	 
+Exp: 5 - 	 Ger: 33 - 	 Best:    0.22649 - 	 Mean:    0.22956 - 	 AQreal:   19.29723  	 
+Exp: 5 - 	 Ger: 34 - 	 Best:    0.22649 - 	 Mean:    0.22939 - 	 AQreal:   19.29723  	 
+Exp: 5 - 	 Ger: 35 - 	 Best:    0.22494 - 	 Mean:    0.22910 - 	 AQreal:    7.26753  	 
+Exp: 5 - 	 Ger: 36 - 	 Best:    0.22494 - 	 Mean:    0.22900 - 	 AQreal:    7.26753  	 
+Exp: 5 - 	 Ger: 37 - 	 Best:    0.22494 - 	 Mean:    0.22888 - 	 AQreal:    7.26753  	 
+Exp: 5 - 	 Ger: 38 - 	 Best:    0.22494 - 	 Mean:    0.22881 - 	 AQreal:    7.26753  	 
+Exp: 5 - 	 Ger: 39 - 	 Best:    0.22494 - 	 Mean:    0.22873 - 	 AQreal:    7.26753  	 
+Exp: 5 - 	 Ger: 40 - 	 Best:    0.22494 - 	 Mean:    0.22864 - 	 AQreal:    6.80534  	 
+Exp: 5 - 	 Ger: 41 - 	 Best:    0.22494 - 	 Mean:    0.22861 - 	 AQreal:    6.80534  	 
+Exp: 5 - 	 Ger: 42 - 	 Best:    0.22494 - 	 Mean:    0.22853 - 	 AQreal:    6.80534  	 
+Exp: 5 - 	 Ger: 43 - 	 Best:    0.22494 - 	 Mean:    0.22849 - 	 AQreal:    6.80534  	 
+Exp: 5 - 	 Ger: 44 - 	 Best:    0.22494 - 	 Mean:    0.22841 - 	 AQreal:    6.80534  	 
+Exp: 5 - 	 Ger: 45 - 	 Best:    0.22494 - 	 Mean:    0.22834 - 	 AQreal:    5.27245  	 
+Exp: 5 - 	 Ger: 46 - 	 Best:    0.22494 - 	 Mean:    0.22827 - 	 AQreal:    5.27245  	 
+Exp: 5 - 	 Ger: 47 - 	 Best:    0.22494 - 	 Mean:    0.22822 - 	 AQreal:    5.27245  	 
+Exp: 5 - 	 Ger: 48 - 	 Best:    0.22494 - 	 Mean:    0.22820 - 	 AQreal:    5.27245  	 
+Exp: 5 - 	 Ger: 49 - 	 Best:    0.22494 - 	 Mean:    0.22820 - 	 AQreal:    5.27245  	 
+Exp: 5 - 	 Ger: 50 - 	 Best:    0.22494 - 	 Mean:    0.22818 - 	 AQreal:   10.03290  	 
+Exp: 6 - 	 Ger: 1 - 	 Best:    0.25212 - 	 Mean: 1208050.26314 - 	 AQreal:   50.78165  	 
+Exp: 6 - 	 Ger: 2 - 	 Best:    0.23409 - 	 Mean:    3.39840 - 	 AQreal:   50.78165  	 
+Exp: 6 - 	 Ger: 3 - 	 Best:    0.23409 - 	 Mean:    0.43673 - 	 AQreal:   50.78165  	 
+Exp: 6 - 	 Ger: 4 - 	 Best:    0.22984 - 	 Mean:    0.35886 - 	 AQreal:   50.78165  	 
+Exp: 6 - 	 Ger: 5 - 	 Best:    0.22984 - 	 Mean:    0.31077 - 	 AQreal:   44.08385  	 
+Exp: 6 - 	 Ger: 6 - 	 Best:    0.22984 - 	 Mean:    0.27473 - 	 AQreal:   44.08385  	 
+Exp: 6 - 	 Ger: 7 - 	 Best:    0.22984 - 	 Mean:    0.26074 - 	 AQreal:   44.08385  	 
+Exp: 6 - 	 Ger: 8 - 	 Best:    0.22984 - 	 Mean:    0.25411 - 	 AQreal:   44.08385  	 
+Exp: 6 - 	 Ger: 9 - 	 Best:    0.22984 - 	 Mean:    0.24699 - 	 AQreal:   44.08385  	 
+Exp: 6 - 	 Ger: 10 - 	 Best:    0.22984 - 	 Mean:    0.24170 - 	 AQreal:   30.75425  	 
+Exp: 6 - 	 Ger: 11 - 	 Best:    0.22983 - 	 Mean:    0.23756 - 	 AQreal:   30.75425  	 
+Exp: 6 - 	 Ger: 12 - 	 Best:    0.22983 - 	 Mean:    0.23605 - 	 AQreal:   30.75425  	 
+Exp: 6 - 	 Ger: 13 - 	 Best:    0.22800 - 	 Mean:    0.23471 - 	 AQreal:   30.75425  	 
+Exp: 6 - 	 Ger: 14 - 	 Best:    0.22800 - 	 Mean:    0.23388 - 	 AQreal:   30.75425  	 
+Exp: 6 - 	 Ger: 15 - 	 Best:    0.22800 - 	 Mean:    0.23346 - 	 AQreal:   33.43323  	 
+Exp: 6 - 	 Ger: 16 - 	 Best:    0.22758 - 	 Mean:    0.23296 - 	 AQreal:   33.43323  	 
+Exp: 6 - 	 Ger: 17 - 	 Best:    0.22758 - 	 Mean:    0.23258 - 	 AQreal:   33.43323  	 
+Exp: 6 - 	 Ger: 18 - 	 Best:    0.22758 - 	 Mean:    0.23242 - 	 AQreal:   33.43323  	 
+Exp: 6 - 	 Ger: 19 - 	 Best:    0.22758 - 	 Mean:    0.23220 - 	 AQreal:   33.43323  	 
+Exp: 6 - 	 Ger: 20 - 	 Best:    0.22758 - 	 Mean:    0.23190 - 	 AQreal:   35.96649  	 
+Exp: 6 - 	 Ger: 21 - 	 Best:    0.22758 - 	 Mean:    0.23168 - 	 AQreal:   35.96649  	 
+Exp: 6 - 	 Ger: 22 - 	 Best:    0.22515 - 	 Mean:    0.23128 - 	 AQreal:   35.96649  	 
+Exp: 6 - 	 Ger: 23 - 	 Best:    0.22515 - 	 Mean:    0.23107 - 	 AQreal:   35.96649  	 
+Exp: 6 - 	 Ger: 24 - 	 Best:    0.22515 - 	 Mean:    0.23096 - 	 AQreal:   35.96649  	 
+Exp: 6 - 	 Ger: 25 - 	 Best:    0.22515 - 	 Mean:    0.23088 - 	 AQreal:   32.02347  	 
+Exp: 6 - 	 Ger: 26 - 	 Best:    0.22515 - 	 Mean:    0.23072 - 	 AQreal:   32.02347  	 
+Exp: 6 - 	 Ger: 27 - 	 Best:    0.22515 - 	 Mean:    0.23063 - 	 AQreal:   32.02347  	 
+Exp: 6 - 	 Ger: 28 - 	 Best:    0.22515 - 	 Mean:    0.23054 - 	 AQreal:   32.02347  	 
+Exp: 6 - 	 Ger: 29 - 	 Best:    0.22515 - 	 Mean:    0.23030 - 	 AQreal:   32.02347  	 
+Exp: 6 - 	 Ger: 30 - 	 Best:    0.22515 - 	 Mean:    0.23028 - 	 AQreal:   34.82554  	 
+Exp: 6 - 	 Ger: 31 - 	 Best:    0.22515 - 	 Mean:    0.23020 - 	 AQreal:   34.82554  	 
+Exp: 6 - 	 Ger: 32 - 	 Best:    0.22515 - 	 Mean:    0.23004 - 	 AQreal:   34.82554  	 
+Exp: 6 - 	 Ger: 33 - 	 Best:    0.22515 - 	 Mean:    0.22995 - 	 AQreal:   34.82554  	 
+Exp: 6 - 	 Ger: 34 - 	 Best:    0.22515 - 	 Mean:    0.22989 - 	 AQreal:   34.82554  	 
+Exp: 6 - 	 Ger: 35 - 	 Best:    0.22515 - 	 Mean:    0.22986 - 	 AQreal:   30.52057  	 
+Exp: 6 - 	 Ger: 36 - 	 Best:    0.22515 - 	 Mean:    0.22983 - 	 AQreal:   30.52057  	 
+Exp: 6 - 	 Ger: 37 - 	 Best:    0.22515 - 	 Mean:    0.22981 - 	 AQreal:   30.52057  	 
+Exp: 6 - 	 Ger: 38 - 	 Best:    0.22515 - 	 Mean:    0.22976 - 	 AQreal:   30.52057  	 
+Exp: 6 - 	 Ger: 39 - 	 Best:    0.22515 - 	 Mean:    0.22976 - 	 AQreal:   30.52057  	 
+Exp: 6 - 	 Ger: 40 - 	 Best:    0.22515 - 	 Mean:    0.22973 - 	 AQreal:   17.64464  	 
+Exp: 6 - 	 Ger: 41 - 	 Best:    0.22515 - 	 Mean:    0.22962 - 	 AQreal:   17.64464  	 
+Exp: 6 - 	 Ger: 42 - 	 Best:    0.22515 - 	 Mean:    0.22958 - 	 AQreal:   17.64464  	 
+Exp: 6 - 	 Ger: 43 - 	 Best:    0.22515 - 	 Mean:    0.22956 - 	 AQreal:   17.64464  	 
+Exp: 6 - 	 Ger: 44 - 	 Best:    0.22515 - 	 Mean:    0.22949 - 	 AQreal:   17.64464  	 
+Exp: 6 - 	 Ger: 45 - 	 Best:    0.22515 - 	 Mean:    0.22934 - 	 AQreal:   17.76572  	 
+Exp: 6 - 	 Ger: 46 - 	 Best:    0.22515 - 	 Mean:    0.22927 - 	 AQreal:   17.76572  	 
+Exp: 6 - 	 Ger: 47 - 	 Best:    0.22515 - 	 Mean:    0.22921 - 	 AQreal:   17.76572  	 
+Exp: 6 - 	 Ger: 48 - 	 Best:    0.22515 - 	 Mean:    0.22918 - 	 AQreal:   17.76572  	 
+Exp: 6 - 	 Ger: 49 - 	 Best:    0.22515 - 	 Mean:    0.22912 - 	 AQreal:   17.76572  	 
+Exp: 6 - 	 Ger: 50 - 	 Best:    0.22515 - 	 Mean:    0.22911 - 	 AQreal:   14.92133  	 
+Exp: 7 - 	 Ger: 1 - 	 Best:    0.25702 - 	 Mean: 237422.51041 - 	 AQreal:   50.78165  	 
+Exp: 7 - 	 Ger: 2 - 	 Best:    0.25702 - 	 Mean:    2.85322 - 	 AQreal:   50.78165  	 
+Exp: 7 - 	 Ger: 3 - 	 Best:    0.25702 - 	 Mean:    0.35918 - 	 AQreal:   50.78165  	 
+Exp: 7 - 	 Ger: 4 - 	 Best:    0.24127 - 	 Mean:    0.31322 - 	 AQreal:   50.78165  	 
+Exp: 7 - 	 Ger: 5 - 	 Best:    0.23914 - 	 Mean:    0.28148 - 	 AQreal:   49.28642  	 
+Exp: 7 - 	 Ger: 6 - 	 Best:    0.23914 - 	 Mean:    0.26867 - 	 AQreal:   49.28642  	 
+Exp: 7 - 	 Ger: 7 - 	 Best:    0.23914 - 	 Mean:    0.25923 - 	 AQreal:   49.28642  	 
+Exp: 7 - 	 Ger: 8 - 	 Best:    0.23718 - 	 Mean:    0.25229 - 	 AQreal:   49.28642  	 
+Exp: 7 - 	 Ger: 9 - 	 Best:    0.23718 - 	 Mean:    0.24898 - 	 AQreal:   49.28642  	 
+Exp: 7 - 	 Ger: 10 - 	 Best:    0.23718 - 	 Mean:    0.24663 - 	 AQreal:   38.63587  	 
+Exp: 7 - 	 Ger: 11 - 	 Best:    0.23623 - 	 Mean:    0.24371 - 	 AQreal:   38.63587  	 
+Exp: 7 - 	 Ger: 12 - 	 Best:    0.23560 - 	 Mean:    0.24143 - 	 AQreal:   38.63587  	 
+Exp: 7 - 	 Ger: 13 - 	 Best:    0.23549 - 	 Mean:    0.24059 - 	 AQreal:   38.63587  	 
+Exp: 7 - 	 Ger: 14 - 	 Best:    0.23307 - 	 Mean:    0.23956 - 	 AQreal:   38.63587  	 
+Exp: 7 - 	 Ger: 15 - 	 Best:    0.23278 - 	 Mean:    0.23854 - 	 AQreal:   36.26478  	 
+Exp: 7 - 	 Ger: 16 - 	 Best:    0.23278 - 	 Mean:    0.23803 - 	 AQreal:   36.26478  	 
+Exp: 7 - 	 Ger: 17 - 	 Best:    0.23278 - 	 Mean:    0.23749 - 	 AQreal:   36.26478  	 
+Exp: 7 - 	 Ger: 18 - 	 Best:    0.23165 - 	 Mean:    0.23663 - 	 AQreal:   36.26478  	 
+Exp: 7 - 	 Ger: 19 - 	 Best:    0.23165 - 	 Mean:    0.23619 - 	 AQreal:   36.26478  	 
+Exp: 7 - 	 Ger: 20 - 	 Best:    0.22965 - 	 Mean:    0.23561 - 	 AQreal:   33.35939  	 
+Exp: 7 - 	 Ger: 21 - 	 Best:    0.22965 - 	 Mean:    0.23499 - 	 AQreal:   33.35939  	 
+Exp: 7 - 	 Ger: 22 - 	 Best:    0.22965 - 	 Mean:    0.23478 - 	 AQreal:   33.35939  	 
+Exp: 7 - 	 Ger: 23 - 	 Best:    0.22965 - 	 Mean:    0.23442 - 	 AQreal:   33.35939  	 
+Exp: 7 - 	 Ger: 24 - 	 Best:    0.22965 - 	 Mean:    0.23418 - 	 AQreal:   33.35939  	 
+Exp: 7 - 	 Ger: 25 - 	 Best:    0.22965 - 	 Mean:    0.23386 - 	 AQreal:   28.98942  	 
+Exp: 7 - 	 Ger: 26 - 	 Best:    0.22965 - 	 Mean:    0.23367 - 	 AQreal:   28.98942  	 
+Exp: 7 - 	 Ger: 27 - 	 Best:    0.22965 - 	 Mean:    0.23334 - 	 AQreal:   28.98942  	 
+Exp: 7 - 	 Ger: 28 - 	 Best:    0.22965 - 	 Mean:    0.23300 - 	 AQreal:   28.98942  	 
+Exp: 7 - 	 Ger: 29 - 	 Best:    0.22965 - 	 Mean:    0.23274 - 	 AQreal:   28.98942  	 
+Exp: 7 - 	 Ger: 30 - 	 Best:    0.22965 - 	 Mean:    0.23265 - 	 AQreal:   24.67090  	 
+Exp: 7 - 	 Ger: 31 - 	 Best:    0.22965 - 	 Mean:    0.23230 - 	 AQreal:   24.67090  	 
+Exp: 7 - 	 Ger: 32 - 	 Best:    0.22965 - 	 Mean:    0.23213 - 	 AQreal:   24.67090  	 
+Exp: 7 - 	 Ger: 33 - 	 Best:    0.22965 - 	 Mean:    0.23206 - 	 AQreal:   24.67090  	 
+Exp: 7 - 	 Ger: 34 - 	 Best:    0.22868 - 	 Mean:    0.23181 - 	 AQreal:   24.67090  	 
+Exp: 7 - 	 Ger: 35 - 	 Best:    0.22745 - 	 Mean:    0.23165 - 	 AQreal:   19.89605  	 
+Exp: 7 - 	 Ger: 36 - 	 Best:    0.22745 - 	 Mean:    0.23151 - 	 AQreal:   19.89605  	 
+Exp: 7 - 	 Ger: 37 - 	 Best:    0.22691 - 	 Mean:    0.23134 - 	 AQreal:   19.89605  	 
+Exp: 7 - 	 Ger: 38 - 	 Best:    0.22691 - 	 Mean:    0.23116 - 	 AQreal:   19.89605  	 
+Exp: 7 - 	 Ger: 39 - 	 Best:    0.22691 - 	 Mean:    0.23102 - 	 AQreal:   19.89605  	 
+Exp: 7 - 	 Ger: 40 - 	 Best:    0.22691 - 	 Mean:    0.23100 - 	 AQreal:   12.39214  	 
+Exp: 7 - 	 Ger: 41 - 	 Best:    0.22691 - 	 Mean:    0.23086 - 	 AQreal:   12.39214  	 
+Exp: 7 - 	 Ger: 42 - 	 Best:    0.22691 - 	 Mean:    0.23062 - 	 AQreal:   12.39214  	 
+Exp: 7 - 	 Ger: 43 - 	 Best:    0.22532 - 	 Mean:    0.23048 - 	 AQreal:   12.39214  	 
+Exp: 7 - 	 Ger: 44 - 	 Best:    0.22532 - 	 Mean:    0.23039 - 	 AQreal:   12.39214  	 
+Exp: 7 - 	 Ger: 45 - 	 Best:    0.22532 - 	 Mean:    0.23033 - 	 AQreal:   11.38556  	 
+Exp: 7 - 	 Ger: 46 - 	 Best:    0.22532 - 	 Mean:    0.23024 - 	 AQreal:   11.38556  	 
+Exp: 7 - 	 Ger: 47 - 	 Best:    0.22532 - 	 Mean:    0.23007 - 	 AQreal:   11.38556  	 
+Exp: 7 - 	 Ger: 48 - 	 Best:    0.22532 - 	 Mean:    0.22998 - 	 AQreal:   11.38556  	 
+Exp: 7 - 	 Ger: 49 - 	 Best:    0.22532 - 	 Mean:    0.22993 - 	 AQreal:   11.38556  	 
+Exp: 7 - 	 Ger: 50 - 	 Best:    0.22532 - 	 Mean:    0.22981 - 	 AQreal:    9.08922  	 
+Exp: 8 - 	 Ger: 1 - 	 Best:    0.24846 - 	 Mean: 18609839.41355 - 	 AQreal:   50.78165  	 
+Exp: 8 - 	 Ger: 2 - 	 Best:    0.24846 - 	 Mean:    0.86449 - 	 AQreal:   50.78165  	 
+Exp: 8 - 	 Ger: 3 - 	 Best:    0.24846 - 	 Mean:    0.40860 - 	 AQreal:   50.78165  	 
+Exp: 8 - 	 Ger: 4 - 	 Best:    0.24755 - 	 Mean:    0.33444 - 	 AQreal:   50.78165  	 
+Exp: 8 - 	 Ger: 5 - 	 Best:    0.24755 - 	 Mean:    0.29975 - 	 AQreal:   49.23222  	 
+Exp: 8 - 	 Ger: 6 - 	 Best:    0.24206 - 	 Mean:    0.27488 - 	 AQreal:   49.23222  	 
+Exp: 8 - 	 Ger: 7 - 	 Best:    0.23876 - 	 Mean:    0.26481 - 	 AQreal:   49.23222  	 
+Exp: 8 - 	 Ger: 8 - 	 Best:    0.23876 - 	 Mean:    0.25589 - 	 AQreal:   49.23222  	 
+Exp: 8 - 	 Ger: 9 - 	 Best:    0.23635 - 	 Mean:    0.25077 - 	 AQreal:   49.23222  	 
+Exp: 8 - 	 Ger: 10 - 	 Best:    0.23635 - 	 Mean:    0.24782 - 	 AQreal:   47.28648  	 
+Exp: 8 - 	 Ger: 11 - 	 Best:    0.23567 - 	 Mean:    0.24554 - 	 AQreal:   47.28648  	 
+Exp: 8 - 	 Ger: 12 - 	 Best:    0.23323 - 	 Mean:    0.24411 - 	 AQreal:   47.28648  	 
+Exp: 8 - 	 Ger: 13 - 	 Best:    0.23323 - 	 Mean:    0.24144 - 	 AQreal:   47.28648  	 
+Exp: 8 - 	 Ger: 14 - 	 Best:    0.23323 - 	 Mean:    0.23975 - 	 AQreal:   47.28648  	 
+Exp: 8 - 	 Ger: 15 - 	 Best:    0.23323 - 	 Mean:    0.23877 - 	 AQreal:   45.91650  	 
+Exp: 8 - 	 Ger: 16 - 	 Best:    0.23056 - 	 Mean:    0.23789 - 	 AQreal:   45.91650  	 
+Exp: 8 - 	 Ger: 17 - 	 Best:    0.23056 - 	 Mean:    0.23749 - 	 AQreal:   45.91650  	 
+Exp: 8 - 	 Ger: 18 - 	 Best:    0.23056 - 	 Mean:    0.23693 - 	 AQreal:   45.91650  	 
+Exp: 8 - 	 Ger: 19 - 	 Best:    0.23056 - 	 Mean:    0.23665 - 	 AQreal:   45.91650  	 
+Exp: 8 - 	 Ger: 20 - 	 Best:    0.23056 - 	 Mean:    0.23625 - 	 AQreal:   45.98598  	 
+Exp: 8 - 	 Ger: 21 - 	 Best:    0.23056 - 	 Mean:    0.23611 - 	 AQreal:   45.98598  	 
+Exp: 8 - 	 Ger: 22 - 	 Best:    0.23056 - 	 Mean:    0.23588 - 	 AQreal:   45.98598  	 
+Exp: 8 - 	 Ger: 23 - 	 Best:    0.23050 - 	 Mean:    0.23531 - 	 AQreal:   45.98598  	 
+Exp: 8 - 	 Ger: 24 - 	 Best:    0.23050 - 	 Mean:    0.23489 - 	 AQreal:   45.98598  	 
+Exp: 8 - 	 Ger: 25 - 	 Best:    0.22876 - 	 Mean:    0.23457 - 	 AQreal:   39.30750  	 
+Exp: 8 - 	 Ger: 26 - 	 Best:    0.22876 - 	 Mean:    0.23432 - 	 AQreal:   39.30750  	 
+Exp: 8 - 	 Ger: 27 - 	 Best:    0.22876 - 	 Mean:    0.23393 - 	 AQreal:   39.30750  	 
+Exp: 8 - 	 Ger: 28 - 	 Best:    0.22574 - 	 Mean:    0.23319 - 	 AQreal:   39.30750  	 
+Exp: 8 - 	 Ger: 29 - 	 Best:    0.22574 - 	 Mean:    0.23288 - 	 AQreal:   39.30750  	 
+Exp: 8 - 	 Ger: 30 - 	 Best:    0.22574 - 	 Mean:    0.23230 - 	 AQreal:   41.29051  	 
+Exp: 8 - 	 Ger: 31 - 	 Best:    0.22574 - 	 Mean:    0.23180 - 	 AQreal:   41.29051  	 
+Exp: 8 - 	 Ger: 32 - 	 Best:    0.22574 - 	 Mean:    0.23135 - 	 AQreal:   41.29051  	 
+Exp: 8 - 	 Ger: 33 - 	 Best:    0.22574 - 	 Mean:    0.23109 - 	 AQreal:   41.29051  	 
+Exp: 8 - 	 Ger: 34 - 	 Best:    0.22574 - 	 Mean:    0.23077 - 	 AQreal:   41.29051  	 
+Exp: 8 - 	 Ger: 35 - 	 Best:    0.22574 - 	 Mean:    0.23055 - 	 AQreal:   44.25493  	 
+Exp: 8 - 	 Ger: 36 - 	 Best:    0.22574 - 	 Mean:    0.23027 - 	 AQreal:   44.25493  	 
+Exp: 8 - 	 Ger: 37 - 	 Best:    0.22574 - 	 Mean:    0.23007 - 	 AQreal:   44.25493  	 
+Exp: 8 - 	 Ger: 38 - 	 Best:    0.22574 - 	 Mean:    0.22995 - 	 AQreal:   44.25493  	 
+Exp: 8 - 	 Ger: 39 - 	 Best:    0.22574 - 	 Mean:    0.22991 - 	 AQreal:   44.25493  	 
+Exp: 8 - 	 Ger: 40 - 	 Best:    0.22574 - 	 Mean:    0.22978 - 	 AQreal:   44.79044  	 
+Exp: 8 - 	 Ger: 41 - 	 Best:    0.22574 - 	 Mean:    0.22962 - 	 AQreal:   44.79044  	 
+Exp: 8 - 	 Ger: 42 - 	 Best:    0.22574 - 	 Mean:    0.22957 - 	 AQreal:   44.79044  	 
+Exp: 8 - 	 Ger: 43 - 	 Best:    0.22574 - 	 Mean:    0.22950 - 	 AQreal:   44.79044  	 
+Exp: 8 - 	 Ger: 44 - 	 Best:    0.22574 - 	 Mean:    0.22942 - 	 AQreal:   44.79044  	 
+Exp: 8 - 	 Ger: 45 - 	 Best:    0.22574 - 	 Mean:    0.22931 - 	 AQreal:   42.66883  	 
+Exp: 8 - 	 Ger: 46 - 	 Best:    0.22574 - 	 Mean:    0.22924 - 	 AQreal:   42.66883  	 
+Exp: 8 - 	 Ger: 47 - 	 Best:    0.22574 - 	 Mean:    0.22916 - 	 AQreal:   42.66883  	 
+Exp: 8 - 	 Ger: 48 - 	 Best:    0.22574 - 	 Mean:    0.22914 - 	 AQreal:   42.66883  	 
+Exp: 8 - 	 Ger: 49 - 	 Best:    0.22574 - 	 Mean:    0.22913 - 	 AQreal:   42.66883  	 
+Exp: 8 - 	 Ger: 50 - 	 Best:    0.22574 - 	 Mean:    0.22905 - 	 AQreal:   30.62895  	 
+Exp: 9 - 	 Ger: 1 - 	 Best:    0.24102 - 	 Mean: 11502173.55775 - 	 AQreal:   50.78165  	 
+Exp: 9 - 	 Ger: 2 - 	 Best:    0.24102 - 	 Mean:    0.84955 - 	 AQreal:   50.78165  	 
+Exp: 9 - 	 Ger: 3 - 	 Best:    0.24102 - 	 Mean:    0.41829 - 	 AQreal:   50.78165  	 
+Exp: 9 - 	 Ger: 4 - 	 Best:    0.24102 - 	 Mean:    0.36042 - 	 AQreal:   50.78165  	 
+Exp: 9 - 	 Ger: 5 - 	 Best:    0.24102 - 	 Mean:    0.32916 - 	 AQreal:   40.05997  	 
+Exp: 9 - 	 Ger: 6 - 	 Best:    0.23751 - 	 Mean:    0.29907 - 	 AQreal:   40.05997  	 
+Exp: 9 - 	 Ger: 7 - 	 Best:    0.23751 - 	 Mean:    0.27393 - 	 AQreal:   40.05997  	 
+Exp: 9 - 	 Ger: 8 - 	 Best:    0.23751 - 	 Mean:    0.25794 - 	 AQreal:   40.05997  	 
+Exp: 9 - 	 Ger: 9 - 	 Best:    0.23751 - 	 Mean:    0.25027 - 	 AQreal:   40.05997  	 
+Exp: 9 - 	 Ger: 10 - 	 Best:    0.23134 - 	 Mean:    0.24509 - 	 AQreal:   38.94022  	 
+Exp: 9 - 	 Ger: 11 - 	 Best:    0.23134 - 	 Mean:    0.24279 - 	 AQreal:   38.94022  	 
+Exp: 9 - 	 Ger: 12 - 	 Best:    0.23093 - 	 Mean:    0.24016 - 	 AQreal:   38.94022  	 
+Exp: 9 - 	 Ger: 13 - 	 Best:    0.23093 - 	 Mean:    0.23896 - 	 AQreal:   38.94022  	 
+Exp: 9 - 	 Ger: 14 - 	 Best:    0.23093 - 	 Mean:    0.23796 - 	 AQreal:   38.94022  	 
+Exp: 9 - 	 Ger: 15 - 	 Best:    0.23093 - 	 Mean:    0.23692 - 	 AQreal:   39.59753  	 
+Exp: 9 - 	 Ger: 16 - 	 Best:    0.23093 - 	 Mean:    0.23608 - 	 AQreal:   39.59753  	 
+Exp: 9 - 	 Ger: 17 - 	 Best:    0.23093 - 	 Mean:    0.23551 - 	 AQreal:   39.59753  	 
+Exp: 9 - 	 Ger: 18 - 	 Best:    0.22963 - 	 Mean:    0.23482 - 	 AQreal:   39.59753  	 
+Exp: 9 - 	 Ger: 19 - 	 Best:    0.22963 - 	 Mean:    0.23444 - 	 AQreal:   39.59753  	 
+Exp: 9 - 	 Ger: 20 - 	 Best:    0.22696 - 	 Mean:    0.23358 - 	 AQreal:   30.72547  	 
+Exp: 9 - 	 Ger: 21 - 	 Best:    0.22696 - 	 Mean:    0.23292 - 	 AQreal:   30.72547  	 
+Exp: 9 - 	 Ger: 22 - 	 Best:    0.22696 - 	 Mean:    0.23261 - 	 AQreal:   30.72547  	 
+Exp: 9 - 	 Ger: 23 - 	 Best:    0.22696 - 	 Mean:    0.23223 - 	 AQreal:   30.72547  	 
+Exp: 9 - 	 Ger: 24 - 	 Best:    0.22696 - 	 Mean:    0.23182 - 	 AQreal:   30.72547  	 
+Exp: 9 - 	 Ger: 25 - 	 Best:    0.22670 - 	 Mean:    0.23134 - 	 AQreal:   34.69554  	 
+Exp: 9 - 	 Ger: 26 - 	 Best:    0.22670 - 	 Mean:    0.23096 - 	 AQreal:   34.69554  	 
+Exp: 9 - 	 Ger: 27 - 	 Best:    0.22670 - 	 Mean:    0.23083 - 	 AQreal:   34.69554  	 
+Exp: 9 - 	 Ger: 28 - 	 Best:    0.22670 - 	 Mean:    0.23058 - 	 AQreal:   34.69554  	 
+Exp: 9 - 	 Ger: 29 - 	 Best:    0.22670 - 	 Mean:    0.23051 - 	 AQreal:   34.69554  	 
+Exp: 9 - 	 Ger: 30 - 	 Best:    0.22670 - 	 Mean:    0.23040 - 	 AQreal:   38.22277  	 
+Exp: 9 - 	 Ger: 31 - 	 Best:    0.22670 - 	 Mean:    0.23031 - 	 AQreal:   38.22277  	 
+Exp: 9 - 	 Ger: 32 - 	 Best:    0.22670 - 	 Mean:    0.23020 - 	 AQreal:   38.22277  	 
+Exp: 9 - 	 Ger: 33 - 	 Best:    0.22670 - 	 Mean:    0.23009 - 	 AQreal:   38.22277  	 
+Exp: 9 - 	 Ger: 34 - 	 Best:    0.22670 - 	 Mean:    0.22998 - 	 AQreal:   38.22277  	 
+Exp: 9 - 	 Ger: 35 - 	 Best:    0.22670 - 	 Mean:    0.22991 - 	 AQreal:   34.78680  	 
+Exp: 9 - 	 Ger: 36 - 	 Best:    0.22670 - 	 Mean:    0.22986 - 	 AQreal:   34.78680  	 
+Exp: 9 - 	 Ger: 37 - 	 Best:    0.22670 - 	 Mean:    0.22973 - 	 AQreal:   34.78680  	 
+Exp: 9 - 	 Ger: 38 - 	 Best:    0.22568 - 	 Mean:    0.22959 - 	 AQreal:   34.78680  	 
+Exp: 9 - 	 Ger: 39 - 	 Best:    0.22568 - 	 Mean:    0.22942 - 	 AQreal:   34.78680  	 
+Exp: 9 - 	 Ger: 40 - 	 Best:    0.22568 - 	 Mean:    0.22934 - 	 AQreal:   38.57062  	 
+Exp: 9 - 	 Ger: 41 - 	 Best:    0.22568 - 	 Mean:    0.22930 - 	 AQreal:   38.57062  	 
+Exp: 9 - 	 Ger: 42 - 	 Best:    0.22568 - 	 Mean:    0.22928 - 	 AQreal:   38.57062  	 
+Exp: 9 - 	 Ger: 43 - 	 Best:    0.22568 - 	 Mean:    0.22922 - 	 AQreal:   38.57062  	 
+Exp: 9 - 	 Ger: 44 - 	 Best:    0.22568 - 	 Mean:    0.22920 - 	 AQreal:   38.57062  	 
+Exp: 9 - 	 Ger: 45 - 	 Best:    0.22568 - 	 Mean:    0.22919 - 	 AQreal:   40.67268  	 
+Exp: 9 - 	 Ger: 46 - 	 Best:    0.22568 - 	 Mean:    0.22912 - 	 AQreal:   40.67268  	 
+Exp: 9 - 	 Ger: 47 - 	 Best:    0.22568 - 	 Mean:    0.22907 - 	 AQreal:   40.67268  	 
+Exp: 9 - 	 Ger: 48 - 	 Best:    0.22568 - 	 Mean:    0.22903 - 	 AQreal:   40.67268  	 
+Exp: 9 - 	 Ger: 49 - 	 Best:    0.22568 - 	 Mean:    0.22901 - 	 AQreal:   40.67268  	 
+Exp: 9 - 	 Ger: 50 - 	 Best:    0.22568 - 	 Mean:    0.22876 - 	 AQreal:   21.94073  	 
+Exp: 10 - 	 Ger: 1 - 	 Best:    0.24400 - 	 Mean: 1133570.90873 - 	 AQreal:   50.78165  	 
+Exp: 10 - 	 Ger: 2 - 	 Best:    0.24400 - 	 Mean:    5.53531 - 	 AQreal:   50.78165  	 
+Exp: 10 - 	 Ger: 3 - 	 Best:    0.24400 - 	 Mean:    0.40730 - 	 AQreal:   50.78165  	 
+Exp: 10 - 	 Ger: 4 - 	 Best:    0.24400 - 	 Mean:    0.32601 - 	 AQreal:   50.78165  	 
+Exp: 10 - 	 Ger: 5 - 	 Best:    0.24400 - 	 Mean:    0.29849 - 	 AQreal:   50.72296  	 
+Exp: 10 - 	 Ger: 6 - 	 Best:    0.24400 - 	 Mean:    0.28960 - 	 AQreal:   50.72296  	 
+Exp: 10 - 	 Ger: 7 - 	 Best:    0.24400 - 	 Mean:    0.27736 - 	 AQreal:   50.72296  	 
+Exp: 10 - 	 Ger: 8 - 	 Best:    0.23837 - 	 Mean:    0.27167 - 	 AQreal:   50.72296  	 
+Exp: 10 - 	 Ger: 9 - 	 Best:    0.23837 - 	 Mean:    0.26345 - 	 AQreal:   50.72296  	 
+Exp: 10 - 	 Ger: 10 - 	 Best:    0.23514 - 	 Mean:    0.25761 - 	 AQreal:   41.09704  	 
+Exp: 10 - 	 Ger: 11 - 	 Best:    0.23433 - 	 Mean:    0.25055 - 	 AQreal:   41.09704  	 
+Exp: 10 - 	 Ger: 12 - 	 Best:    0.23433 - 	 Mean:    0.24698 - 	 AQreal:   41.09704  	 
+Exp: 10 - 	 Ger: 13 - 	 Best:    0.23433 - 	 Mean:    0.24480 - 	 AQreal:   41.09704  	 
+Exp: 10 - 	 Ger: 14 - 	 Best:    0.23433 - 	 Mean:    0.24251 - 	 AQreal:   41.09704  	 
+Exp: 10 - 	 Ger: 15 - 	 Best:    0.23256 - 	 Mean:    0.24087 - 	 AQreal:   41.74621  	 
+Exp: 10 - 	 Ger: 16 - 	 Best:    0.23118 - 	 Mean:    0.23889 - 	 AQreal:   41.74621  	 
+Exp: 10 - 	 Ger: 17 - 	 Best:    0.23118 - 	 Mean:    0.23782 - 	 AQreal:   41.74621  	 
+Exp: 10 - 	 Ger: 18 - 	 Best:    0.22855 - 	 Mean:    0.23684 - 	 AQreal:   41.74621  	 
+Exp: 10 - 	 Ger: 19 - 	 Best:    0.22855 - 	 Mean:    0.23501 - 	 AQreal:   41.74621  	 
+Exp: 10 - 	 Ger: 20 - 	 Best:    0.22733 - 	 Mean:    0.23373 - 	 AQreal:   41.90783  	 
+Exp: 10 - 	 Ger: 21 - 	 Best:    0.22733 - 	 Mean:    0.23287 - 	 AQreal:   41.90783  	 
+Exp: 10 - 	 Ger: 22 - 	 Best:    0.22733 - 	 Mean:    0.23242 - 	 AQreal:   41.90783  	 
+Exp: 10 - 	 Ger: 23 - 	 Best:    0.22733 - 	 Mean:    0.23193 - 	 AQreal:   41.90783  	 
+Exp: 10 - 	 Ger: 24 - 	 Best:    0.22733 - 	 Mean:    0.23163 - 	 AQreal:   41.90783  	 
+Exp: 10 - 	 Ger: 25 - 	 Best:    0.22733 - 	 Mean:    0.23087 - 	 AQreal:   42.37526  	 
+Exp: 10 - 	 Ger: 26 - 	 Best:    0.22733 - 	 Mean:    0.23060 - 	 AQreal:   42.37526  	 
+Exp: 10 - 	 Ger: 27 - 	 Best:    0.22733 - 	 Mean:    0.23038 - 	 AQreal:   42.37526  	 
+Exp: 10 - 	 Ger: 28 - 	 Best:    0.22733 - 	 Mean:    0.23031 - 	 AQreal:   42.37526  	 
+Exp: 10 - 	 Ger: 29 - 	 Best:    0.22733 - 	 Mean:    0.22999 - 	 AQreal:   42.37526  	 
+Exp: 10 - 	 Ger: 30 - 	 Best:    0.22733 - 	 Mean:    0.22982 - 	 AQreal:   36.35024  	 
+Exp: 10 - 	 Ger: 31 - 	 Best:    0.22733 - 	 Mean:    0.22976 - 	 AQreal:   36.35024  	 
+Exp: 10 - 	 Ger: 32 - 	 Best:    0.22733 - 	 Mean:    0.22962 - 	 AQreal:   36.35024  	 
+Exp: 10 - 	 Ger: 33 - 	 Best:    0.22733 - 	 Mean:    0.22953 - 	 AQreal:   36.35024  	 
+Exp: 10 - 	 Ger: 34 - 	 Best:    0.22579 - 	 Mean:    0.22932 - 	 AQreal:   36.35024  	 
+Exp: 10 - 	 Ger: 35 - 	 Best:    0.22579 - 	 Mean:    0.22910 - 	 AQreal:   33.87724  	 
+Exp: 10 - 	 Ger: 36 - 	 Best:    0.22579 - 	 Mean:    0.22900 - 	 AQreal:   33.87724  	 
+Exp: 10 - 	 Ger: 37 - 	 Best:    0.22579 - 	 Mean:    0.22894 - 	 AQreal:   33.87724  	 
+Exp: 10 - 	 Ger: 38 - 	 Best:    0.22579 - 	 Mean:    0.22869 - 	 AQreal:   33.87724  	 
+Exp: 10 - 	 Ger: 39 - 	 Best:    0.22579 - 	 Mean:    0.22849 - 	 AQreal:   33.87724  	 
+Exp: 10 - 	 Ger: 40 - 	 Best:    0.22579 - 	 Mean:    0.22844 - 	 AQreal:   31.47091  	 
+Exp: 10 - 	 Ger: 41 - 	 Best:    0.22579 - 	 Mean:    0.22838 - 	 AQreal:   31.47091  	 
+Exp: 10 - 	 Ger: 42 - 	 Best:    0.22579 - 	 Mean:    0.22829 - 	 AQreal:   31.47091  	 
+Exp: 10 - 	 Ger: 43 - 	 Best:    0.22579 - 	 Mean:    0.22822 - 	 AQreal:   31.47091  	 
+Exp: 10 - 	 Ger: 44 - 	 Best:    0.22579 - 	 Mean:    0.22821 - 	 AQreal:   31.47091  	 
+Exp: 10 - 	 Ger: 45 - 	 Best:    0.22579 - 	 Mean:    0.22814 - 	 AQreal:   18.96530  	 
+Exp: 10 - 	 Ger: 46 - 	 Best:    0.22579 - 	 Mean:    0.22813 - 	 AQreal:   18.96530  	 
+Exp: 10 - 	 Ger: 47 - 	 Best:    0.22579 - 	 Mean:    0.22812 - 	 AQreal:   18.96530  	 
+Exp: 10 - 	 Ger: 48 - 	 Best:    0.22579 - 	 Mean:    0.22807 - 	 AQreal:   18.96530  	 
+Exp: 10 - 	 Ger: 49 - 	 Best:    0.22579 - 	 Mean:    0.22807 - 	 AQreal:   18.96530  	 
+Exp: 10 - 	 Ger: 50 - 	 Best:    0.22579 - 	 Mean:    0.22802 - 	 AQreal:   16.37136  	 
+Exp: 1 - 	 Ger: 1 - 	 Best:    0.21932 - 	 Mean:    0.23333 - 	 AQreal:    1.00000  	 
+Exp: 1 - 	 Ger: 2 - 	 Best:    0.21789 - 	 Mean:    0.22684 - 	 AQreal:    1.00000  	 
+Exp: 1 - 	 Ger: 3 - 	 Best:    0.21590 - 	 Mean:    0.22448 - 	 AQreal:    1.00000  	 
+Exp: 1 - 	 Ger: 4 - 	 Best:    0.21590 - 	 Mean:    0.22266 - 	 AQreal:    1.00000  	 
+Exp: 1 - 	 Ger: 5 - 	 Best:    0.21169 - 	 Mean:    0.22085 - 	 AQreal:    0.89917  	 
+Exp: 1 - 	 Ger: 6 - 	 Best:    0.21169 - 	 Mean:    0.21992 - 	 AQreal:    0.89917  	 
+Exp: 1 - 	 Ger: 7 - 	 Best:    0.21169 - 	 Mean:    0.21903 - 	 AQreal:    0.89917  	 
+Exp: 1 - 	 Ger: 8 - 	 Best:    0.21169 - 	 Mean:    0.21842 - 	 AQreal:    0.89917  	 
+Exp: 1 - 	 Ger: 9 - 	 Best:    0.21169 - 	 Mean:    0.21795 - 	 AQreal:    0.89917  	 
+Exp: 1 - 	 Ger: 10 - 	 Best:    0.21169 - 	 Mean:    0.21734 - 	 AQreal:    0.79884  	 
+Exp: 1 - 	 Ger: 11 - 	 Best:    0.21169 - 	 Mean:    0.21695 - 	 AQreal:    0.79884  	 
+Exp: 1 - 	 Ger: 12 - 	 Best:    0.21169 - 	 Mean:    0.21689 - 	 AQreal:    0.79884  	 
+Exp: 1 - 	 Ger: 13 - 	 Best:    0.21169 - 	 Mean:    0.21671 - 	 AQreal:    0.79884  	 
+Exp: 1 - 	 Ger: 14 - 	 Best:    0.21138 - 	 Mean:    0.21637 - 	 AQreal:    0.79884  	 
+Exp: 1 - 	 Ger: 15 - 	 Best:    0.21138 - 	 Mean:    0.21619 - 	 AQreal:    0.76815  	 
+Exp: 1 - 	 Ger: 16 - 	 Best:    0.21138 - 	 Mean:    0.21604 - 	 AQreal:    0.76815  	 
+Exp: 1 - 	 Ger: 17 - 	 Best:    0.20824 - 	 Mean:    0.21566 - 	 AQreal:    0.76815  	 
+Exp: 1 - 	 Ger: 18 - 	 Best:    0.20824 - 	 Mean:    0.21523 - 	 AQreal:    0.76815  	 
+Exp: 1 - 	 Ger: 19 - 	 Best:    0.20824 - 	 Mean:    0.21494 - 	 AQreal:    0.76815  	 
+Exp: 1 - 	 Ger: 20 - 	 Best:    0.20824 - 	 Mean:    0.21490 - 	 AQreal:    0.63234  	 
+Exp: 1 - 	 Ger: 21 - 	 Best:    0.20695 - 	 Mean:    0.21454 - 	 AQreal:    0.63234  	 
+Exp: 1 - 	 Ger: 22 - 	 Best:    0.20695 - 	 Mean:    0.21412 - 	 AQreal:    0.63234  	 
+Exp: 1 - 	 Ger: 23 - 	 Best:    0.20695 - 	 Mean:    0.21383 - 	 AQreal:    0.63234  	 
+Exp: 1 - 	 Ger: 24 - 	 Best:    0.20695 - 	 Mean:    0.21355 - 	 AQreal:    0.63234  	 
+Exp: 1 - 	 Ger: 25 - 	 Best:    0.20695 - 	 Mean:    0.21355 - 	 AQreal:    0.58968  	 
+Exp: 1 - 	 Ger: 26 - 	 Best:    0.20695 - 	 Mean:    0.21329 - 	 AQreal:    0.58968  	 
+Exp: 1 - 	 Ger: 27 - 	 Best:    0.20695 - 	 Mean:    0.21304 - 	 AQreal:    0.58968  	 
+Exp: 1 - 	 Ger: 28 - 	 Best:    0.20695 - 	 Mean:    0.21294 - 	 AQreal:    0.58968  	 
+Exp: 1 - 	 Ger: 29 - 	 Best:    0.20695 - 	 Mean:    0.21288 - 	 AQreal:    0.58968  	 
+Exp: 1 - 	 Ger: 30 - 	 Best:    0.20695 - 	 Mean:    0.21243 - 	 AQreal:    0.58659  	 
+Exp: 1 - 	 Ger: 31 - 	 Best:    0.20695 - 	 Mean:    0.21216 - 	 AQreal:    0.58659  	 
+Exp: 1 - 	 Ger: 32 - 	 Best:    0.20695 - 	 Mean:    0.21204 - 	 AQreal:    0.58659  	 
+Exp: 1 - 	 Ger: 33 - 	 Best:    0.20695 - 	 Mean:    0.21196 - 	 AQreal:    0.58659  	 
+Exp: 1 - 	 Ger: 34 - 	 Best:    0.20695 - 	 Mean:    0.21187 - 	 AQreal:    0.58659  	 
+Exp: 1 - 	 Ger: 35 - 	 Best:    0.20695 - 	 Mean:    0.21164 - 	 AQreal:    0.50769  	 
+Exp: 1 - 	 Ger: 36 - 	 Best:    0.20695 - 	 Mean:    0.21146 - 	 AQreal:    0.50769  	 
+Exp: 1 - 	 Ger: 37 - 	 Best:    0.20695 - 	 Mean:    0.21141 - 	 AQreal:    0.50769  	 
+Exp: 1 - 	 Ger: 38 - 	 Best:    0.20695 - 	 Mean:    0.21140 - 	 AQreal:    0.50769  	 
+Exp: 1 - 	 Ger: 39 - 	 Best:    0.20695 - 	 Mean:    0.21110 - 	 AQreal:    0.50769  	 
+Exp: 1 - 	 Ger: 40 - 	 Best:    0.20695 - 	 Mean:    0.21086 - 	 AQreal:    0.47384  	 
+Exp: 1 - 	 Ger: 41 - 	 Best:    0.20695 - 	 Mean:    0.21070 - 	 AQreal:    0.47384  	 
+Exp: 1 - 	 Ger: 42 - 	 Best:    0.20695 - 	 Mean:    0.21055 - 	 AQreal:    0.47384  	 
+Exp: 1 - 	 Ger: 43 - 	 Best:    0.20695 - 	 Mean:    0.21055 - 	 AQreal:    0.47384  	 
+Exp: 1 - 	 Ger: 44 - 	 Best:    0.20695 - 	 Mean:    0.21041 - 	 AQreal:    0.47384  	 
+Exp: 1 - 	 Ger: 45 - 	 Best:    0.20695 - 	 Mean:    0.21036 - 	 AQreal:    0.39499  	 
+Exp: 1 - 	 Ger: 46 - 	 Best:    0.20549 - 	 Mean:    0.21009 - 	 AQreal:    0.39499  	 
+Exp: 1 - 	 Ger: 47 - 	 Best:    0.20549 - 	 Mean:    0.20995 - 	 AQreal:    0.39499  	 
+Exp: 1 - 	 Ger: 48 - 	 Best:    0.20549 - 	 Mean:    0.20979 - 	 AQreal:    0.39499  	 
+Exp: 1 - 	 Ger: 49 - 	 Best:    0.20549 - 	 Mean:    0.20974 - 	 AQreal:    0.39499  	 
+Exp: 1 - 	 Ger: 50 - 	 Best:    0.20549 - 	 Mean:    0.20970 - 	 AQreal:    0.38568  	 
+Exp: 2 - 	 Ger: 1 - 	 Best:    0.21706 - 	 Mean:    0.23636 - 	 AQreal:    1.00000  	 
+Exp: 2 - 	 Ger: 2 - 	 Best:    0.21706 - 	 Mean:    0.23054 - 	 AQreal:    1.00000  	 
+Exp: 2 - 	 Ger: 3 - 	 Best:    0.21706 - 	 Mean:    0.22721 - 	 AQreal:    1.00000  	 
+Exp: 2 - 	 Ger: 4 - 	 Best:    0.21656 - 	 Mean:    0.22557 - 	 AQreal:    1.00000  	 
+Exp: 2 - 	 Ger: 5 - 	 Best:    0.21656 - 	 Mean:    0.22412 - 	 AQreal:    0.96952  	 
+Exp: 2 - 	 Ger: 6 - 	 Best:    0.21656 - 	 Mean:    0.22333 - 	 AQreal:    0.96952  	 
+Exp: 2 - 	 Ger: 7 - 	 Best:    0.21656 - 	 Mean:    0.22236 - 	 AQreal:    0.96952  	 
+Exp: 2 - 	 Ger: 8 - 	 Best:    0.21656 - 	 Mean:    0.22187 - 	 AQreal:    0.96952  	 
+Exp: 2 - 	 Ger: 9 - 	 Best:    0.20663 - 	 Mean:    0.22038 - 	 AQreal:    0.96952  	 
+Exp: 2 - 	 Ger: 10 - 	 Best:    0.20663 - 	 Mean:    0.21983 - 	 AQreal:    0.92361  	 
+Exp: 2 - 	 Ger: 11 - 	 Best:    0.20663 - 	 Mean:    0.21917 - 	 AQreal:    0.92361  	 
+Exp: 2 - 	 Ger: 12 - 	 Best:    0.20663 - 	 Mean:    0.21891 - 	 AQreal:    0.92361  	 
+Exp: 2 - 	 Ger: 13 - 	 Best:    0.20663 - 	 Mean:    0.21859 - 	 AQreal:    0.92361  	 
+Exp: 2 - 	 Ger: 14 - 	 Best:    0.20456 - 	 Mean:    0.21789 - 	 AQreal:    0.92361  	 
+Exp: 2 - 	 Ger: 15 - 	 Best:    0.20456 - 	 Mean:    0.21758 - 	 AQreal:    0.87957  	 
+Exp: 2 - 	 Ger: 16 - 	 Best:    0.20456 - 	 Mean:    0.21736 - 	 AQreal:    0.87957  	 
+Exp: 2 - 	 Ger: 17 - 	 Best:    0.20456 - 	 Mean:    0.21697 - 	 AQreal:    0.87957  	 
+Exp: 2 - 	 Ger: 18 - 	 Best:    0.20456 - 	 Mean:    0.21612 - 	 AQreal:    0.87957  	 
+Exp: 2 - 	 Ger: 19 - 	 Best:    0.20456 - 	 Mean:    0.21551 - 	 AQreal:    0.87957  	 
+Exp: 2 - 	 Ger: 20 - 	 Best:    0.20456 - 	 Mean:    0.21503 - 	 AQreal:    0.66177  	 
+Exp: 2 - 	 Ger: 21 - 	 Best:    0.20456 - 	 Mean:    0.21464 - 	 AQreal:    0.66177  	 
+Exp: 2 - 	 Ger: 22 - 	 Best:    0.20456 - 	 Mean:    0.21435 - 	 AQreal:    0.66177  	 
+Exp: 2 - 	 Ger: 23 - 	 Best:    0.20456 - 	 Mean:    0.21428 - 	 AQreal:    0.66177  	 
+Exp: 2 - 	 Ger: 24 - 	 Best:    0.20456 - 	 Mean:    0.21414 - 	 AQreal:    0.66177  	 
+Exp: 2 - 	 Ger: 25 - 	 Best:    0.20456 - 	 Mean:    0.21414 - 	 AQreal:    0.64323  	 
+Exp: 2 - 	 Ger: 26 - 	 Best:    0.20456 - 	 Mean:    0.21402 - 	 AQreal:    0.64323  	 
+Exp: 2 - 	 Ger: 27 - 	 Best:    0.20456 - 	 Mean:    0.21362 - 	 AQreal:    0.64323  	 
+Exp: 2 - 	 Ger: 28 - 	 Best:    0.20456 - 	 Mean:    0.21300 - 	 AQreal:    0.64323  	 
+Exp: 2 - 	 Ger: 29 - 	 Best:    0.20456 - 	 Mean:    0.21269 - 	 AQreal:    0.64323  	 
+Exp: 2 - 	 Ger: 30 - 	 Best:    0.20456 - 	 Mean:    0.21232 - 	 AQreal:    0.63433  	 
+Exp: 2 - 	 Ger: 31 - 	 Best:    0.20456 - 	 Mean:    0.21205 - 	 AQreal:    0.63433  	 
+Exp: 2 - 	 Ger: 32 - 	 Best:    0.20456 - 	 Mean:    0.21177 - 	 AQreal:    0.63433  	 
+Exp: 2 - 	 Ger: 33 - 	 Best:    0.20456 - 	 Mean:    0.21160 - 	 AQreal:    0.63433  	 
+Exp: 2 - 	 Ger: 34 - 	 Best:    0.20456 - 	 Mean:    0.21122 - 	 AQreal:    0.63433  	 
+Exp: 2 - 	 Ger: 35 - 	 Best:    0.20456 - 	 Mean:    0.21089 - 	 AQreal:    0.58248  	 
+Exp: 2 - 	 Ger: 36 - 	 Best:    0.20456 - 	 Mean:    0.21058 - 	 AQreal:    0.58248  	 
+Exp: 2 - 	 Ger: 37 - 	 Best:    0.20456 - 	 Mean:    0.21034 - 	 AQreal:    0.58248  	 
+Exp: 2 - 	 Ger: 38 - 	 Best:    0.20456 - 	 Mean:    0.21018 - 	 AQreal:    0.58248  	 
+Exp: 2 - 	 Ger: 39 - 	 Best:    0.20456 - 	 Mean:    0.21011 - 	 AQreal:    0.58248  	 
+Exp: 2 - 	 Ger: 40 - 	 Best:    0.20450 - 	 Mean:    0.20969 - 	 AQreal:    0.47932  	 
+Exp: 2 - 	 Ger: 41 - 	 Best:    0.20450 - 	 Mean:    0.20940 - 	 AQreal:    0.47932  	 
+Exp: 2 - 	 Ger: 42 - 	 Best:    0.20450 - 	 Mean:    0.20932 - 	 AQreal:    0.47932  	 
+Exp: 2 - 	 Ger: 43 - 	 Best:    0.20450 - 	 Mean:    0.20930 - 	 AQreal:    0.47932  	 
+Exp: 2 - 	 Ger: 44 - 	 Best:    0.20221 - 	 Mean:    0.20879 - 	 AQreal:    0.47932  	 
+Exp: 2 - 	 Ger: 45 - 	 Best:    0.20221 - 	 Mean:    0.20868 - 	 AQreal:    0.41002  	 
+Exp: 2 - 	 Ger: 46 - 	 Best:    0.20221 - 	 Mean:    0.20849 - 	 AQreal:    0.41002  	 
+Exp: 2 - 	 Ger: 47 - 	 Best:    0.20221 - 	 Mean:    0.20829 - 	 AQreal:    0.41002  	 
+Exp: 2 - 	 Ger: 48 - 	 Best:    0.20221 - 	 Mean:    0.20818 - 	 AQreal:    0.41002  	 
+Exp: 2 - 	 Ger: 49 - 	 Best:    0.20221 - 	 Mean:    0.20816 - 	 AQreal:    0.41002  	 
+Exp: 2 - 	 Ger: 50 - 	 Best:    0.20221 - 	 Mean:    0.20784 - 	 AQreal:    0.39124  	 
+Exp: 3 - 	 Ger: 1 - 	 Best:    0.21493 - 	 Mean:    6.67443 - 	 AQreal:    1.00000  	 
+Exp: 3 - 	 Ger: 2 - 	 Best:    0.21493 - 	 Mean:    0.22975 - 	 AQreal:    1.00000  	 
+Exp: 3 - 	 Ger: 3 - 	 Best:    0.21493 - 	 Mean:    0.22667 - 	 AQreal:    1.00000  	 
+Exp: 3 - 	 Ger: 4 - 	 Best:    0.21493 - 	 Mean:    0.22516 - 	 AQreal:    1.00000  	 
+Exp: 3 - 	 Ger: 5 - 	 Best:    0.21493 - 	 Mean:    0.22421 - 	 AQreal:    0.82714  	 
+Exp: 3 - 	 Ger: 6 - 	 Best:    0.21493 - 	 Mean:    0.22320 - 	 AQreal:    0.82714  	 
+Exp: 3 - 	 Ger: 7 - 	 Best:    0.21493 - 	 Mean:    0.22194 - 	 AQreal:    0.82714  	 
+Exp: 3 - 	 Ger: 8 - 	 Best:    0.21493 - 	 Mean:    0.22156 - 	 AQreal:    0.82714  	 
+Exp: 3 - 	 Ger: 9 - 	 Best:    0.21493 - 	 Mean:    0.22108 - 	 AQreal:    0.82714  	 
+Exp: 3 - 	 Ger: 10 - 	 Best:    0.21281 - 	 Mean:    0.22035 - 	 AQreal:    0.71024  	 
+Exp: 3 - 	 Ger: 11 - 	 Best:    0.21281 - 	 Mean:    0.21990 - 	 AQreal:    0.71024  	 
+Exp: 3 - 	 Ger: 12 - 	 Best:    0.21281 - 	 Mean:    0.21954 - 	 AQreal:    0.71024  	 
+Exp: 3 - 	 Ger: 13 - 	 Best:    0.21281 - 	 Mean:    0.21878 - 	 AQreal:    0.71024  	 
+Exp: 3 - 	 Ger: 14 - 	 Best:    0.21281 - 	 Mean:    0.21863 - 	 AQreal:    0.71024  	 
+Exp: 3 - 	 Ger: 15 - 	 Best:    0.21281 - 	 Mean:    0.21846 - 	 AQreal:    0.67808  	 
+Exp: 3 - 	 Ger: 16 - 	 Best:    0.21281 - 	 Mean:    0.21785 - 	 AQreal:    0.67808  	 
+Exp: 3 - 	 Ger: 17 - 	 Best:    0.21274 - 	 Mean:    0.21710 - 	 AQreal:    0.67808  	 
+Exp: 3 - 	 Ger: 18 - 	 Best:    0.21274 - 	 Mean:    0.21675 - 	 AQreal:    0.67808  	 
+Exp: 3 - 	 Ger: 19 - 	 Best:    0.21274 - 	 Mean:    0.21657 - 	 AQreal:    0.67808  	 
+Exp: 3 - 	 Ger: 20 - 	 Best:    0.21274 - 	 Mean:    0.21636 - 	 AQreal:    0.61028  	 
+Exp: 3 - 	 Ger: 21 - 	 Best:    0.21274 - 	 Mean:    0.21608 - 	 AQreal:    0.61028  	 
+Exp: 3 - 	 Ger: 22 - 	 Best:    0.21132 - 	 Mean:    0.21580 - 	 AQreal:    0.61028  	 
+Exp: 3 - 	 Ger: 23 - 	 Best:    0.21132 - 	 Mean:    0.21578 - 	 AQreal:    0.61028  	 
+Exp: 3 - 	 Ger: 24 - 	 Best:    0.21132 - 	 Mean:    0.21536 - 	 AQreal:    0.61028  	 
+Exp: 3 - 	 Ger: 25 - 	 Best:    0.21132 - 	 Mean:    0.21520 - 	 AQreal:    0.55470  	 
+Exp: 3 - 	 Ger: 26 - 	 Best:    0.21132 - 	 Mean:    0.21488 - 	 AQreal:    0.55470  	 
+Exp: 3 - 	 Ger: 27 - 	 Best:    0.21043 - 	 Mean:    0.21438 - 	 AQreal:    0.55470  	 
+Exp: 3 - 	 Ger: 28 - 	 Best:    0.21043 - 	 Mean:    0.21409 - 	 AQreal:    0.55470  	 
+Exp: 3 - 	 Ger: 29 - 	 Best:    0.21043 - 	 Mean:    0.21378 - 	 AQreal:    0.55470  	 
+Exp: 3 - 	 Ger: 30 - 	 Best:    0.21043 - 	 Mean:    0.21372 - 	 AQreal:    0.51721  	 
+Exp: 3 - 	 Ger: 31 - 	 Best:    0.21043 - 	 Mean:    0.21354 - 	 AQreal:    0.51721  	 
+Exp: 3 - 	 Ger: 32 - 	 Best:    0.21043 - 	 Mean:    0.21352 - 	 AQreal:    0.51721  	 
+Exp: 3 - 	 Ger: 33 - 	 Best:    0.21043 - 	 Mean:    0.21335 - 	 AQreal:    0.51721  	 
+Exp: 3 - 	 Ger: 34 - 	 Best:    0.21043 - 	 Mean:    0.21329 - 	 AQreal:    0.51721  	 
+Exp: 3 - 	 Ger: 35 - 	 Best:    0.21043 - 	 Mean:    0.21316 - 	 AQreal:    0.46799  	 
+Exp: 3 - 	 Ger: 36 - 	 Best:    0.21043 - 	 Mean:    0.21315 - 	 AQreal:    0.46799  	 
+Exp: 3 - 	 Ger: 37 - 	 Best:    0.21043 - 	 Mean:    0.21315 - 	 AQreal:    0.46799  	 
+Exp: 3 - 	 Ger: 38 - 	 Best:    0.21043 - 	 Mean:    0.21315 - 	 AQreal:    0.46799  	 
+Exp: 3 - 	 Ger: 39 - 	 Best:    0.21015 - 	 Mean:    0.21300 - 	 AQreal:    0.46799  	 
+Exp: 3 - 	 Ger: 40 - 	 Best:    0.21015 - 	 Mean:    0.21291 - 	 AQreal:    0.44633  	 
+Exp: 3 - 	 Ger: 41 - 	 Best:    0.21015 - 	 Mean:    0.21283 - 	 AQreal:    0.44633  	 
+Exp: 3 - 	 Ger: 42 - 	 Best:    0.21015 - 	 Mean:    0.21270 - 	 AQreal:    0.44633  	 
+Exp: 3 - 	 Ger: 43 - 	 Best:    0.21015 - 	 Mean:    0.21270 - 	 AQreal:    0.44633  	 
+Exp: 3 - 	 Ger: 44 - 	 Best:    0.21015 - 	 Mean:    0.21264 - 	 AQreal:    0.44633  	 
+Exp: 3 - 	 Ger: 45 - 	 Best:    0.20872 - 	 Mean:    0.21244 - 	 AQreal:    0.42811  	 
+Exp: 3 - 	 Ger: 46 - 	 Best:    0.20872 - 	 Mean:    0.21241 - 	 AQreal:    0.42811  	 
+Exp: 3 - 	 Ger: 47 - 	 Best:    0.20792 - 	 Mean:    0.21207 - 	 AQreal:    0.42811  	 
+Exp: 3 - 	 Ger: 48 - 	 Best:    0.20792 - 	 Mean:    0.21199 - 	 AQreal:    0.42811  	 
+Exp: 3 - 	 Ger: 49 - 	 Best:    0.20792 - 	 Mean:    0.21181 - 	 AQreal:    0.42811  	 
+Exp: 3 - 	 Ger: 50 - 	 Best:    0.20792 - 	 Mean:    0.21161 - 	 AQreal:    0.42519  	 
+Exp: 4 - 	 Ger: 1 - 	 Best:    0.21448 - 	 Mean:    6.73905 - 	 AQreal:    1.00000  	 
+Exp: 4 - 	 Ger: 2 - 	 Best:    0.21210 - 	 Mean:    0.22432 - 	 AQreal:    1.00000  	 
+Exp: 4 - 	 Ger: 3 - 	 Best:    0.21210 - 	 Mean:    0.22309 - 	 AQreal:    1.00000  	 
+Exp: 4 - 	 Ger: 4 - 	 Best:    0.21210 - 	 Mean:    0.22201 - 	 AQreal:    1.00000  	 
+Exp: 4 - 	 Ger: 5 - 	 Best:    0.21210 - 	 Mean:    0.22133 - 	 AQreal:    0.91002  	 
+Exp: 4 - 	 Ger: 6 - 	 Best:    0.21210 - 	 Mean:    0.22074 - 	 AQreal:    0.91002  	 
+Exp: 4 - 	 Ger: 7 - 	 Best:    0.21210 - 	 Mean:    0.21997 - 	 AQreal:    0.91002  	 
+Exp: 4 - 	 Ger: 8 - 	 Best:    0.21210 - 	 Mean:    0.21937 - 	 AQreal:    0.91002  	 
+Exp: 4 - 	 Ger: 9 - 	 Best:    0.21210 - 	 Mean:    0.21858 - 	 AQreal:    0.91002  	 
+Exp: 4 - 	 Ger: 10 - 	 Best:    0.21210 - 	 Mean:    0.21793 - 	 AQreal:    0.76751  	 
+Exp: 4 - 	 Ger: 11 - 	 Best:    0.21147 - 	 Mean:    0.21727 - 	 AQreal:    0.76751  	 
+Exp: 4 - 	 Ger: 12 - 	 Best:    0.21147 - 	 Mean:    0.21689 - 	 AQreal:    0.76751  	 
+Exp: 4 - 	 Ger: 13 - 	 Best:    0.21147 - 	 Mean:    0.21618 - 	 AQreal:    0.76751  	 
+Exp: 4 - 	 Ger: 14 - 	 Best:    0.21125 - 	 Mean:    0.21586 - 	 AQreal:    0.76751  	 
+Exp: 4 - 	 Ger: 15 - 	 Best:    0.21125 - 	 Mean:    0.21560 - 	 AQreal:    0.70115  	 
+Exp: 4 - 	 Ger: 16 - 	 Best:    0.21125 - 	 Mean:    0.21536 - 	 AQreal:    0.70115  	 
+Exp: 4 - 	 Ger: 17 - 	 Best:    0.21125 - 	 Mean:    0.21502 - 	 AQreal:    0.70115  	 
+Exp: 4 - 	 Ger: 18 - 	 Best:    0.21063 - 	 Mean:    0.21469 - 	 AQreal:    0.70115  	 
+Exp: 4 - 	 Ger: 19 - 	 Best:    0.21063 - 	 Mean:    0.21437 - 	 AQreal:    0.70115  	 
+Exp: 4 - 	 Ger: 20 - 	 Best:    0.21059 - 	 Mean:    0.21413 - 	 AQreal:    0.67533  	 
+Exp: 4 - 	 Ger: 21 - 	 Best:    0.21059 - 	 Mean:    0.21388 - 	 AQreal:    0.67533  	 
+Exp: 4 - 	 Ger: 22 - 	 Best:    0.20838 - 	 Mean:    0.21342 - 	 AQreal:    0.67533  	 
+Exp: 4 - 	 Ger: 23 - 	 Best:    0.20838 - 	 Mean:    0.21328 - 	 AQreal:    0.67533  	 
+Exp: 4 - 	 Ger: 24 - 	 Best:    0.20838 - 	 Mean:    0.21317 - 	 AQreal:    0.67533  	 
+Exp: 4 - 	 Ger: 25 - 	 Best:    0.20838 - 	 Mean:    0.21305 - 	 AQreal:    0.63210  	 
+Exp: 4 - 	 Ger: 26 - 	 Best:    0.20838 - 	 Mean:    0.21303 - 	 AQreal:    0.63210  	 
+Exp: 4 - 	 Ger: 27 - 	 Best:    0.20838 - 	 Mean:    0.21269 - 	 AQreal:    0.63210  	 
+Exp: 4 - 	 Ger: 28 - 	 Best:    0.20838 - 	 Mean:    0.21262 - 	 AQreal:    0.63210  	 
+Exp: 4 - 	 Ger: 29 - 	 Best:    0.20838 - 	 Mean:    0.21248 - 	 AQreal:    0.63210  	 
+Exp: 4 - 	 Ger: 30 - 	 Best:    0.20838 - 	 Mean:    0.21239 - 	 AQreal:    0.62330  	 
+Exp: 4 - 	 Ger: 31 - 	 Best:    0.20838 - 	 Mean:    0.21219 - 	 AQreal:    0.62330  	 
+Exp: 4 - 	 Ger: 32 - 	 Best:    0.20838 - 	 Mean:    0.21201 - 	 AQreal:    0.62330  	 
+Exp: 4 - 	 Ger: 33 - 	 Best:    0.20838 - 	 Mean:    0.21185 - 	 AQreal:    0.62330  	 
+Exp: 4 - 	 Ger: 34 - 	 Best:    0.20838 - 	 Mean:    0.21172 - 	 AQreal:    0.62330  	 
+Exp: 4 - 	 Ger: 35 - 	 Best:    0.20838 - 	 Mean:    0.21161 - 	 AQreal:    0.51172  	 
+Exp: 4 - 	 Ger: 36 - 	 Best:    0.20838 - 	 Mean:    0.21145 - 	 AQreal:    0.51172  	 
+Exp: 4 - 	 Ger: 37 - 	 Best:    0.20838 - 	 Mean:    0.21136 - 	 AQreal:    0.51172  	 
+Exp: 4 - 	 Ger: 38 - 	 Best:    0.20838 - 	 Mean:    0.21113 - 	 AQreal:    0.51172  	 
+Exp: 4 - 	 Ger: 39 - 	 Best:    0.20747 - 	 Mean:    0.21087 - 	 AQreal:    0.51172  	 
+Exp: 4 - 	 Ger: 40 - 	 Best:    0.20747 - 	 Mean:    0.21058 - 	 AQreal:    0.40143  	 
+Exp: 4 - 	 Ger: 41 - 	 Best:    0.20747 - 	 Mean:    0.21050 - 	 AQreal:    0.40143  	 
+Exp: 4 - 	 Ger: 42 - 	 Best:    0.20747 - 	 Mean:    0.21047 - 	 AQreal:    0.40143  	 
+Exp: 4 - 	 Ger: 43 - 	 Best:    0.20747 - 	 Mean:    0.21041 - 	 AQreal:    0.40143  	 
+Exp: 4 - 	 Ger: 44 - 	 Best:    0.20747 - 	 Mean:    0.21030 - 	 AQreal:    0.40143  	 
+Exp: 4 - 	 Ger: 45 - 	 Best:    0.20747 - 	 Mean:    0.21029 - 	 AQreal:    0.38116  	 
+Exp: 4 - 	 Ger: 46 - 	 Best:    0.20744 - 	 Mean:    0.21010 - 	 AQreal:    0.38116  	 
+Exp: 4 - 	 Ger: 47 - 	 Best:    0.20744 - 	 Mean:    0.20998 - 	 AQreal:    0.38116  	 
+Exp: 4 - 	 Ger: 48 - 	 Best:    0.20744 - 	 Mean:    0.20989 - 	 AQreal:    0.38116  	 
+Exp: 4 - 	 Ger: 49 - 	 Best:    0.20744 - 	 Mean:    0.20979 - 	 AQreal:    0.38116  	 
+Exp: 4 - 	 Ger: 50 - 	 Best:    0.20744 - 	 Mean:    0.20974 - 	 AQreal:    0.33412  	 
+Exp: 5 - 	 Ger: 1 - 	 Best:    0.21846 - 	 Mean:    0.23264 - 	 AQreal:    1.00000  	 
+Exp: 5 - 	 Ger: 2 - 	 Best:    0.21846 - 	 Mean:    0.22743 - 	 AQreal:    1.00000  	 
+Exp: 5 - 	 Ger: 3 - 	 Best:    0.20837 - 	 Mean:    0.22443 - 	 AQreal:    1.00000  	 
+Exp: 5 - 	 Ger: 4 - 	 Best:    0.20837 - 	 Mean:    0.22255 - 	 AQreal:    1.00000  	 
+Exp: 5 - 	 Ger: 5 - 	 Best:    0.20837 - 	 Mean:    0.22132 - 	 AQreal:    0.97850  	 
+Exp: 5 - 	 Ger: 6 - 	 Best:    0.20837 - 	 Mean:    0.22032 - 	 AQreal:    0.97850  	 
+Exp: 5 - 	 Ger: 7 - 	 Best:    0.20837 - 	 Mean:    0.21900 - 	 AQreal:    0.97850  	 
+Exp: 5 - 	 Ger: 8 - 	 Best:    0.20837 - 	 Mean:    0.21867 - 	 AQreal:    0.97850  	 
+Exp: 5 - 	 Ger: 9 - 	 Best:    0.20837 - 	 Mean:    0.21819 - 	 AQreal:    0.97850  	 
+Exp: 5 - 	 Ger: 10 - 	 Best:    0.20837 - 	 Mean:    0.21753 - 	 AQreal:    0.85218  	 
+Exp: 5 - 	 Ger: 11 - 	 Best:    0.20837 - 	 Mean:    0.21691 - 	 AQreal:    0.85218  	 
+Exp: 5 - 	 Ger: 12 - 	 Best:    0.20407 - 	 Mean:    0.21577 - 	 AQreal:    0.85218  	 
+Exp: 5 - 	 Ger: 13 - 	 Best:    0.20407 - 	 Mean:    0.21559 - 	 AQreal:    0.85218  	 
+Exp: 5 - 	 Ger: 14 - 	 Best:    0.20407 - 	 Mean:    0.21529 - 	 AQreal:    0.85218  	 
+Exp: 5 - 	 Ger: 15 - 	 Best:    0.20407 - 	 Mean:    0.21473 - 	 AQreal:    0.72540  	 
+Exp: 5 - 	 Ger: 16 - 	 Best:    0.20407 - 	 Mean:    0.21473 - 	 AQreal:    0.72540  	 
+Exp: 5 - 	 Ger: 17 - 	 Best:    0.20407 - 	 Mean:    0.21435 - 	 AQreal:    0.72540  	 
+Exp: 5 - 	 Ger: 18 - 	 Best:    0.20407 - 	 Mean:    0.21431 - 	 AQreal:    0.72540  	 
+Exp: 5 - 	 Ger: 19 - 	 Best:    0.20407 - 	 Mean:    0.21431 - 	 AQreal:    0.72540  	 
+Exp: 5 - 	 Ger: 20 - 	 Best:    0.20407 - 	 Mean:    0.21411 - 	 AQreal:    0.58498  	 
+Exp: 5 - 	 Ger: 21 - 	 Best:    0.20407 - 	 Mean:    0.21395 - 	 AQreal:    0.58498  	 
+Exp: 5 - 	 Ger: 22 - 	 Best:    0.20407 - 	 Mean:    0.21347 - 	 AQreal:    0.58498  	 
+Exp: 5 - 	 Ger: 23 - 	 Best:    0.20379 - 	 Mean:    0.21295 - 	 AQreal:    0.58498  	 
+Exp: 5 - 	 Ger: 24 - 	 Best:    0.20379 - 	 Mean:    0.21254 - 	 AQreal:    0.58498  	 
+Exp: 5 - 	 Ger: 25 - 	 Best:    0.20379 - 	 Mean:    0.21246 - 	 AQreal:    0.48817  	 
+Exp: 5 - 	 Ger: 26 - 	 Best:    0.20379 - 	 Mean:    0.21225 - 	 AQreal:    0.48817  	 
+Exp: 5 - 	 Ger: 27 - 	 Best:    0.20174 - 	 Mean:    0.21164 - 	 AQreal:    0.48817  	 
+Exp: 5 - 	 Ger: 28 - 	 Best:    0.20174 - 	 Mean:    0.21105 - 	 AQreal:    0.48817  	 
+Exp: 5 - 	 Ger: 29 - 	 Best:    0.20174 - 	 Mean:    0.21047 - 	 AQreal:    0.48817  	 
+Exp: 5 - 	 Ger: 30 - 	 Best:    0.20174 - 	 Mean:    0.20993 - 	 AQreal:    0.47236  	 
+Exp: 5 - 	 Ger: 31 - 	 Best:    0.20174 - 	 Mean:    0.20962 - 	 AQreal:    0.47236  	 
+Exp: 5 - 	 Ger: 32 - 	 Best:    0.20174 - 	 Mean:    0.20941 - 	 AQreal:    0.47236  	 
+Exp: 5 - 	 Ger: 33 - 	 Best:    0.20174 - 	 Mean:    0.20925 - 	 AQreal:    0.47236  	 
+Exp: 5 - 	 Ger: 34 - 	 Best:    0.20174 - 	 Mean:    0.20893 - 	 AQreal:    0.47236  	 
+Exp: 5 - 	 Ger: 35 - 	 Best:    0.20174 - 	 Mean:    0.20878 - 	 AQreal:    0.43279  	 
+Exp: 5 - 	 Ger: 36 - 	 Best:    0.20174 - 	 Mean:    0.20851 - 	 AQreal:    0.43279  	 
+Exp: 5 - 	 Ger: 37 - 	 Best:    0.20174 - 	 Mean:    0.20820 - 	 AQreal:    0.43279  	 
+Exp: 5 - 	 Ger: 38 - 	 Best:    0.20174 - 	 Mean:    0.20763 - 	 AQreal:    0.43279  	 
+Exp: 5 - 	 Ger: 39 - 	 Best:    0.20174 - 	 Mean:    0.20711 - 	 AQreal:    0.43279  	 
+Exp: 5 - 	 Ger: 40 - 	 Best:    0.20174 - 	 Mean:    0.20697 - 	 AQreal:    0.40852  	 
+Exp: 5 - 	 Ger: 41 - 	 Best:    0.20174 - 	 Mean:    0.20660 - 	 AQreal:    0.40852  	 
+Exp: 5 - 	 Ger: 42 - 	 Best:    0.20174 - 	 Mean:    0.20585 - 	 AQreal:    0.40852  	 
+Exp: 5 - 	 Ger: 43 - 	 Best:    0.20174 - 	 Mean:    0.20573 - 	 AQreal:    0.40852  	 
+Exp: 5 - 	 Ger: 44 - 	 Best:    0.20174 - 	 Mean:    0.20564 - 	 AQreal:    0.40852  	 
+Exp: 5 - 	 Ger: 45 - 	 Best:    0.20174 - 	 Mean:    0.20529 - 	 AQreal:    0.29791  	 
+Exp: 5 - 	 Ger: 46 - 	 Best:    0.20174 - 	 Mean:    0.20494 - 	 AQreal:    0.29791  	 
+Exp: 5 - 	 Ger: 47 - 	 Best:    0.20174 - 	 Mean:    0.20442 - 	 AQreal:    0.29791  	 
+Exp: 5 - 	 Ger: 48 - 	 Best:    0.20174 - 	 Mean:    0.20437 - 	 AQreal:    0.29791  	 
+Exp: 5 - 	 Ger: 49 - 	 Best:    0.20174 - 	 Mean:    0.20418 - 	 AQreal:    0.29791  	 
+Exp: 5 - 	 Ger: 50 - 	 Best:    0.20174 - 	 Mean:    0.20405 - 	 AQreal:    0.24097  	 
+Exp: 6 - 	 Ger: 1 - 	 Best:    0.21794 - 	 Mean:    0.23685 - 	 AQreal:    1.00000  	 
+Exp: 6 - 	 Ger: 2 - 	 Best:    0.21506 - 	 Mean:    0.22756 - 	 AQreal:    1.00000  	 
+Exp: 6 - 	 Ger: 3 - 	 Best:    0.21506 - 	 Mean:    0.22361 - 	 AQreal:    1.00000  	 
+Exp: 6 - 	 Ger: 4 - 	 Best:    0.21506 - 	 Mean:    0.22275 - 	 AQreal:    1.00000  	 
+Exp: 6 - 	 Ger: 5 - 	 Best:    0.21469 - 	 Mean:    0.22137 - 	 AQreal:    0.80179  	 
+Exp: 6 - 	 Ger: 6 - 	 Best:    0.21211 - 	 Mean:    0.21980 - 	 AQreal:    0.80179  	 
+Exp: 6 - 	 Ger: 7 - 	 Best:    0.21211 - 	 Mean:    0.21837 - 	 AQreal:    0.80179  	 
+Exp: 6 - 	 Ger: 8 - 	 Best:    0.21211 - 	 Mean:    0.21773 - 	 AQreal:    0.80179  	 
+Exp: 6 - 	 Ger: 9 - 	 Best:    0.21211 - 	 Mean:    0.21744 - 	 AQreal:    0.80179  	 
+Exp: 6 - 	 Ger: 10 - 	 Best:    0.21211 - 	 Mean:    0.21721 - 	 AQreal:    0.73781  	 
+Exp: 6 - 	 Ger: 11 - 	 Best:    0.21080 - 	 Mean:    0.21646 - 	 AQreal:    0.73781  	 
+Exp: 6 - 	 Ger: 12 - 	 Best:    0.21080 - 	 Mean:    0.21594 - 	 AQreal:    0.73781  	 
+Exp: 6 - 	 Ger: 13 - 	 Best:    0.21080 - 	 Mean:    0.21566 - 	 AQreal:    0.73781  	 
+Exp: 6 - 	 Ger: 14 - 	 Best:    0.20982 - 	 Mean:    0.21493 - 	 AQreal:    0.73781  	 
+Exp: 6 - 	 Ger: 15 - 	 Best:    0.20982 - 	 Mean:    0.21445 - 	 AQreal:    0.62780  	 
+Exp: 6 - 	 Ger: 16 - 	 Best:    0.20982 - 	 Mean:    0.21410 - 	 AQreal:    0.62780  	 
+Exp: 6 - 	 Ger: 17 - 	 Best:    0.20436 - 	 Mean:    0.21360 - 	 AQreal:    0.62780  	 
+Exp: 6 - 	 Ger: 18 - 	 Best:    0.20436 - 	 Mean:    0.21342 - 	 AQreal:    0.62780  	 
+Exp: 6 - 	 Ger: 19 - 	 Best:    0.20436 - 	 Mean:    0.21303 - 	 AQreal:    0.62780  	 
+Exp: 6 - 	 Ger: 20 - 	 Best:    0.20436 - 	 Mean:    0.21268 - 	 AQreal:    0.62165  	 
+Exp: 6 - 	 Ger: 21 - 	 Best:    0.20436 - 	 Mean:    0.21246 - 	 AQreal:    0.62165  	 
+Exp: 6 - 	 Ger: 22 - 	 Best:    0.20436 - 	 Mean:    0.21243 - 	 AQreal:    0.62165  	 
+Exp: 6 - 	 Ger: 23 - 	 Best:    0.20436 - 	 Mean:    0.21192 - 	 AQreal:    0.62165  	 
+Exp: 6 - 	 Ger: 24 - 	 Best:    0.20436 - 	 Mean:    0.21166 - 	 AQreal:    0.62165  	 
+Exp: 6 - 	 Ger: 25 - 	 Best:    0.20436 - 	 Mean:    0.21146 - 	 AQreal:    0.60870  	 
+Exp: 6 - 	 Ger: 26 - 	 Best:    0.20436 - 	 Mean:    0.21116 - 	 AQreal:    0.60870  	 
+Exp: 6 - 	 Ger: 27 - 	 Best:    0.20436 - 	 Mean:    0.21094 - 	 AQreal:    0.60870  	 
+Exp: 6 - 	 Ger: 28 - 	 Best:    0.20436 - 	 Mean:    0.21034 - 	 AQreal:    0.60870  	 
+Exp: 6 - 	 Ger: 29 - 	 Best:    0.20390 - 	 Mean:    0.20982 - 	 AQreal:    0.60870  	 
+Exp: 6 - 	 Ger: 30 - 	 Best:    0.20390 - 	 Mean:    0.20982 - 	 AQreal:    0.51903  	 
+Exp: 6 - 	 Ger: 31 - 	 Best:    0.20390 - 	 Mean:    0.20925 - 	 AQreal:    0.51903  	 
+Exp: 6 - 	 Ger: 32 - 	 Best:    0.20390 - 	 Mean:    0.20922 - 	 AQreal:    0.51903  	 
+Exp: 6 - 	 Ger: 33 - 	 Best:    0.20195 - 	 Mean:    0.20884 - 	 AQreal:    0.51903  	 
+Exp: 6 - 	 Ger: 34 - 	 Best:    0.20195 - 	 Mean:    0.20870 - 	 AQreal:    0.51903  	 
+Exp: 6 - 	 Ger: 35 - 	 Best:    0.20195 - 	 Mean:    0.20826 - 	 AQreal:    0.43511  	 
+Exp: 6 - 	 Ger: 36 - 	 Best:    0.20195 - 	 Mean:    0.20785 - 	 AQreal:    0.43511  	 
+Exp: 6 - 	 Ger: 37 - 	 Best:    0.20195 - 	 Mean:    0.20747 - 	 AQreal:    0.43511  	 
+Exp: 6 - 	 Ger: 38 - 	 Best:    0.20195 - 	 Mean:    0.20719 - 	 AQreal:    0.43511  	 
+Exp: 6 - 	 Ger: 39 - 	 Best:    0.20195 - 	 Mean:    0.20696 - 	 AQreal:    0.43511  	 
+Exp: 6 - 	 Ger: 40 - 	 Best:    0.20195 - 	 Mean:    0.20695 - 	 AQreal:    0.41146  	 
+Exp: 6 - 	 Ger: 41 - 	 Best:    0.20195 - 	 Mean:    0.20674 - 	 AQreal:    0.41146  	 
+Exp: 6 - 	 Ger: 42 - 	 Best:    0.20195 - 	 Mean:    0.20662 - 	 AQreal:    0.41146  	 
+Exp: 6 - 	 Ger: 43 - 	 Best:    0.20195 - 	 Mean:    0.20662 - 	 AQreal:    0.41146  	 
+Exp: 6 - 	 Ger: 44 - 	 Best:    0.20195 - 	 Mean:    0.20657 - 	 AQreal:    0.41146  	 
+Exp: 6 - 	 Ger: 45 - 	 Best:    0.20195 - 	 Mean:    0.20640 - 	 AQreal:    0.36220  	 
+Exp: 6 - 	 Ger: 46 - 	 Best:    0.20195 - 	 Mean:    0.20638 - 	 AQreal:    0.36220  	 
+Exp: 6 - 	 Ger: 47 - 	 Best:    0.20195 - 	 Mean:    0.20638 - 	 AQreal:    0.36220  	 
+Exp: 6 - 	 Ger: 48 - 	 Best:    0.20195 - 	 Mean:    0.20619 - 	 AQreal:    0.36220  	 
+Exp: 6 - 	 Ger: 49 - 	 Best:    0.20195 - 	 Mean:    0.20609 - 	 AQreal:    0.36220  	 
+Exp: 6 - 	 Ger: 50 - 	 Best:    0.20195 - 	 Mean:    0.20588 - 	 AQreal:    0.32320  	 
+Exp: 7 - 	 Ger: 1 - 	 Best:    0.22217 - 	 Mean:    0.23369 - 	 AQreal:    1.00000  	 
+Exp: 7 - 	 Ger: 2 - 	 Best:    0.22111 - 	 Mean:    0.22837 - 	 AQreal:    1.00000  	 
+Exp: 7 - 	 Ger: 3 - 	 Best:    0.21879 - 	 Mean:    0.22667 - 	 AQreal:    1.00000  	 
+Exp: 7 - 	 Ger: 4 - 	 Best:    0.21663 - 	 Mean:    0.22396 - 	 AQreal:    1.00000  	 
+Exp: 7 - 	 Ger: 5 - 	 Best:    0.21494 - 	 Mean:    0.22223 - 	 AQreal:    0.97484  	 
+Exp: 7 - 	 Ger: 6 - 	 Best:    0.21494 - 	 Mean:    0.22157 - 	 AQreal:    0.97484  	 
+Exp: 7 - 	 Ger: 7 - 	 Best:    0.21494 - 	 Mean:    0.22043 - 	 AQreal:    0.97484  	 
+Exp: 7 - 	 Ger: 8 - 	 Best:    0.21494 - 	 Mean:    0.21970 - 	 AQreal:    0.97484  	 
+Exp: 7 - 	 Ger: 9 - 	 Best:    0.21370 - 	 Mean:    0.21911 - 	 AQreal:    0.97484  	 
+Exp: 7 - 	 Ger: 10 - 	 Best:    0.21370 - 	 Mean:    0.21867 - 	 AQreal:    0.83649  	 
+Exp: 7 - 	 Ger: 11 - 	 Best:    0.21218 - 	 Mean:    0.21825 - 	 AQreal:    0.83649  	 
+Exp: 7 - 	 Ger: 12 - 	 Best:    0.21218 - 	 Mean:    0.21819 - 	 AQreal:    0.83649  	 
+Exp: 7 - 	 Ger: 13 - 	 Best:    0.21094 - 	 Mean:    0.21781 - 	 AQreal:    0.83649  	 
+Exp: 7 - 	 Ger: 14 - 	 Best:    0.21094 - 	 Mean:    0.21757 - 	 AQreal:    0.83649  	 
+Exp: 7 - 	 Ger: 15 - 	 Best:    0.21094 - 	 Mean:    0.21744 - 	 AQreal:    0.70119  	 
+Exp: 7 - 	 Ger: 16 - 	 Best:    0.21094 - 	 Mean:    0.21691 - 	 AQreal:    0.70119  	 
+Exp: 7 - 	 Ger: 17 - 	 Best:    0.21094 - 	 Mean:    0.21620 - 	 AQreal:    0.70119  	 
+Exp: 7 - 	 Ger: 18 - 	 Best:    0.20730 - 	 Mean:    0.21587 - 	 AQreal:    0.70119  	 
+Exp: 7 - 	 Ger: 19 - 	 Best:    0.20730 - 	 Mean:    0.21582 - 	 AQreal:    0.70119  	 
+Exp: 7 - 	 Ger: 20 - 	 Best:    0.20730 - 	 Mean:    0.21578 - 	 AQreal:    0.68274  	 
+Exp: 7 - 	 Ger: 21 - 	 Best:    0.20730 - 	 Mean:    0.21568 - 	 AQreal:    0.68274  	 
+Exp: 7 - 	 Ger: 22 - 	 Best:    0.20730 - 	 Mean:    0.21546 - 	 AQreal:    0.68274  	 
+Exp: 7 - 	 Ger: 23 - 	 Best:    0.20530 - 	 Mean:    0.21485 - 	 AQreal:    0.68274  	 
+Exp: 7 - 	 Ger: 24 - 	 Best:    0.20530 - 	 Mean:    0.21483 - 	 AQreal:    0.68274  	 
+Exp: 7 - 	 Ger: 25 - 	 Best:    0.20530 - 	 Mean:    0.21407 - 	 AQreal:    0.65646  	 
+Exp: 7 - 	 Ger: 26 - 	 Best:    0.20530 - 	 Mean:    0.21343 - 	 AQreal:    0.65646  	 
+Exp: 7 - 	 Ger: 27 - 	 Best:    0.20530 - 	 Mean:    0.21308 - 	 AQreal:    0.65646  	 
+Exp: 7 - 	 Ger: 28 - 	 Best:    0.20530 - 	 Mean:    0.21248 - 	 AQreal:    0.65646  	 
+Exp: 7 - 	 Ger: 29 - 	 Best:    0.20530 - 	 Mean:    0.21222 - 	 AQreal:    0.65646  	 
+Exp: 7 - 	 Ger: 30 - 	 Best:    0.20530 - 	 Mean:    0.21178 - 	 AQreal:    0.54452  	 
+Exp: 7 - 	 Ger: 31 - 	 Best:    0.20530 - 	 Mean:    0.21142 - 	 AQreal:    0.54452  	 
+Exp: 7 - 	 Ger: 32 - 	 Best:    0.20530 - 	 Mean:    0.21107 - 	 AQreal:    0.54452  	 
+Exp: 7 - 	 Ger: 33 - 	 Best:    0.20530 - 	 Mean:    0.21093 - 	 AQreal:    0.54452  	 
+Exp: 7 - 	 Ger: 34 - 	 Best:    0.20530 - 	 Mean:    0.21079 - 	 AQreal:    0.54452  	 
+Exp: 7 - 	 Ger: 35 - 	 Best:    0.20530 - 	 Mean:    0.21066 - 	 AQreal:    0.50632  	 
+Exp: 7 - 	 Ger: 36 - 	 Best:    0.20530 - 	 Mean:    0.21052 - 	 AQreal:    0.50632  	 
+Exp: 7 - 	 Ger: 37 - 	 Best:    0.20530 - 	 Mean:    0.21028 - 	 AQreal:    0.50632  	 
+Exp: 7 - 	 Ger: 38 - 	 Best:    0.20316 - 	 Mean:    0.20997 - 	 AQreal:    0.50632  	 
+Exp: 7 - 	 Ger: 39 - 	 Best:    0.20316 - 	 Mean:    0.20997 - 	 AQreal:    0.50632  	 
+Exp: 7 - 	 Ger: 40 - 	 Best:    0.20316 - 	 Mean:    0.20990 - 	 AQreal:    0.44291  	 
+Exp: 7 - 	 Ger: 41 - 	 Best:    0.20316 - 	 Mean:    0.20970 - 	 AQreal:    0.44291  	 
+Exp: 7 - 	 Ger: 42 - 	 Best:    0.20316 - 	 Mean:    0.20942 - 	 AQreal:    0.44291  	 
+Exp: 7 - 	 Ger: 43 - 	 Best:    0.20316 - 	 Mean:    0.20934 - 	 AQreal:    0.44291  	 
+Exp: 7 - 	 Ger: 44 - 	 Best:    0.20309 - 	 Mean:    0.20910 - 	 AQreal:    0.44291  	 
+Exp: 7 - 	 Ger: 45 - 	 Best:    0.20309 - 	 Mean:    0.20907 - 	 AQreal:    0.39202  	 
+Exp: 7 - 	 Ger: 46 - 	 Best:    0.20305 - 	 Mean:    0.20873 - 	 AQreal:    0.39202  	 
+Exp: 7 - 	 Ger: 47 - 	 Best:    0.20305 - 	 Mean:    0.20873 - 	 AQreal:    0.39202  	 
+Exp: 7 - 	 Ger: 48 - 	 Best:    0.20305 - 	 Mean:    0.20865 - 	 AQreal:    0.39202  	 
+Exp: 7 - 	 Ger: 49 - 	 Best:    0.20267 - 	 Mean:    0.20841 - 	 AQreal:    0.39202  	 
+Exp: 7 - 	 Ger: 50 - 	 Best:    0.20267 - 	 Mean:    0.20841 - 	 AQreal:    0.34955  	 
+Exp: 8 - 	 Ger: 1 - 	 Best:    0.21514 - 	 Mean:    6.44642 - 	 AQreal:    1.00000  	 
+Exp: 8 - 	 Ger: 2 - 	 Best:    0.21147 - 	 Mean:    0.22622 - 	 AQreal:    1.00000  	 
+Exp: 8 - 	 Ger: 3 - 	 Best:    0.21147 - 	 Mean:    0.22481 - 	 AQreal:    1.00000  	 
+Exp: 8 - 	 Ger: 4 - 	 Best:    0.21147 - 	 Mean:    0.22403 - 	 AQreal:    1.00000  	 
+Exp: 8 - 	 Ger: 5 - 	 Best:    0.21147 - 	 Mean:    0.22272 - 	 AQreal:    0.83926  	 
+Exp: 8 - 	 Ger: 6 - 	 Best:    0.21147 - 	 Mean:    0.22183 - 	 AQreal:    0.83926  	 
+Exp: 8 - 	 Ger: 7 - 	 Best:    0.21147 - 	 Mean:    0.22112 - 	 AQreal:    0.83926  	 
+Exp: 8 - 	 Ger: 8 - 	 Best:    0.21147 - 	 Mean:    0.22059 - 	 AQreal:    0.83926  	 
+Exp: 8 - 	 Ger: 9 - 	 Best:    0.21147 - 	 Mean:    0.21967 - 	 AQreal:    0.83926  	 
+Exp: 8 - 	 Ger: 10 - 	 Best:    0.21147 - 	 Mean:    0.21913 - 	 AQreal:    0.76687  	 
+Exp: 8 - 	 Ger: 11 - 	 Best:    0.21003 - 	 Mean:    0.21766 - 	 AQreal:    0.76687  	 
+Exp: 8 - 	 Ger: 12 - 	 Best:    0.20923 - 	 Mean:    0.21715 - 	 AQreal:    0.76687  	 
+Exp: 8 - 	 Ger: 13 - 	 Best:    0.20923 - 	 Mean:    0.21680 - 	 AQreal:    0.76687  	 
+Exp: 8 - 	 Ger: 14 - 	 Best:    0.20923 - 	 Mean:    0.21661 - 	 AQreal:    0.76687  	 
+Exp: 8 - 	 Ger: 15 - 	 Best:    0.20923 - 	 Mean:    0.21645 - 	 AQreal:    0.74818  	 
+Exp: 8 - 	 Ger: 16 - 	 Best:    0.20923 - 	 Mean:    0.21631 - 	 AQreal:    0.74818  	 
+Exp: 8 - 	 Ger: 17 - 	 Best:    0.20923 - 	 Mean:    0.21602 - 	 AQreal:    0.74818  	 
+Exp: 8 - 	 Ger: 18 - 	 Best:    0.20923 - 	 Mean:    0.21595 - 	 AQreal:    0.74818  	 
+Exp: 8 - 	 Ger: 19 - 	 Best:    0.20923 - 	 Mean:    0.21582 - 	 AQreal:    0.74818  	 
+Exp: 8 - 	 Ger: 20 - 	 Best:    0.20923 - 	 Mean:    0.21552 - 	 AQreal:    0.72012  	 
+Exp: 8 - 	 Ger: 21 - 	 Best:    0.20898 - 	 Mean:    0.21519 - 	 AQreal:    0.72012  	 
+Exp: 8 - 	 Ger: 22 - 	 Best:    0.20898 - 	 Mean:    0.21493 - 	 AQreal:    0.72012  	 
+Exp: 8 - 	 Ger: 23 - 	 Best:    0.20898 - 	 Mean:    0.21468 - 	 AQreal:    0.72012  	 
+Exp: 8 - 	 Ger: 24 - 	 Best:    0.20898 - 	 Mean:    0.21431 - 	 AQreal:    0.72012  	 
+Exp: 8 - 	 Ger: 25 - 	 Best:    0.20898 - 	 Mean:    0.21413 - 	 AQreal:    0.63831  	 
+Exp: 8 - 	 Ger: 26 - 	 Best:    0.20898 - 	 Mean:    0.21395 - 	 AQreal:    0.63831  	 
+Exp: 8 - 	 Ger: 27 - 	 Best:    0.20898 - 	 Mean:    0.21361 - 	 AQreal:    0.63831  	 
+Exp: 8 - 	 Ger: 28 - 	 Best:    0.20898 - 	 Mean:    0.21301 - 	 AQreal:    0.63831  	 
+Exp: 8 - 	 Ger: 29 - 	 Best:    0.20898 - 	 Mean:    0.21281 - 	 AQreal:    0.63831  	 
+Exp: 8 - 	 Ger: 30 - 	 Best:    0.20898 - 	 Mean:    0.21261 - 	 AQreal:    0.49039  	 
+Exp: 8 - 	 Ger: 31 - 	 Best:    0.20898 - 	 Mean:    0.21241 - 	 AQreal:    0.49039  	 
+Exp: 8 - 	 Ger: 32 - 	 Best:    0.20898 - 	 Mean:    0.21235 - 	 AQreal:    0.49039  	 
+Exp: 8 - 	 Ger: 33 - 	 Best:    0.20875 - 	 Mean:    0.21203 - 	 AQreal:    0.49039  	 
+Exp: 8 - 	 Ger: 34 - 	 Best:    0.20875 - 	 Mean:    0.21187 - 	 AQreal:    0.49039  	 
+Exp: 8 - 	 Ger: 35 - 	 Best:    0.20875 - 	 Mean:    0.21160 - 	 AQreal:    0.40595  	 
+Exp: 8 - 	 Ger: 36 - 	 Best:    0.20875 - 	 Mean:    0.21156 - 	 AQreal:    0.40595  	 
+Exp: 8 - 	 Ger: 37 - 	 Best:    0.20875 - 	 Mean:    0.21149 - 	 AQreal:    0.40595  	 
+Exp: 8 - 	 Ger: 38 - 	 Best:    0.20875 - 	 Mean:    0.21130 - 	 AQreal:    0.40595  	 
+Exp: 8 - 	 Ger: 39 - 	 Best:    0.20875 - 	 Mean:    0.21127 - 	 AQreal:    0.40595  	 
+Exp: 8 - 	 Ger: 40 - 	 Best:    0.20875 - 	 Mean:    0.21101 - 	 AQreal:    0.33806  	 
+Exp: 8 - 	 Ger: 41 - 	 Best:    0.20875 - 	 Mean:    0.21060 - 	 AQreal:    0.33806  	 
+Exp: 8 - 	 Ger: 42 - 	 Best:    0.20875 - 	 Mean:    0.21058 - 	 AQreal:    0.33806  	 
+Exp: 8 - 	 Ger: 43 - 	 Best:    0.20875 - 	 Mean:    0.21034 - 	 AQreal:    0.33806  	 
+Exp: 8 - 	 Ger: 44 - 	 Best:    0.20862 - 	 Mean:    0.21023 - 	 AQreal:    0.33806  	 
+Exp: 8 - 	 Ger: 45 - 	 Best:    0.20789 - 	 Mean:    0.20991 - 	 AQreal:    0.30438  	 
+Exp: 8 - 	 Ger: 46 - 	 Best:    0.20770 - 	 Mean:    0.20959 - 	 AQreal:    0.30438  	 
+Exp: 8 - 	 Ger: 47 - 	 Best:    0.20770 - 	 Mean:    0.20956 - 	 AQreal:    0.30438  	 
+Exp: 8 - 	 Ger: 48 - 	 Best:    0.20301 - 	 Mean:    0.20926 - 	 AQreal:    0.30438  	 
+Exp: 8 - 	 Ger: 49 - 	 Best:    0.20301 - 	 Mean:    0.20915 - 	 AQreal:    0.30438  	 
+Exp: 8 - 	 Ger: 50 - 	 Best:    0.20301 - 	 Mean:    0.20915 - 	 AQreal:    0.29288  	 
+Exp: 9 - 	 Ger: 1 - 	 Best:    0.21760 - 	 Mean:    0.23399 - 	 AQreal:    1.00000  	 
+Exp: 9 - 	 Ger: 2 - 	 Best:    0.21760 - 	 Mean:    0.22801 - 	 AQreal:    1.00000  	 
+Exp: 9 - 	 Ger: 3 - 	 Best:    0.20651 - 	 Mean:    0.22385 - 	 AQreal:    1.00000  	 
+Exp: 9 - 	 Ger: 4 - 	 Best:    0.20651 - 	 Mean:    0.22155 - 	 AQreal:    1.00000  	 
+Exp: 9 - 	 Ger: 5 - 	 Best:    0.20651 - 	 Mean:    0.21992 - 	 AQreal:    0.90963  	 
+Exp: 9 - 	 Ger: 6 - 	 Best:    0.20651 - 	 Mean:    0.21838 - 	 AQreal:    0.90963  	 
+Exp: 9 - 	 Ger: 7 - 	 Best:    0.20433 - 	 Mean:    0.21692 - 	 AQreal:    0.90963  	 
+Exp: 9 - 	 Ger: 8 - 	 Best:    0.20433 - 	 Mean:    0.21560 - 	 AQreal:    0.90963  	 
+Exp: 9 - 	 Ger: 9 - 	 Best:    0.20297 - 	 Mean:    0.21458 - 	 AQreal:    0.90963  	 
+Exp: 9 - 	 Ger: 10 - 	 Best:    0.20297 - 	 Mean:    0.21364 - 	 AQreal:    0.73664  	 
+Exp: 9 - 	 Ger: 11 - 	 Best:    0.20297 - 	 Mean:    0.21329 - 	 AQreal:    0.73664  	 
+Exp: 9 - 	 Ger: 12 - 	 Best:    0.20297 - 	 Mean:    0.21315 - 	 AQreal:    0.73664  	 
+Exp: 9 - 	 Ger: 13 - 	 Best:    0.20297 - 	 Mean:    0.21249 - 	 AQreal:    0.73664  	 
+Exp: 9 - 	 Ger: 14 - 	 Best:    0.20297 - 	 Mean:    0.21172 - 	 AQreal:    0.73664  	 
+Exp: 9 - 	 Ger: 15 - 	 Best:    0.20297 - 	 Mean:    0.21122 - 	 AQreal:    0.64995  	 
+Exp: 9 - 	 Ger: 16 - 	 Best:    0.20214 - 	 Mean:    0.20985 - 	 AQreal:    0.64995  	 
+Exp: 9 - 	 Ger: 17 - 	 Best:    0.20214 - 	 Mean:    0.20961 - 	 AQreal:    0.64995  	 
+Exp: 9 - 	 Ger: 18 - 	 Best:    0.20214 - 	 Mean:    0.20927 - 	 AQreal:    0.64995  	 
+Exp: 9 - 	 Ger: 19 - 	 Best:    0.20214 - 	 Mean:    0.20923 - 	 AQreal:    0.64995  	 
+Exp: 9 - 	 Ger: 20 - 	 Best:    0.20045 - 	 Mean:    0.20838 - 	 AQreal:    0.58502  	 
+Exp: 9 - 	 Ger: 21 - 	 Best:    0.20045 - 	 Mean:    0.20835 - 	 AQreal:    0.58502  	 
+Exp: 9 - 	 Ger: 22 - 	 Best:    0.20045 - 	 Mean:    0.20785 - 	 AQreal:    0.58502  	 
+Exp: 9 - 	 Ger: 23 - 	 Best:    0.20045 - 	 Mean:    0.20750 - 	 AQreal:    0.58502  	 
+Exp: 9 - 	 Ger: 24 - 	 Best:    0.20045 - 	 Mean:    0.20688 - 	 AQreal:    0.58502  	 
+Exp: 9 - 	 Ger: 25 - 	 Best:    0.20045 - 	 Mean:    0.20662 - 	 AQreal:    0.49683  	 
+Exp: 9 - 	 Ger: 26 - 	 Best:    0.20045 - 	 Mean:    0.20644 - 	 AQreal:    0.49683  	 
+Exp: 9 - 	 Ger: 27 - 	 Best:    0.19801 - 	 Mean:    0.20585 - 	 AQreal:    0.49683  	 
+Exp: 9 - 	 Ger: 28 - 	 Best:    0.19801 - 	 Mean:    0.20554 - 	 AQreal:    0.49683  	 
+Exp: 9 - 	 Ger: 29 - 	 Best:    0.19801 - 	 Mean:    0.20509 - 	 AQreal:    0.49683  	 
+Exp: 9 - 	 Ger: 30 - 	 Best:    0.19801 - 	 Mean:    0.20484 - 	 AQreal:    0.42920  	 
+Exp: 9 - 	 Ger: 31 - 	 Best:    0.19801 - 	 Mean:    0.20463 - 	 AQreal:    0.42920  	 
+Exp: 9 - 	 Ger: 32 - 	 Best:    0.19801 - 	 Mean:    0.20455 - 	 AQreal:    0.42920  	 
+Exp: 9 - 	 Ger: 33 - 	 Best:    0.19801 - 	 Mean:    0.20424 - 	 AQreal:    0.42920  	 
+Exp: 9 - 	 Ger: 34 - 	 Best:    0.19801 - 	 Mean:    0.20399 - 	 AQreal:    0.42920  	 
+Exp: 9 - 	 Ger: 35 - 	 Best:    0.19801 - 	 Mean:    0.20390 - 	 AQreal:    0.41614  	 
+Exp: 9 - 	 Ger: 36 - 	 Best:    0.19801 - 	 Mean:    0.20375 - 	 AQreal:    0.41614  	 
+Exp: 9 - 	 Ger: 37 - 	 Best:    0.19801 - 	 Mean:    0.20352 - 	 AQreal:    0.41614  	 
+Exp: 9 - 	 Ger: 38 - 	 Best:    0.19801 - 	 Mean:    0.20352 - 	 AQreal:    0.41614  	 
+Exp: 9 - 	 Ger: 39 - 	 Best:    0.19801 - 	 Mean:    0.20324 - 	 AQreal:    0.41614  	 
+Exp: 9 - 	 Ger: 40 - 	 Best:    0.19603 - 	 Mean:    0.20255 - 	 AQreal:    0.40328  	 
+Exp: 9 - 	 Ger: 41 - 	 Best:    0.19603 - 	 Mean:    0.20234 - 	 AQreal:    0.40328  	 
+Exp: 9 - 	 Ger: 42 - 	 Best:    0.19603 - 	 Mean:    0.20222 - 	 AQreal:    0.40328  	 
+Exp: 9 - 	 Ger: 43 - 	 Best:    0.19603 - 	 Mean:    0.20204 - 	 AQreal:    0.40328  	 
+Exp: 9 - 	 Ger: 44 - 	 Best:    0.19603 - 	 Mean:    0.20186 - 	 AQreal:    0.40328  	 
+Exp: 9 - 	 Ger: 45 - 	 Best:    0.19333 - 	 Mean:    0.20155 - 	 AQreal:    0.33796  	 
+Exp: 9 - 	 Ger: 46 - 	 Best:    0.19333 - 	 Mean:    0.20139 - 	 AQreal:    0.33796  	 
+Exp: 9 - 	 Ger: 47 - 	 Best:    0.19333 - 	 Mean:    0.20108 - 	 AQreal:    0.33796  	 
+Exp: 9 - 	 Ger: 48 - 	 Best:    0.19333 - 	 Mean:    0.20085 - 	 AQreal:    0.33796  	 
+Exp: 9 - 	 Ger: 49 - 	 Best:    0.19333 - 	 Mean:    0.20069 - 	 AQreal:    0.33796  	 
+Exp: 9 - 	 Ger: 50 - 	 Best:    0.19333 - 	 Mean:    0.20068 - 	 AQreal:    0.29298  	 
+Exp: 10 - 	 Ger: 1 - 	 Best:    0.21399 - 	 Mean:    0.23314 - 	 AQreal:    1.00000  	 
+Exp: 10 - 	 Ger: 2 - 	 Best:    0.21399 - 	 Mean:    0.22647 - 	 AQreal:    1.00000  	 
+Exp: 10 - 	 Ger: 3 - 	 Best:    0.21399 - 	 Mean:    0.22493 - 	 AQreal:    1.00000  	 
+Exp: 10 - 	 Ger: 4 - 	 Best:    0.21204 - 	 Mean:    0.22295 - 	 AQreal:    1.00000  	 
+Exp: 10 - 	 Ger: 5 - 	 Best:    0.21204 - 	 Mean:    0.22190 - 	 AQreal:    0.97106  	 
+Exp: 10 - 	 Ger: 6 - 	 Best:    0.21013 - 	 Mean:    0.22068 - 	 AQreal:    0.97106  	 
+Exp: 10 - 	 Ger: 7 - 	 Best:    0.21013 - 	 Mean:    0.21952 - 	 AQreal:    0.97106  	 
+Exp: 10 - 	 Ger: 8 - 	 Best:    0.21013 - 	 Mean:    0.21825 - 	 AQreal:    0.97106  	 
+Exp: 10 - 	 Ger: 9 - 	 Best:    0.21013 - 	 Mean:    0.21790 - 	 AQreal:    0.97106  	 
+Exp: 10 - 	 Ger: 10 - 	 Best:    0.21013 - 	 Mean:    0.21763 - 	 AQreal:    0.79892  	 
+Exp: 10 - 	 Ger: 11 - 	 Best:    0.21013 - 	 Mean:    0.21728 - 	 AQreal:    0.79892  	 
+Exp: 10 - 	 Ger: 12 - 	 Best:    0.21013 - 	 Mean:    0.21667 - 	 AQreal:    0.79892  	 
+Exp: 10 - 	 Ger: 13 - 	 Best:    0.20754 - 	 Mean:    0.21595 - 	 AQreal:    0.79892  	 
+Exp: 10 - 	 Ger: 14 - 	 Best:    0.20754 - 	 Mean:    0.21531 - 	 AQreal:    0.79892  	 
+Exp: 10 - 	 Ger: 15 - 	 Best:    0.20754 - 	 Mean:    0.21462 - 	 AQreal:    0.73693  	 
+Exp: 10 - 	 Ger: 16 - 	 Best:    0.20754 - 	 Mean:    0.21393 - 	 AQreal:    0.73693  	 
+Exp: 10 - 	 Ger: 17 - 	 Best:    0.20754 - 	 Mean:    0.21372 - 	 AQreal:    0.73693  	 
+Exp: 10 - 	 Ger: 18 - 	 Best:    0.20754 - 	 Mean:    0.21306 - 	 AQreal:    0.73693  	 
+Exp: 10 - 	 Ger: 19 - 	 Best:    0.20754 - 	 Mean:    0.21303 - 	 AQreal:    0.73693  	 
+Exp: 10 - 	 Ger: 20 - 	 Best:    0.20754 - 	 Mean:    0.21278 - 	 AQreal:    0.65958  	 
+Exp: 10 - 	 Ger: 21 - 	 Best:    0.20754 - 	 Mean:    0.21278 - 	 AQreal:    0.65958  	 
+Exp: 10 - 	 Ger: 22 - 	 Best:    0.20725 - 	 Mean:    0.21227 - 	 AQreal:    0.65958  	 
+Exp: 10 - 	 Ger: 23 - 	 Best:    0.20725 - 	 Mean:    0.21221 - 	 AQreal:    0.65958  	 
+Exp: 10 - 	 Ger: 24 - 	 Best:    0.20725 - 	 Mean:    0.21221 - 	 AQreal:    0.65958  	 
+Exp: 10 - 	 Ger: 25 - 	 Best:    0.20725 - 	 Mean:    0.21215 - 	 AQreal:    0.54199  	 
+Exp: 10 - 	 Ger: 26 - 	 Best:    0.20725 - 	 Mean:    0.21205 - 	 AQreal:    0.54199  	 
+Exp: 10 - 	 Ger: 27 - 	 Best:    0.20725 - 	 Mean:    0.21191 - 	 AQreal:    0.54199  	 
+Exp: 10 - 	 Ger: 28 - 	 Best:    0.20725 - 	 Mean:    0.21181 - 	 AQreal:    0.54199  	 
+Exp: 10 - 	 Ger: 29 - 	 Best:    0.20725 - 	 Mean:    0.21163 - 	 AQreal:    0.54199  	 
+Exp: 10 - 	 Ger: 30 - 	 Best:    0.20725 - 	 Mean:    0.21142 - 	 AQreal:    0.53184  	 
+Exp: 10 - 	 Ger: 31 - 	 Best:    0.20725 - 	 Mean:    0.21132 - 	 AQreal:    0.53184  	 
+Exp: 10 - 	 Ger: 32 - 	 Best:    0.20725 - 	 Mean:    0.21102 - 	 AQreal:    0.53184  	 
+Exp: 10 - 	 Ger: 33 - 	 Best:    0.20725 - 	 Mean:    0.21087 - 	 AQreal:    0.53184  	 
+Exp: 10 - 	 Ger: 34 - 	 Best:    0.20725 - 	 Mean:    0.21079 - 	 AQreal:    0.53184  	 
+Exp: 10 - 	 Ger: 35 - 	 Best:    0.20725 - 	 Mean:    0.21079 - 	 AQreal:    0.48995  	 
+Exp: 10 - 	 Ger: 36 - 	 Best:    0.20544 - 	 Mean:    0.21045 - 	 AQreal:    0.48995  	 
+Exp: 10 - 	 Ger: 37 - 	 Best:    0.20544 - 	 Mean:    0.21037 - 	 AQreal:    0.48995  	 
+Exp: 10 - 	 Ger: 38 - 	 Best:    0.20544 - 	 Mean:    0.21014 - 	 AQreal:    0.48995  	 
+Exp: 10 - 	 Ger: 39 - 	 Best:    0.20544 - 	 Mean:    0.21001 - 	 AQreal:    0.48995  	 
+Exp: 10 - 	 Ger: 40 - 	 Best:    0.20544 - 	 Mean:    0.20981 - 	 AQreal:    0.48726  	 
+Exp: 10 - 	 Ger: 41 - 	 Best:    0.20544 - 	 Mean:    0.20967 - 	 AQreal:    0.48726  	 
+Exp: 10 - 	 Ger: 42 - 	 Best:    0.20544 - 	 Mean:    0.20953 - 	 AQreal:    0.48726  	 
+Exp: 10 - 	 Ger: 43 - 	 Best:    0.20544 - 	 Mean:    0.20948 - 	 AQreal:    0.48726  	 
+Exp: 10 - 	 Ger: 44 - 	 Best:    0.20544 - 	 Mean:    0.20930 - 	 AQreal:    0.48726  	 
+Exp: 10 - 	 Ger: 45 - 	 Best:    0.20544 - 	 Mean:    0.20930 - 	 AQreal:    0.45637  	 
+Exp: 10 - 	 Ger: 46 - 	 Best:    0.20528 - 	 Mean:    0.20906 - 	 AQreal:    0.45637  	 
+Exp: 10 - 	 Ger: 47 - 	 Best:    0.20012 - 	 Mean:    0.20866 - 	 AQreal:    0.45637  	 
+Exp: 10 - 	 Ger: 48 - 	 Best:    0.20012 - 	 Mean:    0.20858 - 	 AQreal:    0.45637  	 
+Exp: 10 - 	 Ger: 49 - 	 Best:    0.20012 - 	 Mean:    0.20838 - 	 AQreal:    0.45637  	 
+Exp: 10 - 	 Ger: 50 - 	 Best:    0.20012 - 	 Mean:    0.20810 - 	 AQreal:    0.45539  	 
+
+
+             Etapa 1
+
+Exp 1 - Aptidao: 0.225930
+Exp 2 - Aptidao: 0.226421
+Exp 3 - Aptidao: 0.227190
+Exp 4 - Aptidao: 0.224722
+Exp 5 - Aptidao: 0.224938
+Exp 6 - Aptidao: 0.225145
+Exp 7 - Aptidao: 0.225321
+Exp 8 - Aptidao: 0.225737
+Exp 9 - Aptidao: 0.225683
+Exp 10 - Aptidao: 0.225791
+
+Aptidão Média: 0.225688
+
+Aptidão Desvio: 0.000730
+
+Tempo Total(10 experimentos): 97146.831901 s
+
+
+             Etapa 2 - Random
+
+                RMSE_mV
+
+Exp 1 - Treinamento: 0.233378  Validacao: 0.223571  Teste: 1.244323  SRG: 35.380027
+Exp 2 - Treinamento: 0.245166  Validacao: 0.228797  Teste: 1.226927  SRG: 36.780937
+Exp 3 - Treinamento: 0.229598  Validacao: 0.218795  Teste: 1.245776  SRG: 32.271690
+Exp 4 - Treinamento: 0.262868  Validacao: 0.220621  Teste: 1.290514  SRG: 51.809546
+Exp 5 - Treinamento: 0.242816  Validacao: 0.208737  Teste: 1.233231  SRG: 36.805316
+Exp 6 - Treinamento: 0.356003  Validacao: 0.226227  Teste: 1.323990  SRG: 47.127361
+Exp 7 - Treinamento: 0.252147  Validacao: 0.210907  Teste: 1.297533  SRG: 46.458774
+Exp 8 - Treinamento: 0.250400  Validacao: 0.226807  Teste: 1.257940  SRG: 29.475232
+Exp 9 - Treinamento: 0.262871  Validacao: 0.219671  Teste: 1.259076  SRG: 53.873523
+Exp 10 - Treinamento: 0.328462  Validacao: 0.218399  Teste: 1.252417  SRG: 49.918411
+
+Média: Treinamento: 0.266371  Validacao: 0.220253  Teste: 1.263173
+
+Desvio: Treinamento: 0.041921  Validacao: 0.006571  Teste: 0.031011
+
+Melhor: Treinamento: 0.245166  Validacao: 0.228797  Teste: 1.226927  SRG: 36.780937
+
+                fit
+
+Exp 1 - Treinamento: 99.630681  Validacao: 99.526890  Teste: 97.648631  SRG: 35.380027
+Exp 2 - Treinamento: 99.612027  Validacao: 99.515832  Teste: 97.681503  SRG: 36.780937
+Exp 3 - Treinamento: 99.636663  Validacao: 99.536998  Teste: 97.645885  SRG: 32.271690
+Exp 4 - Treinamento: 99.584014  Validacao: 99.533132  Teste: 97.561345  SRG: 51.809546
+Exp 5 - Treinamento: 99.615746  Validacao: 99.558281  Teste: 97.669591  SRG: 36.805316
+Exp 6 - Treinamento: 99.436629  Validacao: 99.521270  Teste: 97.498085  SRG: 47.127361
+Exp 7 - Treinamento: 99.600980  Validacao: 99.553689  Teste: 97.548080  SRG: 46.458774
+Exp 8 - Treinamento: 99.603745  Validacao: 99.520043  Teste: 97.622900  SRG: 29.475232
+Exp 9 - Treinamento: 99.584009  Validacao: 99.535143  Teste: 97.620752  SRG: 53.873523
+Exp 10 - Treinamento: 99.480212  Validacao: 99.537835  Teste: 97.633335  SRG: 49.918411
+
+Média: Treinamento: 99.578471  Validacao: 99.533911  Teste: 97.613011
+
+Desvio: Treinamento: 0.066340  Validacao: 0.013906  Teste: 0.058600
+
+Melhor: Treinamento: 99.612027  Validacao: 99.515832  Teste: 97.681503  SRG: 36.780937
+                RRSE
+
+Exp 1 - Treinamento: 0.003693  Validacao: 0.004731  Teste: 0.023514  SRG: 35.380027
+Exp 2 - Treinamento: 0.003880  Validacao: 0.004842  Teste: 0.023185  SRG: 36.780937
+Exp 3 - Treinamento: 0.003633  Validacao: 0.004630  Teste: 0.023541  SRG: 32.271690
+Exp 4 - Treinamento: 0.004160  Validacao: 0.004669  Teste: 0.024387  SRG: 51.809546
+Exp 5 - Treinamento: 0.003843  Validacao: 0.004417  Teste: 0.023304  SRG: 36.805316
+Exp 6 - Treinamento: 0.005634  Validacao: 0.004787  Teste: 0.025019  SRG: 47.127361
+Exp 7 - Treinamento: 0.003990  Validacao: 0.004463  Teste: 0.024519  SRG: 46.458774
+Exp 8 - Treinamento: 0.003963  Validacao: 0.004800  Teste: 0.023771  SRG: 29.475232
+Exp 9 - Treinamento: 0.004160  Validacao: 0.004649  Teste: 0.023792  SRG: 53.873523
+Exp 10 - Treinamento: 0.005198  Validacao: 0.004622  Teste: 0.023667  SRG: 49.918411
+
+Média: Treinamento: 0.004215  Validacao: 0.004661  Teste: 0.023870
+
+Desvio: Treinamento: 0.000663  Validacao: 0.000139  Teste: 0.000586
+
+Melhor: Treinamento: 0.003880  Validacao: 0.004842  Teste: 0.023185  SRG: 36.780937
+
+Tempo Total(10 experimentos): 212.939220 s
+
+
+             Etapa 2 - SRG
+
+                RMSE_mV
+
+Exp 1 - Treinamento: 0.455582  Validacao: 0.224239  Teste: 1.231151  SRG: 32.397267
+Exp 2 - Treinamento: 0.259676  Validacao: 0.238270  Teste: 1.233255  SRG: 34.999630
+Exp 3 - Treinamento: 0.216040  Validacao: 0.250892  Teste: 1.241050  SRG: 32.036653
+Exp 4 - Treinamento: 0.237047  Validacao: 0.222931  Teste: 1.225084  SRG: 49.571574
+Exp 5 - Treinamento: 0.238638  Validacao: 0.228072  Teste: 1.255883  SRG: 35.073712
+Exp 6 - Treinamento: 0.260938  Validacao: 0.239860  Teste: 1.296827  SRG: 45.730474
+Exp 7 - Treinamento: 252.818504  Validacao: 251.057852  Teste: 251.895443  SRG: 45.633802
+Exp 8 - Treinamento: 0.266406  Validacao: 0.238940  Teste: 1.257722  SRG: 26.183529
+Exp 9 - Treinamento: 0.240216  Validacao: 0.228023  Teste: 1.267361  SRG: 50.730038
+Exp 10 - Treinamento: 0.261669  Validacao: 0.240241  Teste: 1.266095  SRG: 49.024088
+
+Média: Treinamento: 25.525472  Validacao: 25.316932  Teste: 26.316987
+
+Desvio: Treinamento: 79.862659  Validacao: 79.317275  Teste: 79.260193
+
+Melhor: Treinamento: 0.237047  Validacao: 0.222931  Teste: 1.225084  SRG: 49.571574
+
+                fit
+
+Exp 1 - Treinamento: 99.279045  Validacao: 99.525476  Teste: 97.673521  SRG: 32.397267
+Exp 2 - Treinamento: 99.589065  Validacao: 99.495784  Teste: 97.669545  SRG: 34.999630
+Exp 3 - Treinamento: 99.658118  Validacao: 99.469074  Teste: 97.654816  SRG: 32.036653
+Exp 4 - Treinamento: 99.624876  Validacao: 99.528245  Teste: 97.684986  SRG: 49.571574
+Exp 5 - Treinamento: 99.622358  Validacao: 99.517366  Teste: 97.626785  SRG: 35.073712
+Exp 6 - Treinamento: 99.587067  Validacao: 99.492419  Teste: 97.549414  SRG: 45.730474
+Exp 7 - Treinamento: -300.082733  Validacao: -431.276296  Teste: -376.001202  SRG: 45.633802
+Exp 8 - Treinamento: 99.578414  Validacao: 99.494366  Teste: 97.623310  SRG: 26.183529
+Exp 9 - Treinamento: 99.619861  Validacao: 99.517469  Teste: 97.605097  SRG: 50.730038
+Exp 10 - Treinamento: 99.585911  Validacao: 99.491615  Teste: 97.607489  SRG: 49.024088
+
+Média: Treinamento: 59.606198  Validacao: 46.425552  Teste: 50.269376
+
+Desvio: Treinamento: 126.381853  Validacao: 167.847321  Teste: 149.776219
+
+Melhor: Treinamento: 99.624876  Validacao: 99.528245  Teste: 97.684986  SRG: 49.571574
+                RRSE
+
+Exp 1 - Treinamento: 0.007210  Validacao: 0.004745  Teste: 0.023265  SRG: 32.397267
+Exp 2 - Treinamento: 0.004109  Validacao: 0.005042  Teste: 0.023305  SRG: 34.999630
+Exp 3 - Treinamento: 0.003419  Validacao: 0.005309  Teste: 0.023452  SRG: 32.036653
+Exp 4 - Treinamento: 0.003751  Validacao: 0.004718  Teste: 0.023150  SRG: 49.571574
+Exp 5 - Treinamento: 0.003776  Validacao: 0.004826  Teste: 0.023732  SRG: 35.073712
+Exp 6 - Treinamento: 0.004129  Validacao: 0.005076  Teste: 0.024506  SRG: 45.730474
+Exp 7 - Treinamento: 4.000827  Validacao: 5.312763  Teste: 4.760012  SRG: 45.633802
+Exp 8 - Treinamento: 0.004216  Validacao: 0.005056  Teste: 0.023767  SRG: 26.183529
+Exp 9 - Treinamento: 0.003801  Validacao: 0.004825  Teste: 0.023949  SRG: 50.730038
+Exp 10 - Treinamento: 0.004141  Validacao: 0.005084  Teste: 0.023925  SRG: 49.024088
+
+Média: Treinamento: 0.403938  Validacao: 0.535744  Teste: 0.497306
+
+Desvio: Treinamento: 1.263819  Validacao: 1.678473  Teste: 1.497762
+
+Melhor: Treinamento: 0.003751  Validacao: 0.004718  Teste: 0.023150  SRG: 49.571574
+
+Tempo Total(10 experimentos): 263.877600 s
+
+
+             Etapa 2 - Otimização dos pesos do reservatório
+
+                RMSE_mV
+
+Exp 1 - Treinamento: 0.215722  Validacao: 0.205562  Teste: 1.272962  SRG: 35.003537
+Exp 2 - Treinamento: 0.251469  Validacao: 0.201938  Teste: 1.228278  SRG: 37.566063
+Exp 3 - Treinamento: 0.271219  Validacao: 0.208685  Teste: 1.236851  SRG: 34.176845
+Exp 4 - Treinamento: 0.262920  Validacao: 0.207438  Teste: 1.260048  SRG: 51.674762
+Exp 5 - Treinamento: 0.281485  Validacao: 0.201723  Teste: 1.233379  SRG: 37.749351
+Exp 6 - Treinamento: 0.249863  Validacao: 0.202566  Teste: 1.254633  SRG: 47.916147
+Exp 7 - Treinamento: 0.238636  Validacao: 0.202230  Teste: 1.341186  SRG: 47.630444
+Exp 8 - Treinamento: 0.272362  Validacao: 0.202994  Teste: 1.234483  SRG: 28.983570
+Exp 9 - Treinamento: 0.285918  Validacao: 0.193334  Teste: 1.284459  SRG: 52.253381
+Exp 10 - Treinamento: 0.249345  Validacao: 0.200264  Teste: 1.256241  SRG: 51.002753
+
+Média: Treinamento: 0.257894  Validacao: 0.202673  Teste: 1.260252
+
+Desvio: Treinamento: 0.021297  Validacao: 0.004242  Teste: 0.033832
+
+Melhor: Treinamento: 0.251469  Validacao: 0.201938  Teste: 1.228278  SRG: 37.566063
+
+                fit
+
+Exp 1 - Treinamento: 99.658622  Validacao: 99.564999  Teste: 97.594512  SRG: 35.003537
+Exp 2 - Treinamento: 99.602053  Validacao: 99.572669  Teste: 97.678950  SRG: 37.566063
+Exp 3 - Treinamento: 99.570799  Validacao: 99.558391  Teste: 97.662750  SRG: 34.176845
+Exp 4 - Treinamento: 99.583931  Validacao: 99.561030  Teste: 97.618915  SRG: 51.674762
+Exp 5 - Treinamento: 99.554552  Validacao: 99.573124  Teste: 97.669312  SRG: 37.749351
+Exp 6 - Treinamento: 99.604594  Validacao: 99.571339  Teste: 97.629148  SRG: 47.916147
+Exp 7 - Treinamento: 99.622362  Validacao: 99.572050  Teste: 97.465590  SRG: 47.630444
+Exp 8 - Treinamento: 99.568989  Validacao: 99.570434  Teste: 97.667225  SRG: 28.983570
+Exp 9 - Treinamento: 99.547538  Validacao: 99.590876  Teste: 97.572787  SRG: 52.253381
+Exp 10 - Treinamento: 99.605414  Validacao: 99.576211  Teste: 97.626109  SRG: 51.002753
+
+Média: Treinamento: 99.591885  Validacao: 99.571112  Teste: 97.618530
+
+Desvio: Treinamento: 0.033703  Validacao: 0.008977  Teste: 0.063932
+
+Melhor: Treinamento: 99.602053  Validacao: 99.572669  Teste: 97.678950  SRG: 37.566063
+                RRSE
+
+Exp 1 - Treinamento: 0.003414  Validacao: 0.004350  Teste: 0.024055  SRG: 35.003537
+Exp 2 - Treinamento: 0.003979  Validacao: 0.004273  Teste: 0.023211  SRG: 37.566063
+Exp 3 - Treinamento: 0.004292  Validacao: 0.004416  Teste: 0.023372  SRG: 34.176845
+Exp 4 - Treinamento: 0.004161  Validacao: 0.004390  Teste: 0.023811  SRG: 51.674762
+Exp 5 - Treinamento: 0.004454  Validacao: 0.004269  Teste: 0.023307  SRG: 37.749351
+Exp 6 - Treinamento: 0.003954  Validacao: 0.004287  Teste: 0.023709  SRG: 47.916147
+Exp 7 - Treinamento: 0.003776  Validacao: 0.004279  Teste: 0.025344  SRG: 47.630444
+Exp 8 - Treinamento: 0.004310  Validacao: 0.004296  Teste: 0.023328  SRG: 28.983570
+Exp 9 - Treinamento: 0.004525  Validacao: 0.004091  Teste: 0.024272  SRG: 52.253381
+Exp 10 - Treinamento: 0.003946  Validacao: 0.004238  Teste: 0.023739  SRG: 51.002753
+
+Média: Treinamento: 0.004081  Validacao: 0.004289  Teste: 0.023815
+
+Desvio: Treinamento: 0.000337  Validacao: 0.000090  Teste: 0.000639
+
+Melhor: Treinamento: 0.003979  Validacao: 0.004273  Teste: 0.023211  SRG: 37.566063
+
+Tempo Total(10 experimentos): 6194.572843 s
+Starting parallel pool (parpool) using the 'local' profile ... connected to 4 workers.
+if system_dependent('IsDebugMode')==1, dbquit; end
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during compute_statematrix (line 168)
+
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during compute_statematrix (line 135)
+
+
+In train_esn (line 48)
+        stateCollection = compute_statematrix(trainInput, trainOutput, trained_esn, nForgetPoints) ; 
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In train_esn (line 48)
+        stateCollection = compute_statematrix(trainInput, trainOutput, trained_esn, nForgetPoints) ; 
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Experimento_PRINCIPAL_AEIQ_geral
+if system_dependent('IsDebugMode')==1, dbquit; end
+Operation terminated by user during compute_statematrix (line 168)
+
+
+In train_esn (line 48)
+        stateCollection = compute_statematrix(trainInput, trainOutput, trained_esn, nForgetPoints) ; 
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during compute_statematrix (line 173)
+
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Experimento_PRINCIPAL_AEIQ_geral
+Exp: 1 - 	 Ger: 1 - 	 Best:    0.25809 - 	 Mean: 1049162.53380 - 	 AQreal:   59.11498  	 
+Exp: 1 - 	 Ger: 2 - 	 Best:    0.24592 - 	 Mean:    9.52056 - 	 AQreal:   59.11498  	 
+Exp: 1 - 	 Ger: 3 - 	 Best:    0.23531 - 	 Mean:    0.28716 - 	 AQreal:   59.11498  	 
+Exp: 1 - 	 Ger: 4 - 	 Best:    0.22769 - 	 Mean:    0.26102 - 	 AQreal:   59.11498  	 
+Exp: 1 - 	 Ger: 5 - 	 Best:    0.22769 - 	 Mean:    0.24768 - 	 AQreal:   54.03415  	 
+Exp: 1 - 	 Ger: 6 - 	 Best:    0.21943 - 	 Mean:    0.23891 - 	 AQreal:   54.03415  	 
+Exp: 1 - 	 Ger: 7 - 	 Best:    0.21943 - 	 Mean:    0.23225 - 	 AQreal:   54.03415  	 
+Exp: 1 - 	 Ger: 8 - 	 Best:    0.21943 - 	 Mean:    0.22941 - 	 AQreal:   54.03415  	 
+Exp: 1 - 	 Ger: 9 - 	 Best:    0.21904 - 	 Mean:    0.22674 - 	 AQreal:   54.03415  	 
+Exp: 1 - 	 Ger: 10 - 	 Best:    0.21904 - 	 Mean:    0.22448 - 	 AQreal:   22.65438  	 
+Exp: 1 - 	 Ger: 11 - 	 Best:    0.21877 - 	 Mean:    0.22238 - 	 AQreal:   22.65438  	 
+Exp: 1 - 	 Ger: 12 - 	 Best:    0.21624 - 	 Mean:    0.22136 - 	 AQreal:   22.65438  	 
+Exp: 1 - 	 Ger: 13 - 	 Best:    0.21423 - 	 Mean:    0.21946 - 	 AQreal:   22.65438  	 
+if system_dependent('IsDebugMode')==1, dbquit; end
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during compute_statematrix (line 173)
+
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during pinv (line 18)
+
+
+In pseudoinverse (line 26)
+outputWeights = (pinv(stateCollectMat)*teachCollectMat)' ; 
+
+In train_esn (line 50)
+        trained_esn.outputWeights = feval(trained_esn.methodWeightCompute, stateCollection, teacherCollection) ;
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Experimento_PRINCIPAL_AEIQ_geral
+if system_dependent('IsDebugMode')==1, dbquit; end
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In train_esn (line 48)
+        stateCollection = compute_statematrix(trainInput, trainOutput, trained_esn, nForgetPoints) ; 
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during compute_statematrix (line 149)
+
+
+In train_esn (line 48)
+        stateCollection = compute_statematrix(trainInput, trainOutput, trained_esn, nForgetPoints) ; 
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 19)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during pinv (line 18)
+
+
+In pseudoinverse (line 26)
+outputWeights = (pinv(stateCollectMat)*teachCollectMat)' ; 
+
+In train_esn (line 50)
+        trained_esn.outputWeights = feval(trained_esn.methodWeightCompute, stateCollection, teacherCollection) ;
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Experimento_PRINCIPAL_AEIQ_geral
+Exp: 1 - 	 Ger: 1 - 	 Best:    0.21711 - 	 Mean: 256129.24879 - 	 AQreal:   54.94832  	 
+Exp: 1 - 	 Ger: 2 - 	 Best:    0.21711 - 	 Mean:    1.13522 - 	 AQreal:   54.94832  	 
+Exp: 1 - 	 Ger: 3 - 	 Best:    0.21711 - 	 Mean:    0.28342 - 	 AQreal:   54.94832  	 
+Exp: 1 - 	 Ger: 4 - 	 Best:    0.21711 - 	 Mean:    0.24241 - 	 AQreal:   54.94832  	 
+Exp: 1 - 	 Ger: 5 - 	 Best:    0.21711 - 	 Mean:    0.23177 - 	 AQreal:   30.03683  	 
+Exp: 1 - 	 Ger: 6 - 	 Best:    0.21471 - 	 Mean:    0.22409 - 	 AQreal:   30.03683  	 
+Exp: 1 - 	 Ger: 7 - 	 Best:    0.21445 - 	 Mean:    0.21789 - 	 AQreal:   30.03683  	 
+Exp: 1 - 	 Ger: 8 - 	 Best:    0.21445 - 	 Mean:    0.21655 - 	 AQreal:   30.03683  	 
+Exp: 1 - 	 Ger: 9 - 	 Best:    0.21413 - 	 Mean:    0.21589 - 	 AQreal:   30.03683  	 
+Exp: 1 - 	 Ger: 10 - 	 Best:    0.21351 - 	 Mean:    0.21527 - 	 AQreal:   10.73480  	 
+Exp: 1 - 	 Ger: 11 - 	 Best:    0.21344 - 	 Mean:    0.21452 - 	 AQreal:   10.73480  	 
+Exp: 1 - 	 Ger: 12 - 	 Best:    0.21331 - 	 Mean:    0.21412 - 	 AQreal:   10.73480  	 
+Exp: 1 - 	 Ger: 13 - 	 Best:    0.21328 - 	 Mean:    0.21392 - 	 AQreal:   10.73480  	 
+Exp: 1 - 	 Ger: 14 - 	 Best:    0.21320 - 	 Mean:    0.21371 - 	 AQreal:   10.73480  	 
+Exp: 1 - 	 Ger: 15 - 	 Best:    0.21231 - 	 Mean:    0.21358 - 	 AQreal:   14.41249  	 
+Exp: 1 - 	 Ger: 16 - 	 Best:    0.21231 - 	 Mean:    0.21337 - 	 AQreal:   14.41249  	 
+Exp: 1 - 	 Ger: 17 - 	 Best:    0.21231 - 	 Mean:    0.21321 - 	 AQreal:   14.41249  	 
+Exp: 1 - 	 Ger: 18 - 	 Best:    0.21225 - 	 Mean:    0.21308 - 	 AQreal:   14.41249  	 
+Exp: 1 - 	 Ger: 19 - 	 Best:    0.21225 - 	 Mean:    0.21305 - 	 AQreal:   14.41249  	 
+Exp: 1 - 	 Ger: 20 - 	 Best:    0.21225 - 	 Mean:    0.21299 - 	 AQreal:   15.99474  	 
+Exp: 1 - 	 Ger: 21 - 	 Best:    0.21225 - 	 Mean:    0.21291 - 	 AQreal:   15.99474  	 
+Exp: 1 - 	 Ger: 22 - 	 Best:    0.21225 - 	 Mean:    0.21287 - 	 AQreal:   15.99474  	 
+Exp: 1 - 	 Ger: 23 - 	 Best:    0.21192 - 	 Mean:    0.21279 - 	 AQreal:   15.99474  	 
+Exp: 1 - 	 Ger: 24 - 	 Best:    0.21192 - 	 Mean:    0.21264 - 	 AQreal:   15.99474  	 
+Exp: 1 - 	 Ger: 25 - 	 Best:    0.21192 - 	 Mean:    0.21260 - 	 AQreal:   12.22799  	 
+Exp: 1 - 	 Ger: 26 - 	 Best:    0.21192 - 	 Mean:    0.21253 - 	 AQreal:   12.22799  	 
+Exp: 1 - 	 Ger: 27 - 	 Best:    0.21192 - 	 Mean:    0.21249 - 	 AQreal:   12.22799  	 
+Exp: 1 - 	 Ger: 28 - 	 Best:    0.21192 - 	 Mean:    0.21243 - 	 AQreal:   12.22799  	 
+Exp: 1 - 	 Ger: 29 - 	 Best:    0.21181 - 	 Mean:    0.21232 - 	 AQreal:   12.22799  	 
+Exp: 1 - 	 Ger: 30 - 	 Best:    0.21181 - 	 Mean:    0.21226 - 	 AQreal:   10.11025  	 
+Exp: 2 - 	 Ger: 1 - 	 Best:    0.22214 - 	 Mean: 1945299.85484 - 	 AQreal:   54.94832  	 
+Exp: 2 - 	 Ger: 2 - 	 Best:    0.22144 - 	 Mean:    5.77469 - 	 AQreal:   54.94832  	 
+Exp: 2 - 	 Ger: 3 - 	 Best:    0.22144 - 	 Mean:    0.32748 - 	 AQreal:   54.94832  	 
+Exp: 2 - 	 Ger: 4 - 	 Best:    0.22040 - 	 Mean:    0.27140 - 	 AQreal:   54.94832  	 
+Exp: 2 - 	 Ger: 5 - 	 Best:    0.22040 - 	 Mean:    0.24008 - 	 AQreal:   51.68796  	 
+Exp: 2 - 	 Ger: 6 - 	 Best:    0.21924 - 	 Mean:    0.22707 - 	 AQreal:   51.68796  	 
+Exp: 2 - 	 Ger: 7 - 	 Best:    0.21924 - 	 Mean:    0.22436 - 	 AQreal:   51.68796  	 
+Exp: 2 - 	 Ger: 8 - 	 Best:    0.21598 - 	 Mean:    0.22236 - 	 AQreal:   51.68796  	 
+Exp: 2 - 	 Ger: 9 - 	 Best:    0.21598 - 	 Mean:    0.22140 - 	 AQreal:   51.68796  	 
+Exp: 2 - 	 Ger: 10 - 	 Best:    0.21598 - 	 Mean:    0.22047 - 	 AQreal:   51.80220  	 
+Exp: 2 - 	 Ger: 11 - 	 Best:    0.21598 - 	 Mean:    0.21921 - 	 AQreal:   51.80220  	 
+Exp: 2 - 	 Ger: 12 - 	 Best:    0.21593 - 	 Mean:    0.21788 - 	 AQreal:   51.80220  	 
+Exp: 2 - 	 Ger: 13 - 	 Best:    0.21593 - 	 Mean:    0.21702 - 	 AQreal:   51.80220  	 
+Exp: 2 - 	 Ger: 14 - 	 Best:    0.21422 - 	 Mean:    0.21658 - 	 AQreal:   51.80220  	 
+Exp: 2 - 	 Ger: 15 - 	 Best:    0.21422 - 	 Mean:    0.21610 - 	 AQreal:   47.60354  	 
+Exp: 2 - 	 Ger: 16 - 	 Best:    0.21376 - 	 Mean:    0.21576 - 	 AQreal:   47.60354  	 
+Exp: 2 - 	 Ger: 17 - 	 Best:    0.21376 - 	 Mean:    0.21542 - 	 AQreal:   47.60354  	 
+Exp: 2 - 	 Ger: 18 - 	 Best:    0.21376 - 	 Mean:    0.21518 - 	 AQreal:   47.60354  	 
+Exp: 2 - 	 Ger: 19 - 	 Best:    0.21376 - 	 Mean:    0.21482 - 	 AQreal:   47.60354  	 
+Exp: 2 - 	 Ger: 20 - 	 Best:    0.21376 - 	 Mean:    0.21454 - 	 AQreal:   38.11937  	 
+Exp: 2 - 	 Ger: 21 - 	 Best:    0.21376 - 	 Mean:    0.21438 - 	 AQreal:   38.11937  	 
+Exp: 2 - 	 Ger: 22 - 	 Best:    0.21354 - 	 Mean:    0.21425 - 	 AQreal:   38.11937  	 
+Exp: 2 - 	 Ger: 23 - 	 Best:    0.21354 - 	 Mean:    0.21423 - 	 AQreal:   38.11937  	 
+Exp: 2 - 	 Ger: 24 - 	 Best:    0.21354 - 	 Mean:    0.21422 - 	 AQreal:   38.11937  	 
+Exp: 2 - 	 Ger: 25 - 	 Best:    0.21354 - 	 Mean:    0.21419 - 	 AQreal:   36.97988  	 
+Exp: 2 - 	 Ger: 26 - 	 Best:    0.21354 - 	 Mean:    0.21415 - 	 AQreal:   36.97988  	 
+Exp: 2 - 	 Ger: 27 - 	 Best:    0.21354 - 	 Mean:    0.21405 - 	 AQreal:   36.97988  	 
+Exp: 2 - 	 Ger: 28 - 	 Best:    0.21307 - 	 Mean:    0.21395 - 	 AQreal:   36.97988  	 
+Exp: 2 - 	 Ger: 29 - 	 Best:    0.21269 - 	 Mean:    0.21384 - 	 AQreal:   36.97988  	 
+Exp: 2 - 	 Ger: 30 - 	 Best:    0.21269 - 	 Mean:    0.21378 - 	 AQreal:   30.42327  	 
+Exp: 3 - 	 Ger: 1 - 	 Best:    0.22942 - 	 Mean: 126516.96876 - 	 AQreal:   54.94832  	 
+Exp: 3 - 	 Ger: 2 - 	 Best:    0.22244 - 	 Mean:    0.72322 - 	 AQreal:   54.94832  	 
+Exp: 3 - 	 Ger: 3 - 	 Best:    0.22114 - 	 Mean:    0.25285 - 	 AQreal:   54.94832  	 
+Exp: 3 - 	 Ger: 4 - 	 Best:    0.21739 - 	 Mean:    0.23477 - 	 AQreal:   54.94832  	 
+Exp: 3 - 	 Ger: 5 - 	 Best:    0.21641 - 	 Mean:    0.22820 - 	 AQreal:   52.86284  	 
+Exp: 3 - 	 Ger: 6 - 	 Best:    0.21641 - 	 Mean:    0.22423 - 	 AQreal:   52.86284  	 
+Exp: 3 - 	 Ger: 7 - 	 Best:    0.21540 - 	 Mean:    0.22089 - 	 AQreal:   52.86284  	 
+Exp: 3 - 	 Ger: 8 - 	 Best:    0.21540 - 	 Mean:    0.22020 - 	 AQreal:   52.86284  	 
+Exp: 3 - 	 Ger: 9 - 	 Best:    0.21540 - 	 Mean:    0.21978 - 	 AQreal:   52.86284  	 
+Exp: 3 - 	 Ger: 10 - 	 Best:    0.21522 - 	 Mean:    0.21862 - 	 AQreal:   50.03941  	 
+Exp: 3 - 	 Ger: 11 - 	 Best:    0.21514 - 	 Mean:    0.21759 - 	 AQreal:   50.03941  	 
+Exp: 3 - 	 Ger: 12 - 	 Best:    0.21514 - 	 Mean:    0.21674 - 	 AQreal:   50.03941  	 
+Exp: 3 - 	 Ger: 13 - 	 Best:    0.21514 - 	 Mean:    0.21636 - 	 AQreal:   50.03941  	 
+Exp: 3 - 	 Ger: 14 - 	 Best:    0.21139 - 	 Mean:    0.21565 - 	 AQreal:   50.03941  	 
+Exp: 3 - 	 Ger: 15 - 	 Best:    0.21139 - 	 Mean:    0.21519 - 	 AQreal:   24.18727  	 
+Exp: 3 - 	 Ger: 16 - 	 Best:    0.21139 - 	 Mean:    0.21481 - 	 AQreal:   24.18727  	 
+Exp: 3 - 	 Ger: 17 - 	 Best:    0.21139 - 	 Mean:    0.21420 - 	 AQreal:   24.18727  	 
+Exp: 3 - 	 Ger: 18 - 	 Best:    0.21139 - 	 Mean:    0.21379 - 	 AQreal:   24.18727  	 
+Exp: 3 - 	 Ger: 19 - 	 Best:    0.21133 - 	 Mean:    0.21304 - 	 AQreal:   24.18727  	 
+Exp: 3 - 	 Ger: 20 - 	 Best:    0.21133 - 	 Mean:    0.21272 - 	 AQreal:   21.94311  	 
+Exp: 3 - 	 Ger: 21 - 	 Best:    0.21133 - 	 Mean:    0.21249 - 	 AQreal:   21.94311  	 
+Exp: 3 - 	 Ger: 22 - 	 Best:    0.21133 - 	 Mean:    0.21234 - 	 AQreal:   21.94311  	 
+Exp: 3 - 	 Ger: 23 - 	 Best:    0.21133 - 	 Mean:    0.21218 - 	 AQreal:   21.94311  	 
+Exp: 3 - 	 Ger: 24 - 	 Best:    0.21133 - 	 Mean:    0.21202 - 	 AQreal:   21.94311  	 
+Exp: 3 - 	 Ger: 25 - 	 Best:    0.21133 - 	 Mean:    0.21194 - 	 AQreal:   24.97032  	 
+Exp: 3 - 	 Ger: 26 - 	 Best:    0.21133 - 	 Mean:    0.21189 - 	 AQreal:   24.97032  	 
+Exp: 3 - 	 Ger: 27 - 	 Best:    0.21125 - 	 Mean:    0.21180 - 	 AQreal:   24.97032  	 
+Exp: 3 - 	 Ger: 28 - 	 Best:    0.21125 - 	 Mean:    0.21176 - 	 AQreal:   24.97032  	 
+Exp: 3 - 	 Ger: 29 - 	 Best:    0.21125 - 	 Mean:    0.21164 - 	 AQreal:   24.97032  	 
+Exp: 3 - 	 Ger: 30 - 	 Best:    0.21060 - 	 Mean:    0.21156 - 	 AQreal:   29.26037  	 
+Exp: 4 - 	 Ger: 1 - 	 Best:    0.21572 - 	 Mean: 24903832.12997 - 	 AQreal:   54.94832  	 
+Exp: 4 - 	 Ger: 2 - 	 Best:    0.21514 - 	 Mean:   15.01090 - 	 AQreal:   54.94832  	 
+Exp: 4 - 	 Ger: 3 - 	 Best:    0.21514 - 	 Mean:    0.30264 - 	 AQreal:   54.94832  	 
+Exp: 4 - 	 Ger: 4 - 	 Best:    0.21514 - 	 Mean:    0.23153 - 	 AQreal:   54.94832  	 
+Exp: 4 - 	 Ger: 5 - 	 Best:    0.21514 - 	 Mean:    0.21881 - 	 AQreal:   46.22805  	 
+Exp: 4 - 	 Ger: 6 - 	 Best:    0.21450 - 	 Mean:    0.21767 - 	 AQreal:   46.22805  	 
+Exp: 4 - 	 Ger: 7 - 	 Best:    0.21310 - 	 Mean:    0.21639 - 	 AQreal:   46.22805  	 
+Exp: 4 - 	 Ger: 8 - 	 Best:    0.21133 - 	 Mean:    0.21518 - 	 AQreal:   46.22805  	 
+Exp: 4 - 	 Ger: 9 - 	 Best:    0.21133 - 	 Mean:    0.21481 - 	 AQreal:   46.22805  	 
+Exp: 4 - 	 Ger: 10 - 	 Best:    0.21133 - 	 Mean:    0.21440 - 	 AQreal:   45.64784  	 
+Exp: 4 - 	 Ger: 11 - 	 Best:    0.21133 - 	 Mean:    0.21408 - 	 AQreal:   45.64784  	 
+Exp: 4 - 	 Ger: 12 - 	 Best:    0.21133 - 	 Mean:    0.21364 - 	 AQreal:   45.64784  	 
+Exp: 4 - 	 Ger: 13 - 	 Best:    0.21056 - 	 Mean:    0.21315 - 	 AQreal:   45.64784  	 
+Exp: 4 - 	 Ger: 14 - 	 Best:    0.21043 - 	 Mean:    0.21272 - 	 AQreal:   45.64784  	 
+Exp: 4 - 	 Ger: 15 - 	 Best:    0.21043 - 	 Mean:    0.21232 - 	 AQreal:   38.44663  	 
+Exp: 4 - 	 Ger: 16 - 	 Best:    0.21043 - 	 Mean:    0.21210 - 	 AQreal:   38.44663  	 
+Exp: 4 - 	 Ger: 17 - 	 Best:    0.21043 - 	 Mean:    0.21181 - 	 AQreal:   38.44663  	 
+Exp: 4 - 	 Ger: 18 - 	 Best:    0.21043 - 	 Mean:    0.21151 - 	 AQreal:   38.44663  	 
+Exp: 4 - 	 Ger: 19 - 	 Best:    0.21027 - 	 Mean:    0.21121 - 	 AQreal:   38.44663  	 
+Exp: 4 - 	 Ger: 20 - 	 Best:    0.21027 - 	 Mean:    0.21103 - 	 AQreal:   12.33242  	 
+Exp: 4 - 	 Ger: 21 - 	 Best:    0.21027 - 	 Mean:    0.21080 - 	 AQreal:   12.33242  	 
+Exp: 4 - 	 Ger: 22 - 	 Best:    0.20999 - 	 Mean:    0.21066 - 	 AQreal:   12.33242  	 
+Exp: 4 - 	 Ger: 23 - 	 Best:    0.20994 - 	 Mean:    0.21047 - 	 AQreal:   12.33242  	 
+Exp: 4 - 	 Ger: 24 - 	 Best:    0.20994 - 	 Mean:    0.21037 - 	 AQreal:   12.33242  	 
+Exp: 4 - 	 Ger: 25 - 	 Best:    0.20992 - 	 Mean:    0.21029 - 	 AQreal:    5.70417  	 
+Exp: 4 - 	 Ger: 26 - 	 Best:    0.20955 - 	 Mean:    0.21023 - 	 AQreal:    5.70417  	 
+Exp: 4 - 	 Ger: 27 - 	 Best:    0.20955 - 	 Mean:    0.21013 - 	 AQreal:    5.70417  	 
+Exp: 4 - 	 Ger: 28 - 	 Best:    0.20955 - 	 Mean:    0.21003 - 	 AQreal:    5.70417  	 
+Exp: 4 - 	 Ger: 29 - 	 Best:    0.20935 - 	 Mean:    0.20988 - 	 AQreal:    5.70417  	 
+Exp: 4 - 	 Ger: 30 - 	 Best:    0.20935 - 	 Mean:    0.20987 - 	 AQreal:    3.77097  	 
+Exp: 5 - 	 Ger: 1 - 	 Best:    0.22439 - 	 Mean: 463436.75345 - 	 AQreal:   54.94832  	 
+Exp: 5 - 	 Ger: 2 - 	 Best:    0.22439 - 	 Mean:   10.62579 - 	 AQreal:   54.94832  	 
+Exp: 5 - 	 Ger: 3 - 	 Best:    0.22439 - 	 Mean:    0.32518 - 	 AQreal:   54.94832  	 
+Exp: 5 - 	 Ger: 4 - 	 Best:    0.22439 - 	 Mean:    0.27914 - 	 AQreal:   54.94832  	 
+Exp: 5 - 	 Ger: 5 - 	 Best:    0.22439 - 	 Mean:    0.24551 - 	 AQreal:   44.99674  	 
+Exp: 5 - 	 Ger: 6 - 	 Best:    0.22439 - 	 Mean:    0.23020 - 	 AQreal:   44.99674  	 
+Exp: 5 - 	 Ger: 7 - 	 Best:    0.22439 - 	 Mean:    0.22761 - 	 AQreal:   44.99674  	 
+Exp: 5 - 	 Ger: 8 - 	 Best:    0.22311 - 	 Mean:    0.22663 - 	 AQreal:   44.99674  	 
+Exp: 5 - 	 Ger: 9 - 	 Best:    0.22277 - 	 Mean:    0.22609 - 	 AQreal:   44.99674  	 
+Exp: 5 - 	 Ger: 10 - 	 Best:    0.22197 - 	 Mean:    0.22554 - 	 AQreal:   44.86183  	 
+Exp: 5 - 	 Ger: 11 - 	 Best:    0.22197 - 	 Mean:    0.22495 - 	 AQreal:   44.86183  	 
+Exp: 5 - 	 Ger: 12 - 	 Best:    0.22010 - 	 Mean:    0.22411 - 	 AQreal:   44.86183  	 
+Exp: 5 - 	 Ger: 13 - 	 Best:    0.22010 - 	 Mean:    0.22360 - 	 AQreal:   44.86183  	 
+Exp: 5 - 	 Ger: 14 - 	 Best:    0.22010 - 	 Mean:    0.22300 - 	 AQreal:   44.86183  	 
+Exp: 5 - 	 Ger: 15 - 	 Best:    0.22010 - 	 Mean:    0.22245 - 	 AQreal:   28.23327  	 
+Exp: 5 - 	 Ger: 16 - 	 Best:    0.21753 - 	 Mean:    0.22124 - 	 AQreal:   28.23327  	 
+Exp: 5 - 	 Ger: 17 - 	 Best:    0.21753 - 	 Mean:    0.22085 - 	 AQreal:   28.23327  	 
+Exp: 5 - 	 Ger: 18 - 	 Best:    0.21753 - 	 Mean:    0.22040 - 	 AQreal:   28.23327  	 
+Exp: 5 - 	 Ger: 19 - 	 Best:    0.21753 - 	 Mean:    0.21937 - 	 AQreal:   28.23327  	 
+Exp: 5 - 	 Ger: 20 - 	 Best:    0.21616 - 	 Mean:    0.21863 - 	 AQreal:   25.65521  	 
+Exp: 5 - 	 Ger: 21 - 	 Best:    0.21610 - 	 Mean:    0.21770 - 	 AQreal:   25.65521  	 
+Exp: 5 - 	 Ger: 22 - 	 Best:    0.21610 - 	 Mean:    0.21750 - 	 AQreal:   25.65521  	 
+Exp: 5 - 	 Ger: 23 - 	 Best:    0.21610 - 	 Mean:    0.21737 - 	 AQreal:   25.65521  	 
+Exp: 5 - 	 Ger: 24 - 	 Best:    0.21610 - 	 Mean:    0.21722 - 	 AQreal:   25.65521  	 
+Exp: 5 - 	 Ger: 25 - 	 Best:    0.21610 - 	 Mean:    0.21709 - 	 AQreal:   19.10181  	 
+Exp: 5 - 	 Ger: 26 - 	 Best:    0.21593 - 	 Mean:    0.21690 - 	 AQreal:   19.10181  	 
+Exp: 5 - 	 Ger: 27 - 	 Best:    0.21593 - 	 Mean:    0.21676 - 	 AQreal:   19.10181  	 
+Exp: 5 - 	 Ger: 28 - 	 Best:    0.21593 - 	 Mean:    0.21665 - 	 AQreal:   19.10181  	 
+Exp: 5 - 	 Ger: 29 - 	 Best:    0.21593 - 	 Mean:    0.21654 - 	 AQreal:   19.10181  	 
+Exp: 5 - 	 Ger: 30 - 	 Best:    0.21566 - 	 Mean:    0.21643 - 	 AQreal:   20.22995  	 
+Exp: 6 - 	 Ger: 1 - 	 Best:    0.24548 - 	 Mean: 1811943.78142 - 	 AQreal:   54.94832  	 
+Exp: 6 - 	 Ger: 2 - 	 Best:    0.24548 - 	 Mean:    6.19918 - 	 AQreal:   54.94832  	 
+Exp: 6 - 	 Ger: 3 - 	 Best:    0.23612 - 	 Mean:    0.30637 - 	 AQreal:   54.94832  	 
+Exp: 6 - 	 Ger: 4 - 	 Best:    0.23612 - 	 Mean:    0.27579 - 	 AQreal:   54.94832  	 
+Exp: 6 - 	 Ger: 5 - 	 Best:    0.23612 - 	 Mean:    0.25592 - 	 AQreal:   35.01177  	 
+Exp: 6 - 	 Ger: 6 - 	 Best:    0.22965 - 	 Mean:    0.24422 - 	 AQreal:   35.01177  	 
+Exp: 6 - 	 Ger: 7 - 	 Best:    0.22948 - 	 Mean:    0.24078 - 	 AQreal:   35.01177  	 
+Exp: 6 - 	 Ger: 8 - 	 Best:    0.22558 - 	 Mean:    0.23741 - 	 AQreal:   35.01177  	 
+<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m',128,1)">128 </a>                    obj.displayOutput();
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+Operation terminated by user during leaky_esn (line 19)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 23)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In train_esn (line 48)
+        stateCollection = compute_statematrix(trainInput, trainOutput, trained_esn, nForgetPoints) ; 
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Experimento_PRINCIPAL_AEIQ_geral
+clear
+if system_dependent('IsDebugMode')==1, dbquit; end
+Experimento_PRINCIPAL_AEIQ_geral
+if system_dependent('IsDebugMode')==1, dbcont; end
+Exp: 1 - 	 Ger: 1 - 	 Best:    0.21859 - 	 Mean: 600555.13492 - 	 AQreal:   34.11498  	 
+<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m',214,1)">214 </a>    cellfun(@(msg) disp(char(msg)), cell(msgs));
+if system_dependent('IsDebugMode')==1, dbquit; end
+Operation terminated by user during leaky_esn (line 19)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In train_esn (line 48)
+        stateCollection = compute_statematrix(trainInput, trainOutput, trained_esn, nForgetPoints) ; 
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 18)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during compute_statematrix (line 173)
+
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 17)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Experimento_PRINCIPAL_AEIQ_geral
+if system_dependent('IsDebugMode')==1, dbquit; end
+Operation terminated by user during leaky_esn (line 19)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In test_esn (line 43)
+        compute_statematrix(inputSequence, [], esn, nForgetPoints, 'startingState', totalstate) ;
+
+In calculaErroFinal (line 45)
+    predictedValOutput = test_esn(valInputSequence, trainedEsn, 0,'startingState',finalState);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during leaky_esn (line 20)
+
+
+In compute_statematrix (line 168)
+    internalState = feval(esn.type, totalstate, esn, typeSpecificArg) ; 
+
+In train_esn (line 48)
+        stateCollection = compute_statematrix(trainInput, trainOutput, trained_esn, nForgetPoints) ; 
+
+In calculaErroFinal (line 39)
+   train_esn(trainInputSequence, trainOutputSequence, esn, nForgetPoints) ; 
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Operation terminated by user during compute_statematrix (line 168)
+
+
+In test_esn_modificada (line 32)
+    stateCollection = compute_statematrix(inputSequence, [], esn, nForgetPoints) ;     
+
+In calculaErroFinal (line 42)
+   [predictedTrainOutput,finalState] = test_esn_modificada(trainInputSequence, trainedEsn, nForgetPoints);
+
+In parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+In remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+Experimento_PRINCIPAL_AEIQ_geral
+Exp: 1 - 	 Ger: 1 - 	 Best:    0.27505 - 	 Mean: 8401849.54296 - 	 AQreal:   42.44832  	 
+Exp: 1 - 	 Ger: 2 - 	 Best:    0.24635 - 	 Mean: 3339.43318 - 	 AQreal:   42.44832  	 
+Exp: 1 - 	 Ger: 3 - 	 Best:    0.24635 - 	 Mean:    5.66963 - 	 AQreal:   42.44832  	 
+Exp: 1 - 	 Ger: 4 - 	 Best:    0.24635 - 	 Mean:    0.29532 - 	 AQreal:   42.44832  	 
+Exp: 1 - 	 Ger: 5 - 	 Best:    0.24565 - 	 Mean:    0.27040 - 	 AQreal:   42.19747  	 
+Exp: 1 - 	 Ger: 6 - 	 Best:    0.24565 - 	 Mean:    0.25966 - 	 AQreal:   42.19747  	 
+Exp: 1 - 	 Ger: 7 - 	 Best:    0.24218 - 	 Mean:    0.25208 - 	 AQreal:   42.19747  	 
+Exp: 1 - 	 Ger: 8 - 	 Best:    0.23989 - 	 Mean:    0.24637 - 	 AQreal:   42.19747  	 
+Exp: 1 - 	 Ger: 9 - 	 Best:    0.23989 - 	 Mean:    0.24538 - 	 AQreal:   42.19747  	 
+Exp: 1 - 	 Ger: 10 - 	 Best:    0.23989 - 	 Mean:    0.24437 - 	 AQreal:   24.54738  	 
+Exp: 1 - 	 Ger: 11 - 	 Best:    0.22782 - 	 Mean:    0.24065 - 	 AQreal:   24.54738  	 
+Exp: 1 - 	 Ger: 12 - 	 Best:    0.22550 - 	 Mean:    0.23650 - 	 AQreal:   24.54738  	 
+Exp: 1 - 	 Ger: 13 - 	 Best:    0.22550 - 	 Mean:    0.23321 - 	 AQreal:   24.54738  	 
+Exp: 1 - 	 Ger: 14 - 	 Best:    0.22546 - 	 Mean:    0.22985 - 	 AQreal:   24.54738  	 
+Exp: 1 - 	 Ger: 15 - 	 Best:    0.22178 - 	 Mean:    0.22785 - 	 AQreal:   24.75404  	 
+Exp: 1 - 	 Ger: 16 - 	 Best:    0.22126 - 	 Mean:    0.22591 - 	 AQreal:   24.75404  	 
+Exp: 1 - 	 Ger: 17 - 	 Best:    0.22096 - 	 Mean:    0.22419 - 	 AQreal:   24.75404  	 
+Exp: 1 - 	 Ger: 18 - 	 Best:    0.21877 - 	 Mean:    0.22265 - 	 AQreal:   24.75404  	 
+Exp: 1 - 	 Ger: 19 - 	 Best:    0.21877 - 	 Mean:    0.22187 - 	 AQreal:   24.75404  	 
+Exp: 1 - 	 Ger: 20 - 	 Best:    0.21877 - 	 Mean:    0.22140 - 	 AQreal:   28.03027  	 
+Exp: 1 - 	 Ger: 21 - 	 Best:    0.21877 - 	 Mean:    0.22103 - 	 AQreal:   28.03027  	 
+Exp: 1 - 	 Ger: 22 - 	 Best:    0.21771 - 	 Mean:    0.22066 - 	 AQreal:   28.03027  	 
+Exp: 1 - 	 Ger: 23 - 	 Best:    0.21771 - 	 Mean:    0.22030 - 	 AQreal:   28.03027  	 
+Exp: 1 - 	 Ger: 24 - 	 Best:    0.21733 - 	 Mean:    0.21974 - 	 AQreal:   28.03027  	 
+Exp: 1 - 	 Ger: 25 - 	 Best:    0.21733 - 	 Mean:    0.21935 - 	 AQreal:   20.14740  	 
+Exp: 1 - 	 Ger: 26 - 	 Best:    0.21448 - 	 Mean:    0.21858 - 	 AQreal:   20.14740  	 
+Exp: 1 - 	 Ger: 27 - 	 Best:    0.21448 - 	 Mean:    0.21836 - 	 AQreal:   20.14740  	 
+Exp: 1 - 	 Ger: 28 - 	 Best:    0.21431 - 	 Mean:    0.21794 - 	 AQreal:   20.14740  	 
+Exp: 1 - 	 Ger: 29 - 	 Best:    0.21431 - 	 Mean:    0.21739 - 	 AQreal:   20.14740  	 
+Exp: 1 - 	 Ger: 30 - 	 Best:    0.21431 - 	 Mean:    0.21675 - 	 AQreal:   15.48790  	 
+Exp: 2 - 	 Ger: 1 - 	 Best:    0.23921 - 	 Mean: 2806550.30333 - 	 AQreal:   42.44832  	 
+Exp: 2 - 	 Ger: 2 - 	 Best:    0.23822 - 	 Mean:   15.49811 - 	 AQreal:   42.44832  	 
+Exp: 2 - 	 Ger: 3 - 	 Best:    0.23822 - 	 Mean:    0.26893 - 	 AQreal:   42.44832  	 
+Exp: 2 - 	 Ger: 4 - 	 Best:    0.22856 - 	 Mean:    0.24425 - 	 AQreal:   42.44832  	 
+Exp: 2 - 	 Ger: 5 - 	 Best:    0.22856 - 	 Mean:    0.23902 - 	 AQreal:   42.36678  	 
+Exp: 2 - 	 Ger: 6 - 	 Best:    0.22856 - 	 Mean:    0.23664 - 	 AQreal:   42.36678  	 
+Exp: 2 - 	 Ger: 7 - 	 Best:    0.22856 - 	 Mean:    0.23456 - 	 AQreal:   42.36678  	 
+Exp: 2 - 	 Ger: 8 - 	 Best:    0.22251 - 	 Mean:    0.23142 - 	 AQreal:   42.36678  	 
+Exp: 2 - 	 Ger: 9 - 	 Best:    0.21293 - 	 Mean:    0.22650 - 	 AQreal:   42.36678  	 
+Exp: 2 - 	 Ger: 10 - 	 Best:    0.21293 - 	 Mean:    0.22301 - 	 AQreal:   25.03366  	 
+Exp: 2 - 	 Ger: 11 - 	 Best:    0.21293 - 	 Mean:    0.21934 - 	 AQreal:   25.03366  	 
+Exp: 2 - 	 Ger: 12 - 	 Best:    0.21293 - 	 Mean:    0.21698 - 	 AQreal:   25.03366  	 
+Exp: 2 - 	 Ger: 13 - 	 Best:    0.21009 - 	 Mean:    0.21491 - 	 AQreal:   25.03366  	 
+Exp: 2 - 	 Ger: 14 - 	 Best:    0.21009 - 	 Mean:    0.21374 - 	 AQreal:   25.03366  	 
+Exp: 2 - 	 Ger: 15 - 	 Best:    0.21009 - 	 Mean:    0.21347 - 	 AQreal:   23.59452  	 
+Exp: 2 - 	 Ger: 16 - 	 Best:    0.21009 - 	 Mean:    0.21317 - 	 AQreal:   23.59452  	 
+Exp: 2 - 	 Ger: 17 - 	 Best:    0.21009 - 	 Mean:    0.21305 - 	 AQreal:   23.59452  	 
+Exp: 2 - 	 Ger: 18 - 	 Best:    0.21009 - 	 Mean:    0.21252 - 	 AQreal:   23.59452  	 
+Exp: 2 - 	 Ger: 19 - 	 Best:    0.21009 - 	 Mean:    0.21217 - 	 AQreal:   23.59452  	 
+Exp: 2 - 	 Ger: 20 - 	 Best:    0.21009 - 	 Mean:    0.21158 - 	 AQreal:   25.92127  	 
+Exp: 2 - 	 Ger: 21 - 	 Best:    0.20988 - 	 Mean:    0.21091 - 	 AQreal:   25.92127  	 
+Exp: 2 - 	 Ger: 22 - 	 Best:    0.20956 - 	 Mean:    0.21021 - 	 AQreal:   25.92127  	 
+Exp: 2 - 	 Ger: 23 - 	 Best:    0.20956 - 	 Mean:    0.21006 - 	 AQreal:   25.92127  	 
+Exp: 2 - 	 Ger: 24 - 	 Best:    0.20956 - 	 Mean:    0.21003 - 	 AQreal:   25.92127  	 
+Exp: 2 - 	 Ger: 25 - 	 Best:    0.20956 - 	 Mean:    0.20999 - 	 AQreal:   13.64136  	 
+Exp: 2 - 	 Ger: 26 - 	 Best:    0.20886 - 	 Mean:    0.20990 - 	 AQreal:   13.64136  	 
+Exp: 2 - 	 Ger: 27 - 	 Best:    0.20886 - 	 Mean:    0.20970 - 	 AQreal:   13.64136  	 
+Exp: 2 - 	 Ger: 28 - 	 Best:    0.20886 - 	 Mean:    0.20967 - 	 AQreal:   13.64136  	 
+Exp: 2 - 	 Ger: 29 - 	 Best:    0.20868 - 	 Mean:    0.20952 - 	 AQreal:   13.64136  	 
+Exp: 2 - 	 Ger: 30 - 	 Best:    0.20868 - 	 Mean:    0.20945 - 	 AQreal:    6.96290  	 
+Exp: 3 - 	 Ger: 1 - 	 Best:    0.22301 - 	 Mean: 2266636.05195 - 	 AQreal:   42.44832  	 
+Exp: 3 - 	 Ger: 2 - 	 Best:    0.22301 - 	 Mean:    9.64765 - 	 AQreal:   42.44832  	 
+Exp: 3 - 	 Ger: 3 - 	 Best:    0.22301 - 	 Mean:    0.29460 - 	 AQreal:   42.44832  	 
+Exp: 3 - 	 Ger: 4 - 	 Best:    0.22301 - 	 Mean:    0.25425 - 	 AQreal:   42.44832  	 
+Exp: 3 - 	 Ger: 5 - 	 Best:    0.22301 - 	 Mean:    0.23678 - 	 AQreal:   41.92479  	 
+Exp: 3 - 	 Ger: 6 - 	 Best:    0.21961 - 	 Mean:    0.22936 - 	 AQreal:   41.92479  	 
+Exp: 3 - 	 Ger: 7 - 	 Best:    0.21381 - 	 Mean:    0.22195 - 	 AQreal:   41.92479  	 
+Exp: 3 - 	 Ger: 8 - 	 Best:    0.21381 - 	 Mean:    0.22071 - 	 AQreal:   41.92479  	 
+Exp: 3 - 	 Ger: 9 - 	 Best:    0.21381 - 	 Mean:    0.21965 - 	 AQreal:   41.92479  	 
+Exp: 3 - 	 Ger: 10 - 	 Best:    0.21381 - 	 Mean:    0.21837 - 	 AQreal:   33.14595  	 
+Exp: 3 - 	 Ger: 11 - 	 Best:    0.21381 - 	 Mean:    0.21717 - 	 AQreal:   33.14595  	 
+Exp: 3 - 	 Ger: 12 - 	 Best:    0.21381 - 	 Mean:    0.21600 - 	 AQreal:   33.14595  	 
+Exp: 3 - 	 Ger: 13 - 	 Best:    0.21381 - 	 Mean:    0.21572 - 	 AQreal:   33.14595  	 
+Exp: 3 - 	 Ger: 14 - 	 Best:    0.21359 - 	 Mean:    0.21484 - 	 AQreal:   33.14595  	 
+Exp: 3 - 	 Ger: 15 - 	 Best:    0.21359 - 	 Mean:    0.21416 - 	 AQreal:   32.89146  	 
+Exp: 3 - 	 Ger: 16 - 	 Best:    0.21359 - 	 Mean:    0.21396 - 	 AQreal:   32.89146  	 
+Exp: 3 - 	 Ger: 17 - 	 Best:    0.21326 - 	 Mean:    0.21380 - 	 AQreal:   32.89146  	 
+Exp: 3 - 	 Ger: 18 - 	 Best:    0.21326 - 	 Mean:    0.21374 - 	 AQreal:   32.89146  	 
+Exp: 3 - 	 Ger: 19 - 	 Best:    0.21213 - 	 Mean:    0.21354 - 	 AQreal:   32.89146  	 
+Exp: 3 - 	 Ger: 20 - 	 Best:    0.21183 - 	 Mean:    0.21336 - 	 AQreal:   31.25698  	 
+Exp: 3 - 	 Ger: 21 - 	 Best:    0.21183 - 	 Mean:    0.21326 - 	 AQreal:   31.25698  	 
+Exp: 3 - 	 Ger: 22 - 	 Best:    0.21183 - 	 Mean:    0.21300 - 	 AQreal:   31.25698  	 
+Exp: 3 - 	 Ger: 23 - 	 Best:    0.21116 - 	 Mean:    0.21270 - 	 AQreal:   31.25698  	 
+Exp: 3 - 	 Ger: 24 - 	 Best:    0.21116 - 	 Mean:    0.21247 - 	 AQreal:   31.25698  	 
+Exp: 3 - 	 Ger: 25 - 	 Best:    0.21116 - 	 Mean:    0.21224 - 	 AQreal:   22.53684  	 
+Exp: 3 - 	 Ger: 26 - 	 Best:    0.21116 - 	 Mean:    0.21196 - 	 AQreal:   22.53684  	 
+Exp: 3 - 	 Ger: 27 - 	 Best:    0.21116 - 	 Mean:    0.21186 - 	 AQreal:   22.53684  	 
+Exp: 3 - 	 Ger: 28 - 	 Best:    0.21116 - 	 Mean:    0.21173 - 	 AQreal:   22.53684  	 
+Exp: 3 - 	 Ger: 29 - 	 Best:    0.21116 - 	 Mean:    0.21161 - 	 AQreal:   22.53684  	 
+Exp: 3 - 	 Ger: 30 - 	 Best:    0.21116 - 	 Mean:    0.21151 - 	 AQreal:   33.35752  	 
+Exp: 4 - 	 Ger: 1 - 	 Best:    0.24356 - 	 Mean: 86410.25715 - 	 AQreal:   42.44832  	 
+Exp: 4 - 	 Ger: 2 - 	 Best:    0.24356 - 	 Mean:    9.85191 - 	 AQreal:   42.44832  	 
+Exp: 4 - 	 Ger: 3 - 	 Best:    0.24356 - 	 Mean:    0.26078 - 	 AQreal:   42.44832  	 
+Exp: 4 - 	 Ger: 4 - 	 Best:    0.23807 - 	 Mean:    0.25357 - 	 AQreal:   42.44832  	 
+Exp: 4 - 	 Ger: 5 - 	 Best:    0.23807 - 	 Mean:    0.24893 - 	 AQreal:   40.24597  	 
+Exp: 4 - 	 Ger: 6 - 	 Best:    0.22696 - 	 Mean:    0.23955 - 	 AQreal:   40.24597  	 
+Exp: 4 - 	 Ger: 7 - 	 Best:    0.22456 - 	 Mean:    0.23305 - 	 AQreal:   40.24597  	 
+Exp: 4 - 	 Ger: 8 - 	 Best:    0.21987 - 	 Mean:    0.22854 - 	 AQreal:   40.24597  	 
+Exp: 4 - 	 Ger: 9 - 	 Best:    0.21987 - 	 Mean:    0.22691 - 	 AQreal:   40.24597  	 
+Exp: 4 - 	 Ger: 10 - 	 Best:    0.21822 - 	 Mean:    0.22443 - 	 AQreal:   20.22216  	 
+Exp: 4 - 	 Ger: 11 - 	 Best:    0.21770 - 	 Mean:    0.22234 - 	 AQreal:   20.22216  	 
+Exp: 4 - 	 Ger: 12 - 	 Best:    0.21770 - 	 Mean:    0.22083 - 	 AQreal:   20.22216  	 
+Exp: 4 - 	 Ger: 13 - 	 Best:    0.21756 - 	 Mean:    0.21960 - 	 AQreal:   20.22216  	 
+Exp: 4 - 	 Ger: 14 - 	 Best:    0.21586 - 	 Mean:    0.21822 - 	 AQreal:   20.22216  	 
+Exp: 4 - 	 Ger: 15 - 	 Best:    0.21515 - 	 Mean:    0.21762 - 	 AQreal:   18.04862  	 
+Exp: 4 - 	 Ger: 16 - 	 Best:    0.21515 - 	 Mean:    0.21707 - 	 AQreal:   18.04862  	 
+Exp: 4 - 	 Ger: 17 - 	 Best:    0.21515 - 	 Mean:    0.21645 - 	 AQreal:   18.04862  	 
+Exp: 4 - 	 Ger: 18 - 	 Best:    0.21490 - 	 Mean:    0.21574 - 	 AQreal:   18.04862  	 
+Exp: 4 - 	 Ger: 19 - 	 Best:    0.21481 - 	 Mean:    0.21530 - 	 AQreal:   18.04862  	 
+Exp: 4 - 	 Ger: 20 - 	 Best:    0.21481 - 	 Mean:    0.21516 - 	 AQreal:   10.33305  	 
+Exp: 4 - 	 Ger: 21 - 	 Best:    0.21368 - 	 Mean:    0.21487 - 	 AQreal:   10.33305  	 
+Exp: 4 - 	 Ger: 22 - 	 Best:    0.21368 - 	 Mean:    0.21469 - 	 AQreal:   10.33305  	 
+Exp: 4 - 	 Ger: 23 - 	 Best:    0.21247 - 	 Mean:    0.21444 - 	 AQreal:   10.33305  	 
+Exp: 4 - 	 Ger: 24 - 	 Best:    0.21247 - 	 Mean:    0.21413 - 	 AQreal:   10.33305  	 
+Exp: 4 - 	 Ger: 25 - 	 Best:    0.21247 - 	 Mean:    0.21393 - 	 AQreal:   11.85031  	 
+Exp: 4 - 	 Ger: 26 - 	 Best:    0.21247 - 	 Mean:    0.21373 - 	 AQreal:   11.85031  	 
+Exp: 4 - 	 Ger: 27 - 	 Best:    0.21247 - 	 Mean:    0.21353 - 	 AQreal:   11.85031  	 
+Exp: 4 - 	 Ger: 28 - 	 Best:    0.21247 - 	 Mean:    0.21353 - 	 AQreal:   11.85031  	 
+Exp: 4 - 	 Ger: 29 - 	 Best:    0.21247 - 	 Mean:    0.21347 - 	 AQreal:   11.85031  	 
+Exp: 4 - 	 Ger: 30 - 	 Best:    0.21247 - 	 Mean:    0.21317 - 	 AQreal:   10.04224  	 
+Exp: 5 - 	 Ger: 1 - 	 Best:    0.24233 - 	 Mean: 311293058.11730 - 	 AQreal:   42.44832  	 
+Exp: 5 - 	 Ger: 2 - 	 Best:    0.23166 - 	 Mean:  293.50246 - 	 AQreal:   42.44832  	 
+Exp: 5 - 	 Ger: 3 - 	 Best:    0.23166 - 	 Mean:    3.21038 - 	 AQreal:   42.44832  	 
+Exp: 5 - 	 Ger: 4 - 	 Best:    0.23166 - 	 Mean:    0.25989 - 	 AQreal:   42.44832  	 
+Exp: 5 - 	 Ger: 5 - 	 Best:    0.22975 - 	 Mean:    0.24279 - 	 AQreal:   27.91573  	 
+Exp: 5 - 	 Ger: 6 - 	 Best:    0.22975 - 	 Mean:    0.23312 - 	 AQreal:   27.91573  	 
+Exp: 5 - 	 Ger: 7 - 	 Best:    0.22709 - 	 Mean:    0.23032 - 	 AQreal:   27.91573  	 
+Exp: 5 - 	 Ger: 8 - 	 Best:    0.22229 - 	 Mean:    0.22935 - 	 AQreal:   27.91573  	 
+Exp: 5 - 	 Ger: 9 - 	 Best:    0.22229 - 	 Mean:    0.22839 - 	 AQreal:   27.91573  	 
+Exp: 5 - 	 Ger: 10 - 	 Best:    0.22154 - 	 Mean:    0.22610 - 	 AQreal:   27.88426  	 
+Exp: 5 - 	 Ger: 11 - 	 Best:    0.22090 - 	 Mean:    0.22548 - 	 AQreal:   27.88426  	 
+Exp: 5 - 	 Ger: 12 - 	 Best:    0.22076 - 	 Mean:    0.22446 - 	 AQreal:   27.88426  	 
+Exp: 5 - 	 Ger: 13 - 	 Best:    0.22076 - 	 Mean:    0.22333 - 	 AQreal:   27.88426  	 
+Exp: 5 - 	 Ger: 14 - 	 Best:    0.21993 - 	 Mean:    0.22182 - 	 AQreal:   27.88426  	 
+Exp: 5 - 	 Ger: 15 - 	 Best:    0.21993 - 	 Mean:    0.22132 - 	 AQreal:   18.73064  	 
+Exp: 5 - 	 Ger: 16 - 	 Best:    0.21993 - 	 Mean:    0.22098 - 	 AQreal:   18.73064  	 
+Exp: 5 - 	 Ger: 17 - 	 Best:    0.21959 - 	 Mean:    0.22068 - 	 AQreal:   18.73064  	 
+Exp: 5 - 	 Ger: 18 - 	 Best:    0.21773 - 	 Mean:    0.22008 - 	 AQreal:   18.73064  	 
+Exp: 5 - 	 Ger: 19 - 	 Best:    0.21500 - 	 Mean:    0.21914 - 	 AQreal:   18.73064  	 
+Exp: 5 - 	 Ger: 20 - 	 Best:    0.21500 - 	 Mean:    0.21830 - 	 AQreal:   15.49213  	 
+Exp: 5 - 	 Ger: 21 - 	 Best:    0.21500 - 	 Mean:    0.21800 - 	 AQreal:   15.49213  	 
+Exp: 5 - 	 Ger: 22 - 	 Best:    0.21500 - 	 Mean:    0.21732 - 	 AQreal:   15.49213  	 
+Exp: 5 - 	 Ger: 23 - 	 Best:    0.21500 - 	 Mean:    0.21674 - 	 AQreal:   15.49213  	 
+Exp: 5 - 	 Ger: 24 - 	 Best:    0.21500 - 	 Mean:    0.21628 - 	 AQreal:   15.49213  	 
+Exp: 5 - 	 Ger: 25 - 	 Best:    0.21500 - 	 Mean:    0.21612 - 	 AQreal:   19.92535  	 
+Exp: 5 - 	 Ger: 26 - 	 Best:    0.21463 - 	 Mean:    0.21571 - 	 AQreal:   19.92535  	 
+Exp: 5 - 	 Ger: 27 - 	 Best:    0.21463 - 	 Mean:    0.21559 - 	 AQreal:   19.92535  	 
+Exp: 5 - 	 Ger: 28 - 	 Best:    0.21408 - 	 Mean:    0.21504 - 	 AQreal:   19.92535  	 
+Exp: 5 - 	 Ger: 29 - 	 Best:    0.21408 - 	 Mean:    0.21497 - 	 AQreal:   19.92535  	 
+Exp: 5 - 	 Ger: 30 - 	 Best:    0.21408 - 	 Mean:    0.21483 - 	 AQreal:   28.91607  	 
+Exp: 6 - 	 Ger: 1 - 	 Best:    0.21406 - 	 Mean: 1017718.25382 - 	 AQreal:   42.44832  	 
+Exp: 6 - 	 Ger: 2 - 	 Best:    0.21406 - 	 Mean:   13.32285 - 	 AQreal:   42.44832  	 
+Exp: 6 - 	 Ger: 3 - 	 Best:    0.21376 - 	 Mean:    0.25601 - 	 AQreal:   42.44832  	 
+Exp: 6 - 	 Ger: 4 - 	 Best:    0.21376 - 	 Mean:    0.22938 - 	 AQreal:   42.44832  	 
+Exp: 6 - 	 Ger: 5 - 	 Best:    0.21376 - 	 Mean:    0.22230 - 	 AQreal:   40.99275  	 
+Exp: 6 - 	 Ger: 6 - 	 Best:    0.21293 - 	 Mean:    0.21777 - 	 AQreal:   40.99275  	 
+Exp: 6 - 	 Ger: 7 - 	 Best:    0.21293 - 	 Mean:    0.21562 - 	 AQreal:   40.99275  	 
+Exp: 6 - 	 Ger: 8 - 	 Best:    0.21293 - 	 Mean:    0.21488 - 	 AQreal:   40.99275  	 
+Exp: 6 - 	 Ger: 9 - 	 Best:    0.21293 - 	 Mean:    0.21432 - 	 AQreal:   40.99275  	 
+Exp: 6 - 	 Ger: 10 - 	 Best:    0.21293 - 	 Mean:    0.21385 - 	 AQreal:   41.56101  	 
+Exp: 6 - 	 Ger: 11 - 	 Best:    0.21245 - 	 Mean:    0.21342 - 	 AQreal:   41.56101  	 
+Exp: 6 - 	 Ger: 12 - 	 Best:    0.21239 - 	 Mean:    0.21331 - 	 AQreal:   41.56101  	 
+Exp: 6 - 	 Ger: 13 - 	 Best:    0.21239 - 	 Mean:    0.21308 - 	 AQreal:   41.56101  	 
+Exp: 6 - 	 Ger: 14 - 	 Best:    0.21239 - 	 Mean:    0.21299 - 	 AQreal:   41.56101  	 
+Exp: 6 - 	 Ger: 15 - 	 Best:    0.21239 - 	 Mean:    0.21292 - 	 AQreal:   41.53316  	 
+Exp: 6 - 	 Ger: 16 - 	 Best:    0.21239 - 	 Mean:    0.21284 - 	 AQreal:   41.53316  	 
+Exp: 6 - 	 Ger: 17 - 	 Best:    0.21239 - 	 Mean:    0.21282 - 	 AQreal:   41.53316  	 
+Exp: 6 - 	 Ger: 18 - 	 Best:    0.21150 - 	 Mean:    0.21241 - 	 AQreal:   41.53316  	 
+Exp: 6 - 	 Ger: 19 - 	 Best:    0.21117 - 	 Mean:    0.21205 - 	 AQreal:   41.53316  	 
+Exp: 6 - 	 Ger: 20 - 	 Best:    0.21117 - 	 Mean:    0.21188 - 	 AQreal:   41.17202  	 
+Exp: 6 - 	 Ger: 21 - 	 Best:    0.21117 - 	 Mean:    0.21171 - 	 AQreal:   41.17202  	 
+Exp: 6 - 	 Ger: 22 - 	 Best:    0.21097 - 	 Mean:    0.21155 - 	 AQreal:   41.17202  	 
+Exp: 6 - 	 Ger: 23 - 	 Best:    0.21071 - 	 Mean:    0.21129 - 	 AQreal:   41.17202  	 
+Exp: 6 - 	 Ger: 24 - 	 Best:    0.21071 - 	 Mean:    0.21116 - 	 AQreal:   41.17202  	 
+Exp: 6 - 	 Ger: 25 - 	 Best:    0.21059 - 	 Mean:    0.21104 - 	 AQreal:   40.54643  	 
+Exp: 6 - 	 Ger: 26 - 	 Best:    0.21053 - 	 Mean:    0.21093 - 	 AQreal:   40.54643  	 
+Exp: 6 - 	 Ger: 27 - 	 Best:    0.21053 - 	 Mean:    0.21086 - 	 AQreal:   40.54643  	 
+Exp: 6 - 	 Ger: 28 - 	 Best:    0.21036 - 	 Mean:    0.21080 - 	 AQreal:   40.54643  	 
+Exp: 6 - 	 Ger: 29 - 	 Best:    0.21020 - 	 Mean:    0.21065 - 	 AQreal:   40.54643  	 
+Exp: 6 - 	 Ger: 30 - 	 Best:    0.21012 - 	 Mean:    0.21057 - 	 AQreal:   22.76151  	 
+Exp: 7 - 	 Ger: 1 - 	 Best:    0.21785 - 	 Mean: 4059735.45027 - 	 AQreal:   42.44832  	 
+Exp: 7 - 	 Ger: 2 - 	 Best:    0.21785 - 	 Mean:    5.62945 - 	 AQreal:   42.44832  	 
+Exp: 7 - 	 Ger: 3 - 	 Best:    0.21659 - 	 Mean:    0.25114 - 	 AQreal:   42.44832  	 
+Exp: 7 - 	 Ger: 4 - 	 Best:    0.21659 - 	 Mean:    0.23416 - 	 AQreal:   42.44832  	 
+Exp: 7 - 	 Ger: 5 - 	 Best:    0.21628 - 	 Mean:    0.22080 - 	 AQreal:   38.67846  	 
+Exp: 7 - 	 Ger: 6 - 	 Best:    0.21272 - 	 Mean:    0.21852 - 	 AQreal:   38.67846  	 
+Exp: 7 - 	 Ger: 7 - 	 Best:    0.21196 - 	 Mean:    0.21619 - 	 AQreal:   38.67846  	 
+Exp: 7 - 	 Ger: 8 - 	 Best:    0.21196 - 	 Mean:    0.21558 - 	 AQreal:   38.67846  	 
+Exp: 7 - 	 Ger: 9 - 	 Best:    0.21196 - 	 Mean:    0.21432 - 	 AQreal:   38.67846  	 
+Exp: 7 - 	 Ger: 10 - 	 Best:    0.21196 - 	 Mean:    0.21318 - 	 AQreal:   38.50051  	 
+Exp: 7 - 	 Ger: 11 - 	 Best:    0.21196 - 	 Mean:    0.21281 - 	 AQreal:   38.50051  	 
+Exp: 7 - 	 Ger: 12 - 	 Best:    0.21196 - 	 Mean:    0.21260 - 	 AQreal:   38.50051  	 
+Exp: 7 - 	 Ger: 13 - 	 Best:    0.21196 - 	 Mean:    0.21248 - 	 AQreal:   38.50051  	 
+Exp: 7 - 	 Ger: 14 - 	 Best:    0.21196 - 	 Mean:    0.21245 - 	 AQreal:   38.50051  	 
+Exp: 7 - 	 Ger: 15 - 	 Best:    0.21192 - 	 Mean:    0.21228 - 	 AQreal:   29.14019  	 
+Exp: 7 - 	 Ger: 16 - 	 Best:    0.21192 - 	 Mean:    0.21226 - 	 AQreal:   29.14019  	 
+Exp: 7 - 	 Ger: 17 - 	 Best:    0.21118 - 	 Mean:    0.21209 - 	 AQreal:   29.14019  	 
+Exp: 7 - 	 Ger: 18 - 	 Best:    0.21118 - 	 Mean:    0.21201 - 	 AQreal:   29.14019  	 
+Exp: 7 - 	 Ger: 19 - 	 Best:    0.21118 - 	 Mean:    0.21197 - 	 AQreal:   29.14019  	 
+Exp: 7 - 	 Ger: 20 - 	 Best:    0.21099 - 	 Mean:    0.21177 - 	 AQreal:   27.70698  	 
+Exp: 7 - 	 Ger: 21 - 	 Best:    0.21099 - 	 Mean:    0.21172 - 	 AQreal:   27.70698  	 
+Exp: 7 - 	 Ger: 22 - 	 Best:    0.21099 - 	 Mean:    0.21149 - 	 AQreal:   27.70698  	 
+Exp: 7 - 	 Ger: 23 - 	 Best:    0.21071 - 	 Mean:    0.21137 - 	 AQreal:   27.70698  	 
+Exp: 7 - 	 Ger: 24 - 	 Best:    0.21071 - 	 Mean:    0.21128 - 	 AQreal:   27.70698  	 
+Exp: 7 - 	 Ger: 25 - 	 Best:    0.21071 - 	 Mean:    0.21117 - 	 AQreal:   20.54133  	 
+Exp: 7 - 	 Ger: 26 - 	 Best:    0.21071 - 	 Mean:    0.21112 - 	 AQreal:   20.54133  	 
+Exp: 7 - 	 Ger: 27 - 	 Best:    0.21071 - 	 Mean:    0.21112 - 	 AQreal:   20.54133  	 
+Exp: 7 - 	 Ger: 28 - 	 Best:    0.21040 - 	 Mean:    0.21104 - 	 AQreal:   20.54133  	 
+Exp: 7 - 	 Ger: 29 - 	 Best:    0.21040 - 	 Mean:    0.21098 - 	 AQreal:   20.54133  	 
+Exp: 7 - 	 Ger: 30 - 	 Best:    0.21040 - 	 Mean:    0.21093 - 	 AQreal:   18.62982  	 
+Exp: 8 - 	 Ger: 1 - 	 Best:    0.23599 - 	 Mean: 18043895.04388 - 	 AQreal:   42.44832  	 
+Exp: 8 - 	 Ger: 2 - 	 Best:    0.23599 - 	 Mean:    0.39553 - 	 AQreal:   42.44832  	 
+Exp: 8 - 	 Ger: 3 - 	 Best:    0.23162 - 	 Mean:    0.26775 - 	 AQreal:   42.44832  	 
+Exp: 8 - 	 Ger: 4 - 	 Best:    0.22675 - 	 Mean:    0.25579 - 	 AQreal:   42.44832  	 
+Exp: 8 - 	 Ger: 5 - 	 Best:    0.22675 - 	 Mean:    0.24318 - 	 AQreal:   38.54930  	 
+Exp: 8 - 	 Ger: 6 - 	 Best:    0.22675 - 	 Mean:    0.23752 - 	 AQreal:   38.54930  	 
+Exp: 8 - 	 Ger: 7 - 	 Best:    0.22464 - 	 Mean:    0.23068 - 	 AQreal:   38.54930  	 
+Exp: 8 - 	 Ger: 8 - 	 Best:    0.22346 - 	 Mean:    0.22808 - 	 AQreal:   38.54930  	 
+Exp: 8 - 	 Ger: 9 - 	 Best:    0.21736 - 	 Mean:    0.22619 - 	 AQreal:   38.54930  	 
+Exp: 8 - 	 Ger: 10 - 	 Best:    0.21736 - 	 Mean:    0.22521 - 	 AQreal:   33.39298  	 
+Exp: 8 - 	 Ger: 11 - 	 Best:    0.21736 - 	 Mean:    0.22376 - 	 AQreal:   33.39298  	 
+Exp: 8 - 	 Ger: 12 - 	 Best:    0.21649 - 	 Mean:    0.22200 - 	 AQreal:   33.39298  	 
+Exp: 8 - 	 Ger: 13 - 	 Best:    0.21649 - 	 Mean:    0.22041 - 	 AQreal:   33.39298  	 
+Exp: 8 - 	 Ger: 14 - 	 Best:    0.21649 - 	 Mean:    0.21890 - 	 AQreal:   33.39298  	 
+Exp: 8 - 	 Ger: 15 - 	 Best:    0.21374 - 	 Mean:    0.21744 - 	 AQreal:   36.57919  	 
+Exp: 8 - 	 Ger: 16 - 	 Best:    0.21374 - 	 Mean:    0.21675 - 	 AQreal:   36.57919  	 
+Exp: 8 - 	 Ger: 17 - 	 Best:    0.21316 - 	 Mean:    0.21609 - 	 AQreal:   36.57919  	 
+Exp: 8 - 	 Ger: 18 - 	 Best:    0.21316 - 	 Mean:    0.21516 - 	 AQreal:   36.57919  	 
+Exp: 8 - 	 Ger: 19 - 	 Best:    0.21316 - 	 Mean:    0.21451 - 	 AQreal:   36.57919  	 
+Exp: 8 - 	 Ger: 20 - 	 Best:    0.21293 - 	 Mean:    0.21377 - 	 AQreal:   25.06645  	 
+Exp: 8 - 	 Ger: 21 - 	 Best:    0.21292 - 	 Mean:    0.21339 - 	 AQreal:   25.06645  	 
+Exp: 8 - 	 Ger: 22 - 	 Best:    0.21292 - 	 Mean:    0.21331 - 	 AQreal:   25.06645  	 
+Exp: 8 - 	 Ger: 23 - 	 Best:    0.21292 - 	 Mean:    0.21326 - 	 AQreal:   25.06645  	 
+Exp: 8 - 	 Ger: 24 - 	 Best:    0.21274 - 	 Mean:    0.21320 - 	 AQreal:   25.06645  	 
+Exp: 8 - 	 Ger: 25 - 	 Best:    0.21263 - 	 Mean:    0.21310 - 	 AQreal:    7.62472  	 
+Exp: 8 - 	 Ger: 26 - 	 Best:    0.21220 - 	 Mean:    0.21291 - 	 AQreal:    7.62472  	 
+Exp: 8 - 	 Ger: 27 - 	 Best:    0.21220 - 	 Mean:    0.21284 - 	 AQreal:    7.62472  	 
+Exp: 8 - 	 Ger: 28 - 	 Best:    0.21206 - 	 Mean:    0.21273 - 	 AQreal:    7.62472  	 
+Exp: 8 - 	 Ger: 29 - 	 Best:    0.21206 - 	 Mean:    0.21263 - 	 AQreal:    7.62472  	 
+Exp: 8 - 	 Ger: 30 - 	 Best:    0.21206 - 	 Mean:    0.21253 - 	 AQreal:    5.81742  	 
+Exp: 9 - 	 Ger: 1 - 	 Best:    0.27264 - 	 Mean: 648453.88687 - 	 AQreal:   42.44832  	 
+Exp: 9 - 	 Ger: 2 - 	 Best:    0.25587 - 	 Mean:   57.26401 - 	 AQreal:   42.44832  	 
+Exp: 9 - 	 Ger: 3 - 	 Best:    0.23280 - 	 Mean:   13.15670 - 	 AQreal:   42.44832  	 
+Exp: 9 - 	 Ger: 4 - 	 Best:    0.22641 - 	 Mean:    0.27385 - 	 AQreal:   42.44832  	 
+Exp: 9 - 	 Ger: 5 - 	 Best:    0.22641 - 	 Mean:    0.24544 - 	 AQreal:   33.38920  	 
+Exp: 9 - 	 Ger: 6 - 	 Best:    0.22527 - 	 Mean:    0.23165 - 	 AQreal:   33.38920  	 
+Exp: 9 - 	 Ger: 7 - 	 Best:    0.22376 - 	 Mean:    0.22891 - 	 AQreal:   33.38920  	 
+Exp: 9 - 	 Ger: 8 - 	 Best:    0.22376 - 	 Mean:    0.22776 - 	 AQreal:   33.38920  	 
+Exp: 9 - 	 Ger: 9 - 	 Best:    0.22155 - 	 Mean:    0.22614 - 	 AQreal:   33.38920  	 
+Exp: 9 - 	 Ger: 10 - 	 Best:    0.21944 - 	 Mean:    0.22507 - 	 AQreal:   35.37581  	 
+Exp: 9 - 	 Ger: 11 - 	 Best:    0.21944 - 	 Mean:    0.22390 - 	 AQreal:   35.37581  	 
+Exp: 9 - 	 Ger: 12 - 	 Best:    0.21944 - 	 Mean:    0.22236 - 	 AQreal:   35.37581  	 
+Exp: 9 - 	 Ger: 13 - 	 Best:    0.21944 - 	 Mean:    0.22099 - 	 AQreal:   35.37581  	 
+Exp: 9 - 	 Ger: 14 - 	 Best:    0.21936 - 	 Mean:    0.22039 - 	 AQreal:   35.37581  	 
+Exp: 9 - 	 Ger: 15 - 	 Best:    0.21816 - 	 Mean:    0.21962 - 	 AQreal:   35.26863  	 
+Exp: 9 - 	 Ger: 16 - 	 Best:    0.21804 - 	 Mean:    0.21924 - 	 AQreal:   35.26863  	 
+Exp: 9 - 	 Ger: 17 - 	 Best:    0.21763 - 	 Mean:    0.21886 - 	 AQreal:   35.26863  	 
+Exp: 9 - 	 Ger: 18 - 	 Best:    0.21608 - 	 Mean:    0.21841 - 	 AQreal:   35.26863  	 
+Exp: 9 - 	 Ger: 19 - 	 Best:    0.21608 - 	 Mean:    0.21811 - 	 AQreal:   35.26863  	 
+Exp: 9 - 	 Ger: 20 - 	 Best:    0.21608 - 	 Mean:    0.21781 - 	 AQreal:   33.25090  	 
+Exp: 9 - 	 Ger: 21 - 	 Best:    0.21550 - 	 Mean:    0.21754 - 	 AQreal:   33.25090  	 
+Exp: 9 - 	 Ger: 22 - 	 Best:    0.21550 - 	 Mean:    0.21712 - 	 AQreal:   33.25090  	 
+Exp: 9 - 	 Ger: 23 - 	 Best:    0.21534 - 	 Mean:    0.21688 - 	 AQreal:   33.25090  	 
+Exp: 9 - 	 Ger: 24 - 	 Best:    0.21409 - 	 Mean:    0.21641 - 	 AQreal:   33.25090  	 
+Exp: 9 - 	 Ger: 25 - 	 Best:    0.21409 - 	 Mean:    0.21558 - 	 AQreal:   37.13834  	 
+Exp: 9 - 	 Ger: 26 - 	 Best:    0.21409 - 	 Mean:    0.21529 - 	 AQreal:   37.13834  	 
+Exp: 9 - 	 Ger: 27 - 	 Best:    0.21409 - 	 Mean:    0.21487 - 	 AQreal:   37.13834  	 
+Exp: 9 - 	 Ger: 28 - 	 Best:    0.21361 - 	 Mean:    0.21445 - 	 AQreal:   37.13834  	 
+Exp: 9 - 	 Ger: 29 - 	 Best:    0.21351 - 	 Mean:    0.21427 - 	 AQreal:   37.13834  	 
+Exp: 9 - 	 Ger: 30 - 	 Best:    0.21330 - 	 Mean:    0.21409 - 	 AQreal:   25.23195  	 
+Exp: 10 - 	 Ger: 1 - 	 Best:    0.23017 - 	 Mean: 29151982.09544 - 	 AQreal:   42.44832  	 
+Exp: 10 - 	 Ger: 2 - 	 Best:    0.22765 - 	 Mean:    0.30122 - 	 AQreal:   42.44832  	 
+Exp: 10 - 	 Ger: 3 - 	 Best:    0.22765 - 	 Mean:    0.26628 - 	 AQreal:   42.44832  	 
+Exp: 10 - 	 Ger: 4 - 	 Best:    0.22533 - 	 Mean:    0.24536 - 	 AQreal:   42.44832  	 
+Exp: 10 - 	 Ger: 5 - 	 Best:    0.22394 - 	 Mean:    0.23202 - 	 AQreal:   42.07537  	 
+Exp: 10 - 	 Ger: 6 - 	 Best:    0.21596 - 	 Mean:    0.22571 - 	 AQreal:   42.07537  	 
+Exp: 10 - 	 Ger: 7 - 	 Best:    0.21596 - 	 Mean:    0.22397 - 	 AQreal:   42.07537  	 
+Exp: 10 - 	 Ger: 8 - 	 Best:    0.21596 - 	 Mean:    0.22278 - 	 AQreal:   42.07537  	 
+Exp: 10 - 	 Ger: 9 - 	 Best:    0.21565 - 	 Mean:    0.21991 - 	 AQreal:   42.07537  	 
+Exp: 10 - 	 Ger: 10 - 	 Best:    0.21565 - 	 Mean:    0.21903 - 	 AQreal:   28.12178  	 
+Exp: 10 - 	 Ger: 11 - 	 Best:    0.21419 - 	 Mean:    0.21726 - 	 AQreal:   28.12178  	 
+Exp: 10 - 	 Ger: 12 - 	 Best:    0.21419 - 	 Mean:    0.21645 - 	 AQreal:   28.12178  	 
+Exp: 10 - 	 Ger: 13 - 	 Best:    0.21322 - 	 Mean:    0.21530 - 	 AQreal:   28.12178  	 
+Exp: 10 - 	 Ger: 14 - 	 Best:    0.21322 - 	 Mean:    0.21463 - 	 AQreal:   28.12178  	 
+Exp: 10 - 	 Ger: 15 - 	 Best:    0.21288 - 	 Mean:    0.21416 - 	 AQreal:   23.29416  	 
+Exp: 10 - 	 Ger: 16 - 	 Best:    0.21288 - 	 Mean:    0.21395 - 	 AQreal:   23.29416  	 
+Exp: 10 - 	 Ger: 17 - 	 Best:    0.21262 - 	 Mean:    0.21348 - 	 AQreal:   23.29416  	 
+Exp: 10 - 	 Ger: 18 - 	 Best:    0.21244 - 	 Mean:    0.21320 - 	 AQreal:   23.29416  	 
+Exp: 10 - 	 Ger: 19 - 	 Best:    0.21193 - 	 Mean:    0.21301 - 	 AQreal:   23.29416  	 
+Exp: 10 - 	 Ger: 20 - 	 Best:    0.21193 - 	 Mean:    0.21275 - 	 AQreal:   11.76832  	 
+Exp: 10 - 	 Ger: 21 - 	 Best:    0.21193 - 	 Mean:    0.21253 - 	 AQreal:   11.76832  	 
+Exp: 10 - 	 Ger: 22 - 	 Best:    0.21193 - 	 Mean:    0.21246 - 	 AQreal:   11.76832  	 
+Exp: 10 - 	 Ger: 23 - 	 Best:    0.21152 - 	 Mean:    0.21231 - 	 AQreal:   11.76832  	 
+Exp: 10 - 	 Ger: 24 - 	 Best:    0.21152 - 	 Mean:    0.21224 - 	 AQreal:   11.76832  	 
+Exp: 10 - 	 Ger: 25 - 	 Best:    0.21127 - 	 Mean:    0.21200 - 	 AQreal:    8.93784  	 
+Exp: 10 - 	 Ger: 26 - 	 Best:    0.21127 - 	 Mean:    0.21184 - 	 AQreal:    8.93784  	 
+Exp: 10 - 	 Ger: 27 - 	 Best:    0.21127 - 	 Mean:    0.21178 - 	 AQreal:    8.93784  	 
+Exp: 10 - 	 Ger: 28 - 	 Best:    0.21127 - 	 Mean:    0.21176 - 	 AQreal:    8.93784  	 
+Exp: 10 - 	 Ger: 29 - 	 Best:    0.21127 - 	 Mean:    0.21172 - 	 AQreal:    8.93784  	 
+Exp: 10 - 	 Ger: 30 - 	 Best:    0.21127 - 	 Mean:    0.21170 - 	 AQreal:    5.91117  	 
+Starting parallel pool (parpool) using the 'local' profile ... connected to 4 workers.
+Exp: 1 - 	 Ger: 1 - 	 Best:    0.21210 - 	 Mean:    0.21465 - 	 AQreal:    1.00000  	 
+Exp: 1 - 	 Ger: 2 - 	 Best:    0.21169 - 	 Mean:    0.21350 - 	 AQreal:    1.00000  	 
+Exp: 1 - 	 Ger: 3 - 	 Best:    0.21169 - 	 Mean:    0.21300 - 	 AQreal:    1.00000  	 
+Exp: 1 - 	 Ger: 4 - 	 Best:    0.21107 - 	 Mean:    0.21268 - 	 AQreal:    1.00000  	 
+Exp: 1 - 	 Ger: 5 - 	 Best:    0.21107 - 	 Mean:    0.21241 - 	 AQreal:    0.99784  	 
+Exp: 1 - 	 Ger: 6 - 	 Best:    0.21107 - 	 Mean:    0.21231 - 	 AQreal:    0.99784  	 
+Exp: 1 - 	 Ger: 7 - 	 Best:    0.21107 - 	 Mean:    0.21220 - 	 AQreal:    0.99784  	 
+Exp: 1 - 	 Ger: 8 - 	 Best:    0.21107 - 	 Mean:    0.21210 - 	 AQreal:    0.99784  	 
+Exp: 1 - 	 Ger: 9 - 	 Best:    0.21074 - 	 Mean:    0.21194 - 	 AQreal:    0.99784  	 
+Exp: 1 - 	 Ger: 10 - 	 Best:    0.21074 - 	 Mean:    0.21184 - 	 AQreal:    0.87304  	 
+Exp: 1 - 	 Ger: 11 - 	 Best:    0.21074 - 	 Mean:    0.21170 - 	 AQreal:    0.87304  	 
+Exp: 1 - 	 Ger: 12 - 	 Best:    0.21074 - 	 Mean:    0.21163 - 	 AQreal:    0.87304  	 
+Exp: 1 - 	 Ger: 13 - 	 Best:    0.21070 - 	 Mean:    0.21150 - 	 AQreal:    0.87304  	 
+Exp: 1 - 	 Ger: 14 - 	 Best:    0.21070 - 	 Mean:    0.21148 - 	 AQreal:    0.87304  	 
+Exp: 1 - 	 Ger: 15 - 	 Best:    0.21070 - 	 Mean:    0.21135 - 	 AQreal:    0.68380  	 
+Exp: 1 - 	 Ger: 16 - 	 Best:    0.21070 - 	 Mean:    0.21132 - 	 AQreal:    0.68380  	 
+Exp: 1 - 	 Ger: 17 - 	 Best:    0.20941 - 	 Mean:    0.21119 - 	 AQreal:    0.68380  	 
+Exp: 1 - 	 Ger: 18 - 	 Best:    0.20941 - 	 Mean:    0.21116 - 	 AQreal:    0.68380  	 
+Exp: 1 - 	 Ger: 19 - 	 Best:    0.20941 - 	 Mean:    0.21114 - 	 AQreal:    0.68380  	 
+Exp: 1 - 	 Ger: 20 - 	 Best:    0.20941 - 	 Mean:    0.21104 - 	 AQreal:    0.59486  	 
+Exp: 1 - 	 Ger: 21 - 	 Best:    0.20941 - 	 Mean:    0.21100 - 	 AQreal:    0.59486  	 
+Exp: 1 - 	 Ger: 22 - 	 Best:    0.20941 - 	 Mean:    0.21093 - 	 AQreal:    0.59486  	 
+Exp: 1 - 	 Ger: 23 - 	 Best:    0.20941 - 	 Mean:    0.21089 - 	 AQreal:    0.59486  	 
+Exp: 1 - 	 Ger: 24 - 	 Best:    0.20941 - 	 Mean:    0.21084 - 	 AQreal:    0.59486  	 
+Exp: 1 - 	 Ger: 25 - 	 Best:    0.20941 - 	 Mean:    0.21082 - 	 AQreal:    0.50360  	 
+Exp: 1 - 	 Ger: 26 - 	 Best:    0.20941 - 	 Mean:    0.21078 - 	 AQreal:    0.50360  	 
+Exp: 1 - 	 Ger: 27 - 	 Best:    0.20941 - 	 Mean:    0.21070 - 	 AQreal:    0.50360  	 
+Exp: 1 - 	 Ger: 28 - 	 Best:    0.20941 - 	 Mean:    0.21067 - 	 AQreal:    0.50360  	 
+Exp: 1 - 	 Ger: 29 - 	 Best:    0.20941 - 	 Mean:    0.21063 - 	 AQreal:    0.50360  	 
+Exp: 1 - 	 Ger: 30 - 	 Best:    0.20941 - 	 Mean:    0.21061 - 	 AQreal:    0.48895  	 
+Exp: 2 - 	 Ger: 1 - 	 Best:    0.20713 - 	 Mean:    0.20947 - 	 AQreal:    1.00000  	 
+Exp: 2 - 	 Ger: 2 - 	 Best:    0.20713 - 	 Mean:    0.20862 - 	 AQreal:    1.00000  	 
+Exp: 2 - 	 Ger: 3 - 	 Best:    0.20713 - 	 Mean:    0.20828 - 	 AQreal:    1.00000  	 
+Exp: 2 - 	 Ger: 4 - 	 Best:    0.20713 - 	 Mean:    0.20812 - 	 AQreal:    1.00000  	 
+Exp: 2 - 	 Ger: 5 - 	 Best:    0.20713 - 	 Mean:    0.20801 - 	 AQreal:    0.91560  	 
+Exp: 2 - 	 Ger: 6 - 	 Best:    0.20713 - 	 Mean:    0.20793 - 	 AQreal:    0.91560  	 
+Exp: 2 - 	 Ger: 7 - 	 Best:    0.20681 - 	 Mean:    0.20778 - 	 AQreal:    0.91560  	 
+Exp: 2 - 	 Ger: 8 - 	 Best:    0.20681 - 	 Mean:    0.20772 - 	 AQreal:    0.91560  	 
+Exp: 2 - 	 Ger: 9 - 	 Best:    0.20681 - 	 Mean:    0.20764 - 	 AQreal:    0.91560  	 
+Exp: 2 - 	 Ger: 10 - 	 Best:    0.20681 - 	 Mean:    0.20762 - 	 AQreal:    0.78362  	 
+Exp: 2 - 	 Ger: 11 - 	 Best:    0.20681 - 	 Mean:    0.20760 - 	 AQreal:    0.78362  	 
+Exp: 2 - 	 Ger: 12 - 	 Best:    0.20681 - 	 Mean:    0.20757 - 	 AQreal:    0.78362  	 
+Exp: 2 - 	 Ger: 13 - 	 Best:    0.20681 - 	 Mean:    0.20754 - 	 AQreal:    0.78362  	 
+Exp: 2 - 	 Ger: 14 - 	 Best:    0.20681 - 	 Mean:    0.20749 - 	 AQreal:    0.78362  	 
+Exp: 2 - 	 Ger: 15 - 	 Best:    0.20681 - 	 Mean:    0.20748 - 	 AQreal:    0.76312  	 
+Exp: 2 - 	 Ger: 16 - 	 Best:    0.20681 - 	 Mean:    0.20743 - 	 AQreal:    0.76312  	 
+Exp: 2 - 	 Ger: 17 - 	 Best:    0.20637 - 	 Mean:    0.20736 - 	 AQreal:    0.76312  	 
+Exp: 2 - 	 Ger: 18 - 	 Best:    0.20637 - 	 Mean:    0.20733 - 	 AQreal:    0.76312  	 
+Exp: 2 - 	 Ger: 19 - 	 Best:    0.20637 - 	 Mean:    0.20727 - 	 AQreal:    0.76312  	 
+Exp: 2 - 	 Ger: 20 - 	 Best:    0.20637 - 	 Mean:    0.20725 - 	 AQreal:    0.64254  	 
+Exp: 2 - 	 Ger: 21 - 	 Best:    0.20637 - 	 Mean:    0.20720 - 	 AQreal:    0.64254  	 
+Exp: 2 - 	 Ger: 22 - 	 Best:    0.20637 - 	 Mean:    0.20717 - 	 AQreal:    0.64254  	 
+Exp: 2 - 	 Ger: 23 - 	 Best:    0.20637 - 	 Mean:    0.20715 - 	 AQreal:    0.64254  	 
+Exp: 2 - 	 Ger: 24 - 	 Best:    0.20637 - 	 Mean:    0.20707 - 	 AQreal:    0.64254  	 
+Exp: 2 - 	 Ger: 25 - 	 Best:    0.20637 - 	 Mean:    0.20702 - 	 AQreal:    0.61909  	 
+Exp: 2 - 	 Ger: 26 - 	 Best:    0.20637 - 	 Mean:    0.20701 - 	 AQreal:    0.61909  	 
+Exp: 2 - 	 Ger: 27 - 	 Best:    0.20637 - 	 Mean:    0.20697 - 	 AQreal:    0.61909  	 
+Exp: 2 - 	 Ger: 28 - 	 Best:    0.20637 - 	 Mean:    0.20697 - 	 AQreal:    0.61909  	 
+Exp: 2 - 	 Ger: 29 - 	 Best:    0.20637 - 	 Mean:    0.20692 - 	 AQreal:    0.61909  	 
+Exp: 2 - 	 Ger: 30 - 	 Best:    0.20637 - 	 Mean:    0.20691 - 	 AQreal:    0.57750  	 
+Exp: 3 - 	 Ger: 1 - 	 Best:    0.20836 - 	 Mean:   10.49571 - 	 AQreal:    1.00000  	 
+Exp: 3 - 	 Ger: 2 - 	 Best:    0.20836 - 	 Mean:    0.21034 - 	 AQreal:    1.00000  	 
+Exp: 3 - 	 Ger: 3 - 	 Best:    0.20836 - 	 Mean:    0.20993 - 	 AQreal:    1.00000  	 
+Exp: 3 - 	 Ger: 4 - 	 Best:    0.20836 - 	 Mean:    0.20971 - 	 AQreal:    1.00000  	 
+Exp: 3 - 	 Ger: 5 - 	 Best:    0.20836 - 	 Mean:    0.20947 - 	 AQreal:    0.95130  	 
+Exp: 3 - 	 Ger: 6 - 	 Best:    0.20836 - 	 Mean:    0.20935 - 	 AQreal:    0.95130  	 
+Exp: 3 - 	 Ger: 7 - 	 Best:    0.20836 - 	 Mean:    0.20926 - 	 AQreal:    0.95130  	 
+Exp: 3 - 	 Ger: 8 - 	 Best:    0.20836 - 	 Mean:    0.20913 - 	 AQreal:    0.95130  	 
+Exp: 3 - 	 Ger: 9 - 	 Best:    0.20836 - 	 Mean:    0.20906 - 	 AQreal:    0.95130  	 
+Exp: 3 - 	 Ger: 10 - 	 Best:    0.20836 - 	 Mean:    0.20902 - 	 AQreal:    0.94741  	 
+Exp: 3 - 	 Ger: 11 - 	 Best:    0.20836 - 	 Mean:    0.20902 - 	 AQreal:    0.94741  	 
+Exp: 3 - 	 Ger: 12 - 	 Best:    0.20836 - 	 Mean:    0.20897 - 	 AQreal:    0.94741  	 
+Exp: 3 - 	 Ger: 13 - 	 Best:    0.20836 - 	 Mean:    0.20895 - 	 AQreal:    0.94741  	 
+Exp: 3 - 	 Ger: 14 - 	 Best:    0.20836 - 	 Mean:    0.20890 - 	 AQreal:    0.94741  	 
+Exp: 3 - 	 Ger: 15 - 	 Best:    0.20836 - 	 Mean:    0.20887 - 	 AQreal:    0.77300  	 
+Exp: 3 - 	 Ger: 16 - 	 Best:    0.20836 - 	 Mean:    0.20881 - 	 AQreal:    0.77300  	 
+Exp: 3 - 	 Ger: 17 - 	 Best:    0.20794 - 	 Mean:    0.20873 - 	 AQreal:    0.77300  	 
+Exp: 3 - 	 Ger: 18 - 	 Best:    0.20794 - 	 Mean:    0.20870 - 	 AQreal:    0.77300  	 
+Exp: 3 - 	 Ger: 19 - 	 Best:    0.20794 - 	 Mean:    0.20865 - 	 AQreal:    0.77300  	 
+Exp: 3 - 	 Ger: 20 - 	 Best:    0.20770 - 	 Mean:    0.20861 - 	 AQreal:    0.63104  	 
+Exp: 3 - 	 Ger: 21 - 	 Best:    0.20770 - 	 Mean:    0.20861 - 	 AQreal:    0.63104  	 
+Exp: 3 - 	 Ger: 22 - 	 Best:    0.20770 - 	 Mean:    0.20853 - 	 AQreal:    0.63104  	 
+Exp: 3 - 	 Ger: 23 - 	 Best:    0.20770 - 	 Mean:    0.20850 - 	 AQreal:    0.63104  	 
+Exp: 3 - 	 Ger: 24 - 	 Best:    0.20770 - 	 Mean:    0.20848 - 	 AQreal:    0.63104  	 
+Exp: 3 - 	 Ger: 25 - 	 Best:    0.20770 - 	 Mean:    0.20847 - 	 AQreal:    0.62272  	 
+Exp: 3 - 	 Ger: 26 - 	 Best:    0.20770 - 	 Mean:    0.20844 - 	 AQreal:    0.62272  	 
+Exp: 3 - 	 Ger: 27 - 	 Best:    0.20770 - 	 Mean:    0.20841 - 	 AQreal:    0.62272  	 
+Exp: 3 - 	 Ger: 28 - 	 Best:    0.20770 - 	 Mean:    0.20840 - 	 AQreal:    0.62272  	 
+Exp: 3 - 	 Ger: 29 - 	 Best:    0.20770 - 	 Mean:    0.20837 - 	 AQreal:    0.62272  	 
+Exp: 3 - 	 Ger: 30 - 	 Best:    0.20770 - 	 Mean:    0.20835 - 	 AQreal:    0.58668  	 
+Exp: 4 - 	 Ger: 1 - 	 Best:    0.21102 - 	 Mean:    8.28051 - 	 AQreal:    1.00000  	 
+Exp: 4 - 	 Ger: 2 - 	 Best:    0.21102 - 	 Mean:    0.21272 - 	 AQreal:    1.00000  	 
+Exp: 4 - 	 Ger: 3 - 	 Best:    0.21071 - 	 Mean:    0.21233 - 	 AQreal:    1.00000  	 
+Exp: 4 - 	 Ger: 4 - 	 Best:    0.21071 - 	 Mean:    0.21198 - 	 AQreal:    1.00000  	 
+Exp: 4 - 	 Ger: 5 - 	 Best:    0.21036 - 	 Mean:    0.21165 - 	 AQreal:    0.78521  	 
+Exp: 4 - 	 Ger: 6 - 	 Best:    0.21036 - 	 Mean:    0.21151 - 	 AQreal:    0.78521  	 
+Exp: 4 - 	 Ger: 7 - 	 Best:    0.21032 - 	 Mean:    0.21120 - 	 AQreal:    0.78521  	 
+Exp: 4 - 	 Ger: 8 - 	 Best:    0.21032 - 	 Mean:    0.21102 - 	 AQreal:    0.78521  	 
+Exp: 4 - 	 Ger: 9 - 	 Best:    0.21032 - 	 Mean:    0.21088 - 	 AQreal:    0.78521  	 
+Exp: 4 - 	 Ger: 10 - 	 Best:    0.21032 - 	 Mean:    0.21083 - 	 AQreal:    0.77375  	 
+Exp: 4 - 	 Ger: 11 - 	 Best:    0.21032 - 	 Mean:    0.21082 - 	 AQreal:    0.77375  	 
+Exp: 4 - 	 Ger: 12 - 	 Best:    0.21032 - 	 Mean:    0.21080 - 	 AQreal:    0.77375  	 
+Exp: 4 - 	 Ger: 13 - 	 Best:    0.20991 - 	 Mean:    0.21069 - 	 AQreal:    0.77375  	 
+Exp: 4 - 	 Ger: 14 - 	 Best:    0.20991 - 	 Mean:    0.21064 - 	 AQreal:    0.77375  	 
+Exp: 4 - 	 Ger: 15 - 	 Best:    0.20991 - 	 Mean:    0.21060 - 	 AQreal:    0.64927  	 
+Exp: 4 - 	 Ger: 16 - 	 Best:    0.20991 - 	 Mean:    0.21060 - 	 AQreal:    0.64927  	 
+Exp: 4 - 	 Ger: 17 - 	 Best:    0.20991 - 	 Mean:    0.21054 - 	 AQreal:    0.64927  	 
+Exp: 4 - 	 Ger: 18 - 	 Best:    0.20991 - 	 Mean:    0.21052 - 	 AQreal:    0.64927  	 
+Exp: 4 - 	 Ger: 19 - 	 Best:    0.20991 - 	 Mean:    0.21052 - 	 AQreal:    0.64927  	 
+Exp: 4 - 	 Ger: 20 - 	 Best:    0.20991 - 	 Mean:    0.21052 - 	 AQreal:    0.55906  	 
+Exp: 4 - 	 Ger: 21 - 	 Best:    0.20991 - 	 Mean:    0.21050 - 	 AQreal:    0.55906  	 
+Exp: 4 - 	 Ger: 22 - 	 Best:    0.20991 - 	 Mean:    0.21049 - 	 AQreal:    0.55906  	 
+Exp: 4 - 	 Ger: 23 - 	 Best:    0.20991 - 	 Mean:    0.21049 - 	 AQreal:    0.55906  	 
+Exp: 4 - 	 Ger: 24 - 	 Best:    0.20991 - 	 Mean:    0.21047 - 	 AQreal:    0.55906  	 
+Exp: 4 - 	 Ger: 25 - 	 Best:    0.20977 - 	 Mean:    0.21044 - 	 AQreal:    0.54122  	 
+Exp: 4 - 	 Ger: 26 - 	 Best:    0.20977 - 	 Mean:    0.21038 - 	 AQreal:    0.54122  	 
+Exp: 4 - 	 Ger: 27 - 	 Best:    0.20977 - 	 Mean:    0.21031 - 	 AQreal:    0.54122  	 
+Exp: 4 - 	 Ger: 28 - 	 Best:    0.20875 - 	 Mean:    0.21022 - 	 AQreal:    0.54122  	 
+Exp: 4 - 	 Ger: 29 - 	 Best:    0.20875 - 	 Mean:    0.21021 - 	 AQreal:    0.54122  	 
+Exp: 4 - 	 Ger: 30 - 	 Best:    0.20875 - 	 Mean:    0.21017 - 	 AQreal:    0.47979  	 
+Exp: 5 - 	 Ger: 1 - 	 Best:    0.21280 - 	 Mean:    0.21597 - 	 AQreal:    1.00000  	 
+Exp: 5 - 	 Ger: 2 - 	 Best:    0.21280 - 	 Mean:    0.21434 - 	 AQreal:    1.00000  	 
+Exp: 5 - 	 Ger: 3 - 	 Best:    0.21175 - 	 Mean:    0.21357 - 	 AQreal:    1.00000  	 
+Exp: 5 - 	 Ger: 4 - 	 Best:    0.21175 - 	 Mean:    0.21338 - 	 AQreal:    1.00000  	 
+Exp: 5 - 	 Ger: 5 - 	 Best:    0.21175 - 	 Mean:    0.21313 - 	 AQreal:    0.82710  	 
+Exp: 5 - 	 Ger: 6 - 	 Best:    0.21175 - 	 Mean:    0.21291 - 	 AQreal:    0.82710  	 
+Exp: 5 - 	 Ger: 7 - 	 Best:    0.21099 - 	 Mean:    0.21276 - 	 AQreal:    0.82710  	 
+Exp: 5 - 	 Ger: 8 - 	 Best:    0.21099 - 	 Mean:    0.21267 - 	 AQreal:    0.82710  	 
+Exp: 5 - 	 Ger: 9 - 	 Best:    0.21099 - 	 Mean:    0.21260 - 	 AQreal:    0.82710  	 
+Exp: 5 - 	 Ger: 10 - 	 Best:    0.21099 - 	 Mean:    0.21251 - 	 AQreal:    0.81881  	 
+Exp: 5 - 	 Ger: 11 - 	 Best:    0.21099 - 	 Mean:    0.21234 - 	 AQreal:    0.81881  	 
+Exp: 5 - 	 Ger: 12 - 	 Best:    0.21099 - 	 Mean:    0.21217 - 	 AQreal:    0.81881  	 
+Exp: 5 - 	 Ger: 13 - 	 Best:    0.21099 - 	 Mean:    0.21211 - 	 AQreal:    0.81881  	 
+Exp: 5 - 	 Ger: 14 - 	 Best:    0.21099 - 	 Mean:    0.21205 - 	 AQreal:    0.81881  	 
+Exp: 5 - 	 Ger: 15 - 	 Best:    0.21099 - 	 Mean:    0.21194 - 	 AQreal:    0.70934  	 
+Exp: 5 - 	 Ger: 16 - 	 Best:    0.21099 - 	 Mean:    0.21188 - 	 AQreal:    0.70934  	 
+Exp: 5 - 	 Ger: 17 - 	 Best:    0.21072 - 	 Mean:    0.21182 - 	 AQreal:    0.70934  	 
+Exp: 5 - 	 Ger: 18 - 	 Best:    0.21072 - 	 Mean:    0.21177 - 	 AQreal:    0.70934  	 
+Exp: 5 - 	 Ger: 19 - 	 Best:    0.21072 - 	 Mean:    0.21174 - 	 AQreal:    0.70934  	 
+Exp: 5 - 	 Ger: 20 - 	 Best:    0.21072 - 	 Mean:    0.21173 - 	 AQreal:    0.67867  	 
+Exp: 5 - 	 Ger: 21 - 	 Best:    0.21072 - 	 Mean:    0.21168 - 	 AQreal:    0.67867  	 
+Exp: 5 - 	 Ger: 22 - 	 Best:    0.21072 - 	 Mean:    0.21166 - 	 AQreal:    0.67867  	 
+Exp: 5 - 	 Ger: 23 - 	 Best:    0.21072 - 	 Mean:    0.21165 - 	 AQreal:    0.67867  	 
+Exp: 5 - 	 Ger: 24 - 	 Best:    0.21072 - 	 Mean:    0.21163 - 	 AQreal:    0.67867  	 
+Exp: 5 - 	 Ger: 25 - 	 Best:    0.21072 - 	 Mean:    0.21159 - 	 AQreal:    0.65243  	 
+Exp: 5 - 	 Ger: 26 - 	 Best:    0.21072 - 	 Mean:    0.21154 - 	 AQreal:    0.65243  	 
+Exp: 5 - 	 Ger: 27 - 	 Best:    0.21072 - 	 Mean:    0.21149 - 	 AQreal:    0.65243  	 
+Exp: 5 - 	 Ger: 28 - 	 Best:    0.21072 - 	 Mean:    0.21143 - 	 AQreal:    0.65243  	 
+Exp: 5 - 	 Ger: 29 - 	 Best:    0.21020 - 	 Mean:    0.21137 - 	 AQreal:    0.65243  	 
+Exp: 5 - 	 Ger: 30 - 	 Best:    0.21020 - 	 Mean:    0.21131 - 	 AQreal:    0.56519  	 
+Exp: 6 - 	 Ger: 1 - 	 Best:    0.20827 - 	 Mean:    0.21049 - 	 AQreal:    1.00000  	 
+Exp: 6 - 	 Ger: 2 - 	 Best:    0.20782 - 	 Mean:    0.20940 - 	 AQreal:    1.00000  	 
+Exp: 6 - 	 Ger: 3 - 	 Best:    0.20782 - 	 Mean:    0.20904 - 	 AQreal:    1.00000  	 
+Exp: 6 - 	 Ger: 4 - 	 Best:    0.20782 - 	 Mean:    0.20888 - 	 AQreal:    1.00000  	 
+Exp: 6 - 	 Ger: 5 - 	 Best:    0.20779 - 	 Mean:    0.20871 - 	 AQreal:    0.84882  	 
+Exp: 6 - 	 Ger: 6 - 	 Best:    0.20779 - 	 Mean:    0.20855 - 	 AQreal:    0.84882  	 
+Exp: 6 - 	 Ger: 7 - 	 Best:    0.20779 - 	 Mean:    0.20852 - 	 AQreal:    0.84882  	 
+Exp: 6 - 	 Ger: 8 - 	 Best:    0.20779 - 	 Mean:    0.20842 - 	 AQreal:    0.84882  	 
+Exp: 6 - 	 Ger: 9 - 	 Best:    0.20737 - 	 Mean:    0.20829 - 	 AQreal:    0.84882  	 
+Exp: 6 - 	 Ger: 10 - 	 Best:    0.20737 - 	 Mean:    0.20819 - 	 AQreal:    0.67269  	 
+Exp: 6 - 	 Ger: 11 - 	 Best:    0.20737 - 	 Mean:    0.20811 - 	 AQreal:    0.67269  	 
+Exp: 6 - 	 Ger: 12 - 	 Best:    0.20736 - 	 Mean:    0.20802 - 	 AQreal:    0.67269  	 
+Exp: 6 - 	 Ger: 13 - 	 Best:    0.20736 - 	 Mean:    0.20798 - 	 AQreal:    0.67269  	 
+Exp: 6 - 	 Ger: 14 - 	 Best:    0.20736 - 	 Mean:    0.20793 - 	 AQreal:    0.67269  	 
+Exp: 6 - 	 Ger: 15 - 	 Best:    0.20736 - 	 Mean:    0.20792 - 	 AQreal:    0.57836  	 
+Exp: 6 - 	 Ger: 16 - 	 Best:    0.20736 - 	 Mean:    0.20789 - 	 AQreal:    0.57836  	 
+Exp: 6 - 	 Ger: 17 - 	 Best:    0.20649 - 	 Mean:    0.20782 - 	 AQreal:    0.57836  	 
+Exp: 6 - 	 Ger: 18 - 	 Best:    0.20649 - 	 Mean:    0.20777 - 	 AQreal:    0.57836  	 
+Exp: 6 - 	 Ger: 19 - 	 Best:    0.20649 - 	 Mean:    0.20768 - 	 AQreal:    0.57836  	 
+Exp: 6 - 	 Ger: 20 - 	 Best:    0.20649 - 	 Mean:    0.20767 - 	 AQreal:    0.49140  	 
+Exp: 6 - 	 Ger: 21 - 	 Best:    0.20649 - 	 Mean:    0.20766 - 	 AQreal:    0.49140  	 
+Exp: 6 - 	 Ger: 22 - 	 Best:    0.20649 - 	 Mean:    0.20763 - 	 AQreal:    0.49140  	 
+Exp: 6 - 	 Ger: 23 - 	 Best:    0.20649 - 	 Mean:    0.20762 - 	 AQreal:    0.49140  	 
+Exp: 6 - 	 Ger: 24 - 	 Best:    0.20649 - 	 Mean:    0.20762 - 	 AQreal:    0.49140  	 
+Exp: 6 - 	 Ger: 25 - 	 Best:    0.20649 - 	 Mean:    0.20760 - 	 AQreal:    0.48809  	 
+Exp: 6 - 	 Ger: 26 - 	 Best:    0.20649 - 	 Mean:    0.20757 - 	 AQreal:    0.48809  	 
+Exp: 6 - 	 Ger: 27 - 	 Best:    0.20649 - 	 Mean:    0.20753 - 	 AQreal:    0.48809  	 
+Exp: 6 - 	 Ger: 28 - 	 Best:    0.20642 - 	 Mean:    0.20743 - 	 AQreal:    0.48809  	 
+Exp: 6 - 	 Ger: 29 - 	 Best:    0.20642 - 	 Mean:    0.20738 - 	 AQreal:    0.48809  	 
+Exp: 6 - 	 Ger: 30 - 	 Best:    0.20642 - 	 Mean:    0.20734 - 	 AQreal:    0.43279  	 
+Exp: 7 - 	 Ger: 1 - 	 Best:    0.20819 - 	 Mean:    8.55000 - 	 AQreal:    1.00000  	 
+Exp: 7 - 	 Ger: 2 - 	 Best:    0.20819 - 	 Mean:    0.20993 - 	 AQreal:    1.00000  	 
+Exp: 7 - 	 Ger: 3 - 	 Best:    0.20772 - 	 Mean:    0.20939 - 	 AQreal:    1.00000  	 
+Exp: 7 - 	 Ger: 4 - 	 Best:    0.20772 - 	 Mean:    0.20916 - 	 AQreal:    1.00000  	 
+Exp: 7 - 	 Ger: 5 - 	 Best:    0.20769 - 	 Mean:    0.20891 - 	 AQreal:    0.99151  	 
+Exp: 7 - 	 Ger: 6 - 	 Best:    0.20769 - 	 Mean:    0.20885 - 	 AQreal:    0.99151  	 
+Exp: 7 - 	 Ger: 7 - 	 Best:    0.20768 - 	 Mean:    0.20876 - 	 AQreal:    0.99151  	 
+Exp: 7 - 	 Ger: 8 - 	 Best:    0.20768 - 	 Mean:    0.20871 - 	 AQreal:    0.99151  	 
+Exp: 7 - 	 Ger: 9 - 	 Best:    0.20768 - 	 Mean:    0.20858 - 	 AQreal:    0.99151  	 
+Exp: 7 - 	 Ger: 10 - 	 Best:    0.20768 - 	 Mean:    0.20849 - 	 AQreal:    0.86218  	 
+Exp: 7 - 	 Ger: 11 - 	 Best:    0.20759 - 	 Mean:    0.20838 - 	 AQreal:    0.86218  	 
+Exp: 7 - 	 Ger: 12 - 	 Best:    0.20759 - 	 Mean:    0.20831 - 	 AQreal:    0.86218  	 
+Exp: 7 - 	 Ger: 13 - 	 Best:    0.20759 - 	 Mean:    0.20830 - 	 AQreal:    0.86218  	 
+Exp: 7 - 	 Ger: 14 - 	 Best:    0.20759 - 	 Mean:    0.20821 - 	 AQreal:    0.86218  	 
+Exp: 7 - 	 Ger: 15 - 	 Best:    0.20759 - 	 Mean:    0.20818 - 	 AQreal:    0.69832  	 
+Exp: 7 - 	 Ger: 16 - 	 Best:    0.20759 - 	 Mean:    0.20811 - 	 AQreal:    0.69832  	 
+Exp: 7 - 	 Ger: 17 - 	 Best:    0.20759 - 	 Mean:    0.20809 - 	 AQreal:    0.69832  	 
+Exp: 7 - 	 Ger: 18 - 	 Best:    0.20759 - 	 Mean:    0.20805 - 	 AQreal:    0.69832  	 
+Exp: 7 - 	 Ger: 19 - 	 Best:    0.20759 - 	 Mean:    0.20799 - 	 AQreal:    0.69832  	 
+Exp: 7 - 	 Ger: 20 - 	 Best:    0.20759 - 	 Mean:    0.20795 - 	 AQreal:    0.60305  	 
+Exp: 7 - 	 Ger: 21 - 	 Best:    0.20759 - 	 Mean:    0.20792 - 	 AQreal:    0.60305  	 
+Exp: 7 - 	 Ger: 22 - 	 Best:    0.20759 - 	 Mean:    0.20790 - 	 AQreal:    0.60305  	 
+Exp: 7 - 	 Ger: 23 - 	 Best:    0.20759 - 	 Mean:    0.20788 - 	 AQreal:    0.60305  	 
+Exp: 7 - 	 Ger: 24 - 	 Best:    0.20759 - 	 Mean:    0.20786 - 	 AQreal:    0.60305  	 
+Exp: 7 - 	 Ger: 25 - 	 Best:    0.20759 - 	 Mean:    0.20786 - 	 AQreal:    0.55243  	 
+Exp: 7 - 	 Ger: 26 - 	 Best:    0.20759 - 	 Mean:    0.20785 - 	 AQreal:    0.55243  	 
+Exp: 7 - 	 Ger: 27 - 	 Best:    0.20759 - 	 Mean:    0.20785 - 	 AQreal:    0.55243  	 
+Exp: 7 - 	 Ger: 28 - 	 Best:    0.20759 - 	 Mean:    0.20784 - 	 AQreal:    0.55243  	 
+Exp: 7 - 	 Ger: 29 - 	 Best:    0.20759 - 	 Mean:    0.20783 - 	 AQreal:    0.55243  	 
+Exp: 7 - 	 Ger: 30 - 	 Best:    0.20759 - 	 Mean:    0.20782 - 	 AQreal:    0.54861  	 
+Exp: 8 - 	 Ger: 1 - 	 Best:    0.21007 - 	 Mean:   18.13025 - 	 AQreal:    1.00000  	 
+Exp: 8 - 	 Ger: 2 - 	 Best:    0.20876 - 	 Mean:    0.21158 - 	 AQreal:    1.00000  	 
+Exp: 8 - 	 Ger: 3 - 	 Best:    0.20876 - 	 Mean:    0.21113 - 	 AQreal:    1.00000  	 
+Exp: 8 - 	 Ger: 4 - 	 Best:    0.20876 - 	 Mean:    0.21081 - 	 AQreal:    1.00000  	 
+Exp: 8 - 	 Ger: 5 - 	 Best:    0.20876 - 	 Mean:    0.21051 - 	 AQreal:    0.80783  	 
+Exp: 8 - 	 Ger: 6 - 	 Best:    0.20876 - 	 Mean:    0.21039 - 	 AQreal:    0.80783  	 
+Exp: 8 - 	 Ger: 7 - 	 Best:    0.20876 - 	 Mean:    0.21012 - 	 AQreal:    0.80783  	 
+Exp: 8 - 	 Ger: 8 - 	 Best:    0.20876 - 	 Mean:    0.21001 - 	 AQreal:    0.80783  	 
+Exp: 8 - 	 Ger: 9 - 	 Best:    0.20876 - 	 Mean:    0.20997 - 	 AQreal:    0.80783  	 
+Exp: 8 - 	 Ger: 10 - 	 Best:    0.20876 - 	 Mean:    0.20993 - 	 AQreal:    0.67221  	 
+Exp: 8 - 	 Ger: 11 - 	 Best:    0.20876 - 	 Mean:    0.20984 - 	 AQreal:    0.67221  	 
+Exp: 8 - 	 Ger: 12 - 	 Best:    0.20876 - 	 Mean:    0.20982 - 	 AQreal:    0.67221  	 
+Exp: 8 - 	 Ger: 13 - 	 Best:    0.20876 - 	 Mean:    0.20982 - 	 AQreal:    0.67221  	 
+Exp: 8 - 	 Ger: 14 - 	 Best:    0.20876 - 	 Mean:    0.20978 - 	 AQreal:    0.67221  	 
+Exp: 8 - 	 Ger: 15 - 	 Best:    0.20876 - 	 Mean:    0.20970 - 	 AQreal:    0.64688  	 
+Exp: 8 - 	 Ger: 16 - 	 Best:    0.20876 - 	 Mean:    0.20965 - 	 AQreal:    0.64688  	 
+Exp: 8 - 	 Ger: 17 - 	 Best:    0.20876 - 	 Mean:    0.20964 - 	 AQreal:    0.64688  	 
+Exp: 8 - 	 Ger: 18 - 	 Best:    0.20876 - 	 Mean:    0.20961 - 	 AQreal:    0.64688  	 
+Exp: 8 - 	 Ger: 19 - 	 Best:    0.20876 - 	 Mean:    0.20960 - 	 AQreal:    0.64688  	 
+Exp: 8 - 	 Ger: 20 - 	 Best:    0.20876 - 	 Mean:    0.20960 - 	 AQreal:    0.56813  	 
+Exp: 8 - 	 Ger: 21 - 	 Best:    0.20876 - 	 Mean:    0.20957 - 	 AQreal:    0.56813  	 
+Exp: 8 - 	 Ger: 22 - 	 Best:    0.20876 - 	 Mean:    0.20950 - 	 AQreal:    0.56813  	 
+Exp: 8 - 	 Ger: 23 - 	 Best:    0.20876 - 	 Mean:    0.20947 - 	 AQreal:    0.56813  	 
+Exp: 8 - 	 Ger: 24 - 	 Best:    0.20876 - 	 Mean:    0.20942 - 	 AQreal:    0.56813  	 
+Exp: 8 - 	 Ger: 25 - 	 Best:    0.20876 - 	 Mean:    0.20941 - 	 AQreal:    0.56092  	 
+Exp: 8 - 	 Ger: 26 - 	 Best:    0.20876 - 	 Mean:    0.20938 - 	 AQreal:    0.56092  	 
+Exp: 8 - 	 Ger: 27 - 	 Best:    0.20807 - 	 Mean:    0.20931 - 	 AQreal:    0.56092  	 
+Exp: 8 - 	 Ger: 28 - 	 Best:    0.20807 - 	 Mean:    0.20930 - 	 AQreal:    0.56092  	 
+Exp: 8 - 	 Ger: 29 - 	 Best:    0.20807 - 	 Mean:    0.20926 - 	 AQreal:    0.56092  	 
+Exp: 8 - 	 Ger: 30 - 	 Best:    0.20807 - 	 Mean:    0.20921 - 	 AQreal:    0.48236  	 
+Exp: 9 - 	 Ger: 1 - 	 Best:    0.21085 - 	 Mean:    0.21391 - 	 AQreal:    1.00000  	 
+Exp: 9 - 	 Ger: 2 - 	 Best:    0.21013 - 	 Mean:    0.21266 - 	 AQreal:    1.00000  	 
+Exp: 9 - 	 Ger: 3 - 	 Best:    0.21013 - 	 Mean:    0.21232 - 	 AQreal:    1.00000  	 
+Exp: 9 - 	 Ger: 4 - 	 Best:    0.21013 - 	 Mean:    0.21197 - 	 AQreal:    1.00000  	 
+Exp: 9 - 	 Ger: 5 - 	 Best:    0.21006 - 	 Mean:    0.21151 - 	 AQreal:    0.99414  	 
+Exp: 9 - 	 Ger: 6 - 	 Best:    0.21006 - 	 Mean:    0.21134 - 	 AQreal:    0.99414  	 
+Exp: 9 - 	 Ger: 7 - 	 Best:    0.21006 - 	 Mean:    0.21111 - 	 AQreal:    0.99414  	 
+Exp: 9 - 	 Ger: 8 - 	 Best:    0.21006 - 	 Mean:    0.21111 - 	 AQreal:    0.99414  	 
+Exp: 9 - 	 Ger: 9 - 	 Best:    0.21006 - 	 Mean:    0.21101 - 	 AQreal:    0.99414  	 
+Exp: 9 - 	 Ger: 10 - 	 Best:    0.20984 - 	 Mean:    0.21088 - 	 AQreal:    0.77942  	 
+Exp: 9 - 	 Ger: 11 - 	 Best:    0.20984 - 	 Mean:    0.21084 - 	 AQreal:    0.77942  	 
+Exp: 9 - 	 Ger: 12 - 	 Best:    0.20984 - 	 Mean:    0.21081 - 	 AQreal:    0.77942  	 
+Exp: 9 - 	 Ger: 13 - 	 Best:    0.20984 - 	 Mean:    0.21075 - 	 AQreal:    0.77942  	 
+Exp: 9 - 	 Ger: 14 - 	 Best:    0.20984 - 	 Mean:    0.21072 - 	 AQreal:    0.77942  	 
+Exp: 9 - 	 Ger: 15 - 	 Best:    0.20984 - 	 Mean:    0.21064 - 	 AQreal:    0.63761  	 
+Exp: 9 - 	 Ger: 16 - 	 Best:    0.20984 - 	 Mean:    0.21062 - 	 AQreal:    0.63761  	 
+Exp: 9 - 	 Ger: 17 - 	 Best:    0.20984 - 	 Mean:    0.21058 - 	 AQreal:    0.63761  	 
+Exp: 9 - 	 Ger: 18 - 	 Best:    0.20984 - 	 Mean:    0.21057 - 	 AQreal:    0.63761  	 
+Exp: 9 - 	 Ger: 19 - 	 Best:    0.20942 - 	 Mean:    0.21047 - 	 AQreal:    0.63761  	 
+Exp: 9 - 	 Ger: 20 - 	 Best:    0.20942 - 	 Mean:    0.21047 - 	 AQreal:    0.62021  	 
+Exp: 9 - 	 Ger: 21 - 	 Best:    0.20942 - 	 Mean:    0.21044 - 	 AQreal:    0.62021  	 
+Exp: 9 - 	 Ger: 22 - 	 Best:    0.20942 - 	 Mean:    0.21038 - 	 AQreal:    0.62021  	 
+Exp: 9 - 	 Ger: 23 - 	 Best:    0.20942 - 	 Mean:    0.21036 - 	 AQreal:    0.62021  	 
+Exp: 9 - 	 Ger: 24 - 	 Best:    0.20942 - 	 Mean:    0.21028 - 	 AQreal:    0.62021  	 
+Exp: 9 - 	 Ger: 25 - 	 Best:    0.20942 - 	 Mean:    0.21023 - 	 AQreal:    0.49689  	 
+Exp: 9 - 	 Ger: 26 - 	 Best:    0.20942 - 	 Mean:    0.21017 - 	 AQreal:    0.49689  	 
+Exp: 9 - 	 Ger: 27 - 	 Best:    0.20942 - 	 Mean:    0.21016 - 	 AQreal:    0.49689  	 
+Exp: 9 - 	 Ger: 28 - 	 Best:    0.20942 - 	 Mean:    0.21012 - 	 AQreal:    0.49689  	 
+Exp: 9 - 	 Ger: 29 - 	 Best:    0.20942 - 	 Mean:    0.21011 - 	 AQreal:    0.49689  	 
+Exp: 9 - 	 Ger: 30 - 	 Best:    0.20942 - 	 Mean:    0.21011 - 	 AQreal:    0.48912  	 
+Exp: 10 - 	 Ger: 1 - 	 Best:    0.20980 - 	 Mean:    0.21256 - 	 AQreal:    1.00000  	 
+Exp: 10 - 	 Ger: 2 - 	 Best:    0.20980 - 	 Mean:    0.21160 - 	 AQreal:    1.00000  	 
+Exp: 10 - 	 Ger: 3 - 	 Best:    0.20980 - 	 Mean:    0.21104 - 	 AQreal:    1.00000  	 
+Exp: 10 - 	 Ger: 4 - 	 Best:    0.20980 - 	 Mean:    0.21073 - 	 AQreal:    1.00000  	 
+Exp: 10 - 	 Ger: 5 - 	 Best:    0.20961 - 	 Mean:    0.21049 - 	 AQreal:    0.89944  	 
+Exp: 10 - 	 Ger: 6 - 	 Best:    0.20934 - 	 Mean:    0.21031 - 	 AQreal:    0.89944  	 
+Exp: 10 - 	 Ger: 7 - 	 Best:    0.20934 - 	 Mean:    0.21013 - 	 AQreal:    0.89944  	 
+Exp: 10 - 	 Ger: 8 - 	 Best:    0.20934 - 	 Mean:    0.21009 - 	 AQreal:    0.89944  	 
+Exp: 10 - 	 Ger: 9 - 	 Best:    0.20934 - 	 Mean:    0.21005 - 	 AQreal:    0.89944  	 
+Exp: 10 - 	 Ger: 10 - 	 Best:    0.20933 - 	 Mean:    0.20995 - 	 AQreal:    0.74440  	 
+Exp: 10 - 	 Ger: 11 - 	 Best:    0.20889 - 	 Mean:    0.20979 - 	 AQreal:    0.74440  	 
+Exp: 10 - 	 Ger: 12 - 	 Best:    0.20889 - 	 Mean:    0.20971 - 	 AQreal:    0.74440  	 
+Exp: 10 - 	 Ger: 13 - 	 Best:    0.20889 - 	 Mean:    0.20960 - 	 AQreal:    0.74440  	 
+Exp: 10 - 	 Ger: 14 - 	 Best:    0.20869 - 	 Mean:    0.20949 - 	 AQreal:    0.74440  	 
+Exp: 10 - 	 Ger: 15 - 	 Best:    0.20869 - 	 Mean:    0.20943 - 	 AQreal:    0.61570  	 
+Exp: 10 - 	 Ger: 16 - 	 Best:    0.20854 - 	 Mean:    0.20936 - 	 AQreal:    0.61570  	 
+Exp: 10 - 	 Ger: 17 - 	 Best:    0.20854 - 	 Mean:    0.20936 - 	 AQreal:    0.61570  	 
+Exp: 10 - 	 Ger: 18 - 	 Best:    0.20854 - 	 Mean:    0.20931 - 	 AQreal:    0.61570  	 
+Exp: 10 - 	 Ger: 19 - 	 Best:    0.20854 - 	 Mean:    0.20931 - 	 AQreal:    0.61570  	 
+Exp: 10 - 	 Ger: 20 - 	 Best:    0.20854 - 	 Mean:    0.20926 - 	 AQreal:    0.56868  	 
+Exp: 10 - 	 Ger: 21 - 	 Best:    0.20854 - 	 Mean:    0.20926 - 	 AQreal:    0.56868  	 
+Exp: 10 - 	 Ger: 22 - 	 Best:    0.20854 - 	 Mean:    0.20923 - 	 AQreal:    0.56868  	 
+Exp: 10 - 	 Ger: 23 - 	 Best:    0.20854 - 	 Mean:    0.20921 - 	 AQreal:    0.56868  	 
+Exp: 10 - 	 Ger: 24 - 	 Best:    0.20854 - 	 Mean:    0.20920 - 	 AQreal:    0.56868  	 
+Exp: 10 - 	 Ger: 25 - 	 Best:    0.20854 - 	 Mean:    0.20915 - 	 AQreal:    0.56249  	 
+Exp: 10 - 	 Ger: 26 - 	 Best:    0.20796 - 	 Mean:    0.20908 - 	 AQreal:    0.56249  	 
+Exp: 10 - 	 Ger: 27 - 	 Best:    0.20782 - 	 Mean:    0.20894 - 	 AQreal:    0.56249  	 
+Exp: 10 - 	 Ger: 28 - 	 Best:    0.20782 - 	 Mean:    0.20893 - 	 AQreal:    0.56249  	 
+Exp: 10 - 	 Ger: 29 - 	 Best:    0.20782 - 	 Mean:    0.20892 - 	 AQreal:    0.56249  	 
+Exp: 10 - 	 Ger: 30 - 	 Best:    0.20782 - 	 Mean:    0.20891 - 	 AQreal:    0.46030  	 
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+
+
+             Etapa 1
+
+Exp 1 - Aptidao: 0.214307
+Exp 2 - Aptidao: 0.208683
+Exp 3 - Aptidao: 0.211158
+Exp 4 - Aptidao: 0.212470
+Exp 5 - Aptidao: 0.214076
+Exp 6 - Aptidao: 0.210115
+Exp 7 - Aptidao: 0.210398
+Exp 8 - Aptidao: 0.212064
+Exp 9 - Aptidao: 0.213300
+Exp 10 - Aptidao: 0.211269
+
+Aptidão Média: 0.211784
+
+Aptidão Desvio: 0.001809
+
+Tempo Total(10 experimentos): 1504433.718174 s
+
+
+             Etapa 2 - Random
+
+                RMSE_mV
+
+Exp 1 - Treinamento: 0.203253  Validacao: 0.212837  Teste: 0.345683  SRG: 348.529453
+Exp 2 - Treinamento: 0.200774  Validacao: 0.207659  Teste: 0.602864  SRG: 175.992167
+Exp 3 - Treinamento: 0.202960  Validacao: 0.210411  Teste: 0.372291  SRG: 321.934082
+Exp 4 - Treinamento: 0.204881  Validacao: 0.210195  Teste: 0.363737  SRG: 169.230660
+Exp 5 - Treinamento: 0.203904  Validacao: 0.210636  Teste: 0.347206  SRG: 261.664770
+Exp 6 - Treinamento: 0.201882  Validacao: 0.208973  Teste: 0.331630  SRG: 192.048170
+Exp 7 - Treinamento: 0.201633  Validacao: 0.208973  Teste: 0.393323  SRG: 209.506780
+Exp 8 - Treinamento: 0.203439  Validacao: 0.211037  Teste: 0.380428  SRG: 149.592659
+Exp 9 - Treinamento: 0.204907  Validacao: 0.211984  Teste: 0.523120  SRG: 246.569337
+Exp 10 - Treinamento: 0.201311  Validacao: 0.209017  Teste: 0.431829  SRG: 269.043492
+
+Média: Treinamento: 0.202894  Validacao: 0.210172  Teste: 0.409211
+
+Desvio: Treinamento: 0.001456  Validacao: 0.001561  Teste: 0.087813
+
+Melhor: Treinamento: 0.201882  Validacao: 0.208973  Teste: 0.331630  SRG: 192.048170
+
+                fit
+
+Exp 1 - Treinamento: 99.628436  Validacao: 99.587958  Teste: 99.346771  SRG: 348.529453
+Exp 2 - Treinamento: 99.632968  Validacao: 99.597981  Teste: 98.860781  SRG: 175.992167
+Exp 3 - Treinamento: 99.628972  Validacao: 99.592654  Teste: 99.296491  SRG: 321.934082
+Exp 4 - Treinamento: 99.625460  Validacao: 99.593073  Teste: 99.312655  SRG: 169.230660
+Exp 5 - Treinamento: 99.627246  Validacao: 99.592218  Teste: 99.343893  SRG: 261.664770
+Exp 6 - Treinamento: 99.630942  Validacao: 99.595437  Teste: 99.373327  SRG: 192.048170
+Exp 7 - Treinamento: 99.631398  Validacao: 99.595437  Teste: 99.256746  SRG: 209.506780
+Exp 8 - Treinamento: 99.628096  Validacao: 99.591442  Teste: 99.281114  SRG: 149.592659
+Exp 9 - Treinamento: 99.625413  Validacao: 99.589608  Teste: 99.011472  SRG: 246.569337
+Exp 10 - Treinamento: 99.631987  Validacao: 99.595353  Teste: 99.183982  SRG: 269.043492
+
+Média: Treinamento: 99.629092  Validacao: 99.593116  Teste: 99.226723
+
+Desvio: Treinamento: 0.002661  Validacao: 0.003022  Teste: 0.165938
+
+Melhor: Treinamento: 99.630942  Validacao: 99.595437  Teste: 99.373327  SRG: 192.048170
+                RRSE
+
+Exp 1 - Treinamento: 0.003716  Validacao: 0.004120  Teste: 0.006532  SRG: 348.529453
+Exp 2 - Treinamento: 0.003670  Validacao: 0.004020  Teste: 0.011392  SRG: 175.992167
+Exp 3 - Treinamento: 0.003710  Validacao: 0.004073  Teste: 0.007035  SRG: 321.934082
+Exp 4 - Treinamento: 0.003745  Validacao: 0.004069  Teste: 0.006873  SRG: 169.230660
+Exp 5 - Treinamento: 0.003728  Validacao: 0.004078  Teste: 0.006561  SRG: 261.664770
+Exp 6 - Treinamento: 0.003691  Validacao: 0.004046  Teste: 0.006267  SRG: 192.048170
+Exp 7 - Treinamento: 0.003686  Validacao: 0.004046  Teste: 0.007433  SRG: 209.506780
+Exp 8 - Treinamento: 0.003719  Validacao: 0.004086  Teste: 0.007189  SRG: 149.592659
+Exp 9 - Treinamento: 0.003746  Validacao: 0.004104  Teste: 0.009885  SRG: 246.569337
+Exp 10 - Treinamento: 0.003680  Validacao: 0.004046  Teste: 0.008160  SRG: 269.043492
+
+Média: Treinamento: 0.003709  Validacao: 0.004069  Teste: 0.007733
+
+Desvio: Treinamento: 0.000027  Validacao: 0.000030  Teste: 0.001659
+
+Melhor: Treinamento: 0.003691  Validacao: 0.004046  Teste: 0.006267  SRG: 192.048170
+
+Tempo Total(10 experimentos): 8170.103860 s
+
+
+             Etapa 2 - SRG
+
+                RMSE_mV
+
+Exp 1 - Treinamento: 0.204305  Validacao: 0.215345  Teste: 0.362993  SRG: 341.099267
+Exp 2 - Treinamento: 0.201788  Validacao: 0.209737  Teste: 0.413303  SRG: 158.698514
+Exp 3 - Treinamento: 0.201472  Validacao: 0.211791  Teste: 0.327616  SRG: 309.075647
+Exp 4 - Treinamento: 0.204557  Validacao: 0.212593  Teste: 0.343195  SRG: 161.042430
+Exp 5 - Treinamento: 0.205194  Validacao: 0.213936  Teste: 0.386961  SRG: 256.916369
+Exp 6 - Treinamento: 0.202054  Validacao: 0.212559  Teste: 0.471601  SRG: 180.727873
+Exp 7 - Treinamento: 0.204570  Validacao: 0.214469  Teste: 0.383360  SRG: 196.798299
+Exp 8 - Treinamento: 0.203439  Validacao: 0.211037  Teste: 0.380428  SRG: 149.592659
+Exp 9 - Treinamento: 0.203642  Validacao: 0.213157  Teste: 0.344946  SRG: 243.553989
+Exp 10 - Treinamento: 0.202164  Validacao: 0.210819  Teste: 0.377721  SRG: 256.200627
+
+Média: Treinamento: 0.203319  Validacao: 0.212544  Teste: 0.379212
+
+Desvio: Treinamento: 0.001350  Validacao: 0.001750  Teste: 0.041063
+
+Melhor: Treinamento: 0.201472  Validacao: 0.211791  Teste: 0.327616  SRG: 309.075647
+
+                fit
+
+Exp 1 - Treinamento: 99.626512  Validacao: 99.583102  Teste: 99.314060  SRG: 341.099267
+Exp 2 - Treinamento: 99.631114  Validacao: 99.593958  Teste: 99.218990  SRG: 158.698514
+Exp 3 - Treinamento: 99.631692  Validacao: 99.589982  Teste: 99.380912  SRG: 309.075647
+Exp 4 - Treinamento: 99.626053  Validacao: 99.588429  Teste: 99.351473  SRG: 161.042430
+Exp 5 - Treinamento: 99.624887  Validacao: 99.585829  Teste: 99.268768  SRG: 256.916369
+Exp 6 - Treinamento: 99.630627  Validacao: 99.588495  Teste: 99.108826  SRG: 180.727873
+Exp 7 - Treinamento: 99.626029  Validacao: 99.584798  Teste: 99.275574  SRG: 196.798299
+Exp 8 - Treinamento: 99.628096  Validacao: 99.591442  Teste: 99.281114  SRG: 149.592659
+Exp 9 - Treinamento: 99.627726  Validacao: 99.587338  Teste: 99.348164  SRG: 243.553989
+Exp 10 - Treinamento: 99.630427  Validacao: 99.591865  Teste: 99.286230  SRG: 256.200627
+
+Média: Treinamento: 99.628316  Validacao: 99.588524  Teste: 99.283411
+
+Desvio: Treinamento: 0.002467  Validacao: 0.003388  Teste: 0.077596
+
+Melhor: Treinamento: 99.631692  Validacao: 99.589982  Teste: 99.380912  SRG: 309.075647
+                RRSE
+
+Exp 1 - Treinamento: 0.003735  Validacao: 0.004169  Teste: 0.006859  SRG: 341.099267
+Exp 2 - Treinamento: 0.003689  Validacao: 0.004060  Teste: 0.007810  SRG: 158.698514
+Exp 3 - Treinamento: 0.003683  Validacao: 0.004100  Teste: 0.006191  SRG: 309.075647
+Exp 4 - Treinamento: 0.003739  Validacao: 0.004116  Teste: 0.006485  SRG: 161.042430
+Exp 5 - Treinamento: 0.003751  Validacao: 0.004142  Teste: 0.007312  SRG: 256.916369
+Exp 6 - Treinamento: 0.003694  Validacao: 0.004115  Teste: 0.008912  SRG: 180.727873
+Exp 7 - Treinamento: 0.003740  Validacao: 0.004152  Teste: 0.007244  SRG: 196.798299
+Exp 8 - Treinamento: 0.003719  Validacao: 0.004086  Teste: 0.007189  SRG: 149.592659
+Exp 9 - Treinamento: 0.003723  Validacao: 0.004127  Teste: 0.006518  SRG: 243.553989
+Exp 10 - Treinamento: 0.003696  Validacao: 0.004081  Teste: 0.007138  SRG: 256.200627
+
+Média: Treinamento: 0.003717  Validacao: 0.004115  Teste: 0.007166
+
+Desvio: Treinamento: 0.000025  Validacao: 0.000034  Teste: 0.000776
+
+Melhor: Treinamento: 0.003683  Validacao: 0.004100  Teste: 0.006191  SRG: 309.075647
+
+Tempo Total(10 experimentos): 7026.894720 s
+
+
+             Etapa 2 - Otimização dos pesos do reservatório
+
+                RMSE_mV
+
+Exp 1 - Treinamento: 0.203010  Validacao: 0.209414  Teste: 0.341469  SRG: 339.212106
+Exp 2 - Treinamento: 0.200422  Validacao: 0.206440  Teste: 0.404311  SRG: 175.594093
+Exp 3 - Treinamento: 0.201519  Validacao: 0.207762  Teste: 0.335533  SRG: 323.328091
+Exp 4 - Treinamento: 0.204653  Validacao: 0.208755  Teste: 0.339644  SRG: 167.644349
+Exp 5 - Treinamento: 0.204918  Validacao: 0.210201  Teste: 0.328428  SRG: 265.872815
+Exp 6 - Treinamento: 0.201144  Validacao: 0.206428  Teste: 0.363950  SRG: 184.632267
+Exp 7 - Treinamento: 0.201668  Validacao: 0.207583  Teste: 0.394154  SRG: 206.976737
+Exp 8 - Treinamento: 0.203709  Validacao: 0.208074  Teste: 0.377302  SRG: 157.513358
+Exp 9 - Treinamento: 0.202593  Validacao: 0.209412  Teste: 0.345669  SRG: 255.875307
+Exp 10 - Treinamento: 0.201994  Validacao: 0.207820  Teste: 0.401864  SRG: 260.417680
+
+Média: Treinamento: 0.202563  Validacao: 0.208189  Teste: 0.363232
+
+Desvio: Treinamento: 0.001499  Validacao: 0.001257  Teste: 0.029158
+
+Melhor: Treinamento: 0.204918  Validacao: 0.210201  Teste: 0.328428  SRG: 265.872815
+
+                fit
+
+Exp 1 - Treinamento: 99.628880  Validacao: 99.594585  Teste: 99.354733  SRG: 339.212106
+Exp 2 - Treinamento: 99.633612  Validacao: 99.600342  Teste: 99.235982  SRG: 175.594093
+Exp 3 - Treinamento: 99.631605  Validacao: 99.597782  Teste: 99.365951  SRG: 323.328091
+Exp 4 - Treinamento: 99.625878  Validacao: 99.595859  Teste: 99.358182  SRG: 167.644349
+Exp 5 - Treinamento: 99.625393  Validacao: 99.593060  Teste: 99.379378  SRG: 265.872815
+Exp 6 - Treinamento: 99.632291  Validacao: 99.600364  Teste: 99.312252  SRG: 184.632267
+Exp 7 - Treinamento: 99.631333  Validacao: 99.598129  Teste: 99.255175  SRG: 206.976737
+Exp 8 - Treinamento: 99.627603  Validacao: 99.597178  Teste: 99.287021  SRG: 157.513358
+Exp 9 - Treinamento: 99.629643  Validacao: 99.594588  Teste: 99.346797  SRG: 255.875307
+Exp 10 - Treinamento: 99.630739  Validacao: 99.597670  Teste: 99.240607  SRG: 260.417680
+
+Média: Treinamento: 99.629698  Validacao: 99.596956  Teste: 99.313608
+
+Desvio: Treinamento: 0.002741  Validacao: 0.002434  Teste: 0.055099
+
+Melhor: Treinamento: 99.625393  Validacao: 99.593060  Teste: 99.379378  SRG: 265.872815
+                RRSE
+
+Exp 1 - Treinamento: 0.003711  Validacao: 0.004054  Teste: 0.006453  SRG: 339.212106
+Exp 2 - Treinamento: 0.003664  Validacao: 0.003997  Teste: 0.007640  SRG: 175.594093
+Exp 3 - Treinamento: 0.003684  Validacao: 0.004022  Teste: 0.006340  SRG: 323.328091
+Exp 4 - Treinamento: 0.003741  Validacao: 0.004041  Teste: 0.006418  SRG: 167.644349
+Exp 5 - Treinamento: 0.003746  Validacao: 0.004069  Teste: 0.006206  SRG: 265.872815
+Exp 6 - Treinamento: 0.003677  Validacao: 0.003996  Teste: 0.006877  SRG: 184.632267
+Exp 7 - Treinamento: 0.003687  Validacao: 0.004019  Teste: 0.007448  SRG: 206.976737
+Exp 8 - Treinamento: 0.003724  Validacao: 0.004028  Teste: 0.007130  SRG: 157.513358
+Exp 9 - Treinamento: 0.003704  Validacao: 0.004054  Teste: 0.006532  SRG: 255.875307
+Exp 10 - Treinamento: 0.003693  Validacao: 0.004023  Teste: 0.007594  SRG: 260.417680
+
+Média: Treinamento: 0.003703  Validacao: 0.004030  Teste: 0.006864
+
+Desvio: Treinamento: 0.000027  Validacao: 0.000024  Teste: 0.000551
+
+Melhor: Treinamento: 0.003746  Validacao: 0.004069  Teste: 0.006206  SRG: 265.872815
+
+Tempo Total(10 experimentos): 469059.493014 s

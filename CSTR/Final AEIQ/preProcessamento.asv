@@ -1,0 +1,89 @@
+% pre processamento dados secador
+
+clear all
+close all
+clc
+
+load cstr.dat
+
+u1 = cstr(:,2);
+
+
+y1 = cstr(:,3);
+y2 = cstr(:,4);
+
+
+
+uTreino = [u1(1:2500)] ;
+uValidacao = [u1(2501:5000)];
+uTeste = [u1(5001:end)];
+
+uMin = min ([uTreino; uValidacao; uTeste]);
+%uMin = 0;
+uMax = max ([uTreino; uValidacao; uTeste]);
+%uMax = 1;
+
+trainInputSequence = normaliza  (uTreino,uMin,uMax);
+valInputSequence = normaliza  (uValidacao,uMin,uMax);
+testInputSequence = normaliza  (uTeste,uMin,uMax);
+
+yTreino = [y1(1:2500) y2(1:2500)] ;
+yValidacao = [y1(01:7600) y2(5601:7600)];
+yTeste = [y1(7601:end) y2(7601:end)];
+
+yMin = min ([yTreino; yValidacao; yTeste]);
+yMax = max ([yTreino; yValidacao; yTeste]);
+
+% yMin = 0; % não normaliza
+% yMax = 1; % não normaliza
+
+trainOutputSequence = normaliza  (yTreino,yMin,yMax);
+valOutputSequence = normaliza  (yValidacao,yMin,yMax);
+testOutputSequence = normaliza  (yTeste,yMin,yMax);
+
+clear u y
+
+save steamNorm
+
+% subplot(3,1,1);
+% plot(uTreino,'b');
+% hold on
+% legend('Real','Previsto');
+% xlabel('Amostras','FontSize',14);
+% ylabel('u(k) ','FontSize',14);
+% title('Treinamento','FontSize',14);
+% subplot(3,1,2);
+% plot(uValidacao,'b');
+% legend('Real','Previsto');
+% xlabel('Amostras','FontSize',14);
+% ylabel('u(k) ','FontSize',14);
+% title('Validação','FontSize',14);
+% subplot(3,1,3);
+% plot(uTeste,'b');
+% hold on
+% legend('Real','Previsto');
+% xlabel('Amostras','FontSize',14);
+% ylabel('u(k) ','FontSize',14);
+% title('Teste','FontSize',14);
+% 
+% figure;
+% subplot(3,1,1);
+% plot(yTreino,'b');
+% hold on
+% legend('Real','Previsto');
+% xlabel('Amostras','FontSize',14);
+% ylabel('y(k) ','FontSize',14);
+% title('Treinamento','FontSize',14);
+% subplot(3,1,2);
+% plot(yValidacao,'b');
+% legend('Real','Previsto');
+% xlabel('Amostras','FontSize',14);
+% ylabel('y(k) ','FontSize',14);
+% title('Validação','FontSize',14);
+% subplot(3,1,3);
+% plot(yTeste,'b');
+% hold on
+% legend('Real','Previsto');
+% xlabel('Amostras','FontSize',14);
+% ylabel('y(k) ','FontSize',14);
+% title('Teste','FontSize',14);
